@@ -20,8 +20,13 @@ with open(os.path.join(__folder__, "rawlist.txt"), "w") as fp:
         fp.write(i+"\n")
 
 with open(os.path.join(__folder__, "list.txt"), 'w') as fp:
+    s = ""
     for i in ips:
-        fp.write("|{}\n".format(i))
+        s +="|{}\n".format(i)
+    s = base64.b64encode(s.encode('utf8'))
+    for i in range(0, len(s), 64):
+        fp.write(s[i:i+64])
+        fp.write("\n")
 
 if git.status("--short") != "":
     git.add(".")
