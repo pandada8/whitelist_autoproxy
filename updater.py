@@ -12,7 +12,7 @@ l = requests.get("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-li
 
 for i in l.split("\n")[1:]:
     if i and regex.search(i):
-        ips.append(regex.search(i).group())
+        ips.append(regex.search(i).groups()[0])
 
 
 with open(os.path.join(__folder__, "rawlist.txt"), "w") as fp:
