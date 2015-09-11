@@ -10,6 +10,7 @@ __folder__ = os.path.split(__file__)[0]
 regex = re.compile(r"\/(.+)\/")
 l = requests.get("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf").text
 
+print("Finish download")
 for i in l.split("\n")[1:]:
     if i and regex.search(i):
         ips.append(regex.search(i).groups()[0])
@@ -20,15 +21,17 @@ with open(os.path.join(__folder__, "rawlist.txt"), "w") as fp:
         fp.write(i+"\n")
 
 with open(os.path.join(__folder__, "list.txt"), 'w') as fp:
-    s = ""
+    # s = "[AutoProxy 0.2.9]\n"
     for i in ips:
-        s +="|{}\n".format(i)
-    s = base64.b64encode(s.encode('utf8')).decode()
-    for i in range(0, len(s), 64):
-        fp.write(s[i:i+64])
-        fp.write("\n")
+        fp.write("||{}\n".format(i))
+    # s = base64.b64encode(s.encode('utf8')).decode()
+    # for i in range(0, len(s), 64):
+        # fp.write(s[i:i+64])
+        # fp.write("\n")
 
 if git.status("--short") != "":
+    print("updating")
     git.add(".")
     git.commit("-m", "update")
     git.push()
+    print("updating finished")
