@@ -11,6 +11,11 @@ os.chdir(__folder__)
 regex = re.compile(r"\/(.+)\/")
 l = requests.get("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf").text
 
+print("load changes")
+git.pull("--all")
+git.reset("origin/master", "--hard")
+git.pull()
+
 print("Finish download")
 for i in l.split("\n")[1:]:
     if i and regex.search(i):
