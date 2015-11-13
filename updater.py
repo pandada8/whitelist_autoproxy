@@ -7,6 +7,7 @@ from sh import git
 
 ips = []
 __folder__ = os.path.split(__file__)[0]
+os.chdir(__folder__)
 regex = re.compile(r"\/(.+)\/")
 l = requests.get("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf").text
 
