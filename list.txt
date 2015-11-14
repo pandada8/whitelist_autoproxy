@@ -878,6 +878,7 @@
 ||293.net
 ||2980.com
 ||2che.cc
+||2cl.cc
 ||2cto.com
 ||2cyxw.com
 ||2dgal.com
@@ -1909,6 +1910,7 @@
 ||77ds.net
 ||77hh.com
 ||77hunjia.com
+||77kp.com
 ||77l.com
 ||77music.com
 ||77power.com
@@ -2207,6 +2209,7 @@
 ||9377a.com
 ||9377co.com
 ||9377os.com
+||9377uw.com
 ||9377z.com
 ||93pk.com
 ||93t.cc
@@ -2814,6 +2817,7 @@
 ||baiduyun.me
 ||baifendian.com
 ||baifubao.com
+||baigm.com
 ||baihe.com
 ||baihui.com
 ||baijiegroup.com
@@ -3103,6 +3107,7 @@
 ||bsyjrb.com
 ||bt720.net
 ||btbbt.cc
+||btbet.in
 ||btc100.com
 ||btc123.com
 ||btcc.com
@@ -4371,6 +4376,7 @@
 ||duanwenxue.com
 ||duanzhihu.com
 ||duapp.com
+||duapps.com
 ||duba.com
 ||duba.net
 ||dudumeijia.com
@@ -4666,6 +4672,7 @@
 ||f3322.net
 ||f3322.org
 ||f41g.com
+||f6ce.com
 ||f70123.com
 ||fa71.com
 ||fabang.com
@@ -5753,6 +5760,7 @@
 ||hxg.cc
 ||hxh999.com
 ||hxlif.com
+||hxnews.com
 ||hxrc.com
 ||hxsd.com
 ||hxshx.com
@@ -6290,6 +6298,7 @@
 ||jinmate3c.com
 ||jinmi.com
 ||jinnong.cc
+||jinritemai.com
 ||jinrong-online.com
 ||jinshangdai.cc
 ||jinshangdai.com
@@ -6831,6 +6840,7 @@
 ||ldeng.com
 ||ldz.cc
 ||leadercf.com
+||leanote.com
 ||lebaidai.com
 ||lebogame.net
 ||lecai.com
@@ -7682,6 +7692,7 @@
 ||njdfwb.com
 ||njrx.cc
 ||njxld.com
+||nka111.com
 ||nlnw.net
 ||nlpjob.com
 ||nlzpy.com
@@ -8364,6 +8375,7 @@
 ||quxiu.com
 ||quyiyuan.com
 ||qvbuy.com
+||qvocd.org
 ||qwimm.com
 ||qwjian.com
 ||qwl8.net
@@ -9328,6 +9340,7 @@
 ||toodaylab.com
 ||tooopen.com
 ||tootour.com
+||toourbb.com
 ||top
 ||topber.com
 ||topbiz360.com
@@ -9965,6 +9978,7 @@
 ||weixiaodian.com
 ||weixiaoduo.com
 ||weixiaoxin.com
+||weixin.com
 ||weixinhost.com
 ||weixinju.com
 ||weixinkd.com
