@@ -366,6 +366,7 @@
 ||10huan.com
 ||10nianshao.com
 ||10s1.com
+||10vs100.com
 ||10wallpaper.com
 ||10yan.com
 ||110.com
@@ -575,6 +576,7 @@
 ||17173.com
 ||17173cdn.com
 ||17173ie.com
+||17173v.com
 ||1717518.com
 ||1717kf.com
 ||1717pk.com
@@ -872,6 +874,7 @@
 ||289.com
 ||28hotel.com
 ||28im.com
+||28pifa.com
 ||28sn.com
 ||28tui.com
 ||28yj.com
@@ -1622,6 +1625,7 @@
 ||58921.com
 ||58daojia.com
 ||58dm.com
+||58fangdai.com
 ||58fenlei.com
 ||58food.com
 ||58game.com
@@ -2531,6 +2535,7 @@
 ||aiyiqu.com
 ||aiyouxi.com
 ||aizhan.com
+||aizhizu.com
 ||aizhuizhui.com
 ||aizongyi.com
 ||aj44.com
@@ -3438,6 +3443,7 @@
 ||china.nba.com
 ||china.uxengine.net
 ||china1040.com
+||china2car.com
 ||china777.org
 ||chinaacc.com
 ||chinaamc.com
@@ -4616,6 +4622,7 @@
 ||erke.com
 ||erongdu.com
 ||erongtu.com
+||ersoso.com
 ||esbag.com
 ||eschool.cc
 ||esfimg.com
@@ -4669,6 +4676,7 @@
 ||ezubo.com
 ||f1-shanghai.com
 ||f2e.im
+||f2time.com
 ||f3322.net
 ||f3322.org
 ||f41g.com
@@ -5990,6 +5998,7 @@
 ||indexedu.com
 ||inewya.com
 ||inexus.co
+||infinity-game.com
 ||info10.com
 ||info999.net
 ||infoqstatic.com
@@ -6004,6 +6013,7 @@
 ||international.download.nvidia.com
 ||intil.biz
 ||invescogreatwall.com
+||inweke.com
 ||iosfchina.com
 ||iosx.me
 ||ioszone.net
@@ -7368,6 +7378,7 @@
 ||mindai.com
 ||mindstore.io
 ||mingchaoonline.com
+||mingin.com
 ||minglian.com
 ||mingxiaodai.com
 ||mingxing.com
@@ -7547,6 +7558,7 @@
 ||myfund.com
 ||mygame66.com
 ||mygame82.com
+||mygame88.com
 ||mygolbs.com
 ||myhack58.com
 ||myhard.com
@@ -8329,6 +8341,7 @@
 ||qqzl.cc
 ||qsbank.cc
 ||qstatic.com
+||qt361.com
 ||qtcem.com
 ||qtestin.com
 ||qtmojo.com
@@ -8789,6 +8802,7 @@
 ||skwo.net
 ||skxox.com
 ||sky-fire.com
+||sky003.com
 ||skycn.com
 ||skycn.net
 ||skymoons.com
@@ -9040,6 +9054,7 @@
 ||sy916.net
 ||sybang.com
 ||sycfd.com
+||syditie.com
 ||syfw.com
 ||syitgz.com
 ||syjiancai.com
@@ -10014,6 +10029,7 @@
 ||westsecu.com
 ||weyee.com
 ||weyou360.com
+||wezebra.com
 ||wezeit.com
 ||wfccb.com
 ||wfjimg.com
@@ -11203,6 +11219,7 @@
 ||zhiziyun.com
 ||zhizuncn.com
 ||zhjs.cc
+||zhjunshi.com
 ||zhl.com
 ||zhlzw.com
 ||zhmeiwen.com
@@ -11239,6 +11256,7 @@
 ||zhuannet.com
 ||zhuansoo.com
 ||zhuantilan.com
+||zhuanzhuan.com
 ||zhuaxia.com
 ||zhuayou.com
 ||zhuayoukong.com
