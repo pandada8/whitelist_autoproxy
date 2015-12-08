@@ -24,11 +24,11 @@ for i in l.split("\n")[1:]:
         ips.append(regex.search(i).groups()[0])
 
 
-with open(os.path.join(__folder__, "rawlist.txt"), "w") as fp:
+with open("rawlist.txt", "w") as fp:
     for i in ips:
         fp.write(i+"\n")
 
-with open(os.path.join(__folder__, "list.txt"), 'w') as fp:
+with open("list.txt", 'w') as fp:
     # s = "[AutoProxy 0.2.9]\n"
     for i in ips:
         fp.write("||{}\n".format(i))
@@ -40,6 +40,6 @@ with open(os.path.join(__folder__, "list.txt"), 'w') as fp:
 if git.status("--short") != "":
     print("updating")
     git.add(".")
-    git.commit("-m", "update")
+    git.commit("-m", "update by robot")
     git.push()
     print("updating finished")
