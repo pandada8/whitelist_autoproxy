@@ -778,6 +778,7 @@
 21dagong.com
 21dianyuan.com
 21dnn.com
+21ebuy.com
 21edu8.com
 21food.com
 21hanguo.com
@@ -870,6 +871,7 @@
 268v.com
 26923.com
 26abc.com
+26ebuy.com
 26host.com
 26lady.com
 26youxi.com
@@ -1128,6 +1130,7 @@
 3817.com
 3839.com
 387a.com
+38haoli.com
 38hzt.com
 38mhw.com
 39.net
@@ -1375,6 +1378,7 @@
 51jobcdn.com
 51js.com
 51junshi.com
+51juzhai.com
 51jyrc.com
 51kahui.com
 51kaxun.com
@@ -1848,6 +1852,7 @@
 6m.com
 6pingm.com
 6rooms.com
+6sfg.com
 6so.so
 6tennis.com
 6tie.com
@@ -3458,6 +3463,7 @@ btbet.in
 btc100.com
 btc114.com
 btc123.com
+btc38.com
 btcc.com
 btcchina.com
 btcchinacdn.com
@@ -3588,6 +3594,7 @@ cainiao.com
 caipiao365.com
 caipopo.com
 caixin.com
+caiyu.in
 caiyun.com
 cajianpan.com
 cake400.com
@@ -5242,6 +5249,7 @@ expoon.com
 expreview.com
 exunchi.com
 eycans.com
+eyecoat.com
 eyou.com
 eyoudi.com
 eywedu.org
@@ -6425,6 +6433,7 @@ hzins.com
 hzlzh.io
 hzman.net
 hzrc.com
+hzstatic.com
 hztags.net
 hzvillas.com
 hzwsjyjt.com
@@ -6536,6 +6545,7 @@ ihaier.com
 ihanhua.com
 iheima.com
 ihetou.com
+ihezhu.com
 ihg.com
 ihlnews.com
 ihome99.com
@@ -7605,6 +7615,7 @@ lhvisa.com
 lhzly.com
 lhzq.com
 li-ning.com
+liageren.com
 lianaibashi.com
 lianaibiji.com
 liangchan.net
@@ -7663,6 +7674,7 @@ linezing.com
 lingd.com
 lingdiankanshu.com
 lingduohome.com
+lingganjia.com
 linghang001.net
 lingmihaitao.com
 lingshi.com
@@ -8692,6 +8704,7 @@ php230.com
 phpchina.com
 phpcode8.com
 phpcoo.com
+phpkoo.com
 phpwind.com
 phpwind.net
 phpxs.com
@@ -9386,6 +9399,7 @@ shang98.com
 shangc.net
 shangdu.com
 shanghailiangyi.com
+shanghaining.com
 shangjie.biz
 shangjilian.com
 shangpin.com
@@ -10325,8 +10339,10 @@ tyfyjz.com
 tyn.cc
 typecho.org
 tytlj.com
+tyyjf.net
 tz8.com
 tzbank.com
+tzbao.com
 tzrl.com
 tzzhaopin.net
 tzzlm.net
@@ -10382,6 +10398,7 @@ ultramanclub.com
 umeng.co
 umeng.com
 umengcloud.com
+umetrip.com
 umindex.com
 umivi.net
 umiwi.com
@@ -11002,6 +11019,7 @@ wquant.com
 wrating.com
 wredian.com
 wscdns.com
+wscloudcdn.com
 wscloudsec.com
 wselearning.com
 wsglw.com
@@ -11543,6 +11561,7 @@ yiduzw.com
 yiersansi.com
 yifeiyang.net
 yifen.com
+yifone.com
 yifucj.com
 yigao.com
 yigouu.com
@@ -11687,6 +11706,7 @@ yonyou.com
 yonyoufinancial.com
 yonyouhit.com
 yooli.com
+yopin8.com
 you1ke.com
 you37.com
 youba.com
