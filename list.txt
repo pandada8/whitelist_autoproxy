@@ -2379,6 +2379,7 @@
 ||99you.com
 ||99ys.com
 ||99zuowen.com
+||9apps.com
 ||9che.com
 ||9chew.com
 ||9chun.com
@@ -2388,6 +2389,7 @@
 ||9duw.com
 ||9fbank.com
 ||9first.com
+||9game.com
 ||9ht.com
 ||9i5c.com
 ||9iphp.com
@@ -2765,9 +2767,11 @@
 ||ansteelgroup.com
 ||anta.com
 ||antaoxin.com
+||antfortune.com
 ||antgroup.com
 ||antpedia.com
 ||antrelicc.com
+||antsdaq.com
 ||antsoul.com
 ||anxia.com
 ||anxiangren.com
@@ -3993,6 +3997,7 @@
 ||china-netwave.com
 ||china-obgyn.net
 ||china-pub.com
+||china-ric.com
 ||china-see.com
 ||china-seeq.com
 ||china-shufajia.com
@@ -4313,6 +4318,7 @@
 ||ciwong.com
 ||ciwork.net
 ||ciyuange.net
+||ciznx.com
 ||cjdao.com
 ||cjdby.net
 ||cjdcw.com
@@ -4970,6 +4976,7 @@
 ||dd373.com
 ||ddcdn.com
 ||ddchangle.com
+||ddchong.com
 ||ddgbank.com
 ||ddheli.com
 ||ddkefu.com
@@ -5405,6 +5412,7 @@
 ||ecocn.org
 ||ecqun.com
 ||ecwan77.net
+||ed10.org
 ||ed2000.com
 ||ed2kers.com
 ||ed2kfile.com
@@ -5646,6 +5654,7 @@
 ||fastcdn.com
 ||fastmovie88.com
 ||fasttodie.com
+||fastzhong.com
 ||fat999.com
 ||fawan.com
 ||faxsun.com
@@ -6918,6 +6927,7 @@
 ||ikcd.net
 ||ikexue.org
 ||ikjtao.com
+||iknew.today
 ||ikongjian.com
 ||ikuai8.com
 ||ikuaiping.com
@@ -7103,6 +7113,7 @@
 ||ivi.li
 ||ivocaloid.com
 ||ivsky.com
+||ivydom.com
 ||iwanpc.com
 ||iwatch365.com
 ||iwebchoice.com
@@ -8134,6 +8145,7 @@
 ||loulansheji.com
 ||loupan.com
 ||love3721.com
+||loveineurope.com
 ||loverili.com
 ||lovewh.com
 ||loyo.cc
@@ -9589,6 +9601,7 @@
 ||rhgw.net
 ||rhvisa.com
 ||ricebook.com
+||ricter.me
 ||rishiqing.com
 ||rizhiyi.com
 ||rjs.com
@@ -11325,6 +11338,7 @@
 ||wiselong.com
 ||witcp.com
 ||witkeysky.com
+||wittyfox.me
 ||wiwide.com
 ||wiying.com
 ||wizarcan.com
