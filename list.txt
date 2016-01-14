@@ -1042,6 +1042,7 @@
 ||360doo.com
 ||360eol.com
 ||360fdc.com
+||360gtm.com
 ||360hitao.com
 ||360hqb.com
 ||360hun.com
@@ -2219,6 +2220,7 @@
 ||91open.com
 ||91px.com
 ||91rb.com
+||91rtb.com
 ||91student.com
 ||91town.com
 ||91ttx.com
@@ -2559,6 +2561,7 @@
 ||ahtc.cc
 ||ahycwj.com
 ||ahyx.cc
+||ahzlep.com
 ||ai-dns.com
 ||ai96.com
 ||aiba.com
@@ -2669,6 +2672,7 @@
 ||alibuybuy.com
 ||alicall.com
 ||alicdn.com
+||alidata.org
 ||alidigest.com
 ||aliexpress.com
 ||alifabu.com
@@ -4022,6 +4026,7 @@
 ||china777.org
 ||chinaacc.com
 ||chinaamc.com
+||chinaasc.org
 ||chinaavl.com
 ||chinabathware.com
 ||chinabdh.com
@@ -5666,6 +5671,7 @@
 ||fcaustralia.com
 ||fcchbj.com
 ||fccs.com
+||fcgtt.com
 ||fcjob88.com
 ||fcmp3.com
 ||fcmscn.com
@@ -5797,6 +5803,7 @@
 ||fruitday.com
 ||fsbankonline.com
 ||fsfund.com
+||fsjoy.com
 ||fspcdn.com
 ||ftchinese.com
 ||ftimg.net
@@ -6192,6 +6199,7 @@
 ||gysou.com
 ||gywygl.com
 ||gyzy.com
+||gzdinuan.com
 ||gzdsw.com
 ||gzexpo.com
 ||gzfilm.com
@@ -6259,6 +6267,7 @@
 ||handanw.com
 ||handbb.com
 ||handison.com
+||handpi.net
 ||handu.com
 ||handuyishe.com
 ||hangkong.com
@@ -6804,6 +6813,7 @@
 ||iapps.im
 ||iartmoney.com
 ||iask.com
+||iaskgo.com
 ||ibangkf.com
 ||ibaopen.com
 ||ibaozou.com
@@ -6880,6 +6890,7 @@
 ||ifengweekly.com
 ||ifensi.com
 ||ifeve.com
+||iflying.com
 ||iflytek.com
 ||igao7.com
 ||igeak.com
@@ -7143,6 +7154,7 @@
 ||iyaxin.com
 ||iyaya.com
 ||iyaya.info
+||iyenei.com
 ||iyiou.com
 ||iyiyun.com
 ||iyouqian.com
@@ -7238,6 +7250,7 @@
 ||jianfei.net
 ||jianguoyun.com
 ||jiangxia.cc
+||jiangyouxin.net
 ||jianianle.com
 ||jiankang.com
 ||jianke.cc
@@ -7641,6 +7654,7 @@
 ||kdnet.net
 ||kdslife.com
 ||kdt.im
+||kdued.com
 ||ke86.com
 ||keddoo.com
 ||keede.com
@@ -8061,6 +8075,7 @@
 ||liqi.io
 ||liqucn.com
 ||lishi5.com
+||lishuanghao.com
 ||lite6.com
 ||litianlei.com
 ||liu16.com
@@ -8068,6 +8083,7 @@
 ||liujiacai.net
 ||liulan7.net
 ||liulanmi.com
+||liuliguo.com
 ||liulin.cc
 ||liumeinet.com
 ||liumh.com
@@ -8468,6 +8484,7 @@
 ||minglian.com
 ||mingxiaodai.com
 ||mingxing.com
+||mingyi.me
 ||minhangshi.com
 ||mini-4wd.net
 ||miniwangdai.com
@@ -8556,6 +8573,7 @@
 ||moobuu.com
 ||moofeel.com
 ||moogos.com
+||moojnn.com
 ||moonbasa.com
 ||moonsun.cc
 ||moorburn.com
@@ -8683,6 +8701,7 @@
 ||mzwu.com
 ||n0808.com
 ||n21.cc
+||n9377e.com
 ||naadou.com
 ||nahuo9.com
 ||naimei.com
@@ -9005,6 +9024,7 @@
 ||paiyue.com
 ||panc.cc
 ||panda.tv
+||panghufei.com
 ||pangshu.com
 ||panguso.com
 ||pansou.com
@@ -9072,6 +9092,7 @@
 ||philcongenshanghai.org
 ||phobos-apple.com.akadns.net
 ||phoenixlzx.com
+||phonekr.com
 ||photoshopcn.com
 ||php100.com
 ||php186.com
@@ -9236,6 +9257,7 @@
 ||pujia.com
 ||pujia8.com
 ||pujiahh.com
+||pupugo.com
 ||purcow.com
 ||pureasme.com
 ||putao.so
@@ -9441,6 +9463,7 @@
 ||qmango.com
 ||qmqm.net
 ||qmtj.net
+||qnsb.com
 ||qnssl.com
 ||qntz.cc
 ||qnw.cc
@@ -9560,6 +9583,7 @@
 ||rc.cc
 ||rcfans.com
 ||rcw0375.com
+||rczzxs.com
 ||readfar.com
 ||readingcabin.com
 ||readlishi.com
@@ -9714,8 +9738,10 @@
 ||scnjnews.com
 ||scp-social.s-msn.com
 ||scstock.com
+||sctv.com
 ||scxdf.com
 ||sczxy.com
+||sd-sd.com
 ||sdchina.com
 ||sdebank.com
 ||sdg-china.com
@@ -9742,6 +9768,7 @@
 ||sekong.cn.com
 ||semfeeds.com
 ||semidata.info
+||sen-lan.net
 ||senguo.cc
 ||seotime.org
 ||seowhy.com
@@ -9881,6 +9908,7 @@
 ||shphouse.com
 ||shrail.com
 ||shscxh.net
+||shuai.so
 ||shuaijiao.com
 ||shuaji.net
 ||shuame.com
@@ -10294,6 +10322,7 @@
 ||t105.com
 ||t1y5.com
 ||t262.com
+||t2cn.com
 ||t2t2.com
 ||ta80.com
 ||tadu.com
@@ -10437,6 +10466,7 @@
 ||thwiki.cc
 ||tianantang.net
 ||tiancity.com
+||tiancitycdn.com
 ||tiandaoedu.com
 ||tiandizw.com
 ||tianelian.com
@@ -10553,6 +10583,7 @@
 ||top
 ||topber.com
 ||topbiz360.com
+||topbm.com
 ||topengroup.net
 ||tophold.com
 ||tophuwai.com
@@ -10766,6 +10797,7 @@
 ||ued163.com
 ||uedmb.com
 ||uedsc.com
+||uedx.net
 ||uelike.com
 ||uemap.com
 ||ueuz.com
@@ -11261,6 +11293,7 @@
 ||weyou360.com
 ||wezebra.com
 ||wezeit.com
+||wezgc.com
 ||wfccb.com
 ||wfjimg.com
 ||wgimg.com
@@ -11826,6 +11859,7 @@
 ||xunzai.com
 ||xuyaoren.com
 ||xuzhoujob.com
+||xv90.com
 ||xwcool.com
 ||xwei.tv
 ||xwjr.com
@@ -12721,6 +12755,7 @@
 ||zx110.org
 ||zx98.com
 ||zxdyw.com
+||zxtjd.com
 ||zxxk.com
 ||zybang.com
 ||zybuluo.com
