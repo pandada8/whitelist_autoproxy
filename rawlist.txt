@@ -2820,6 +2820,7 @@ ap88.com
 apabi.com
 apandim.com
 apclc.com
+apcow.com
 apdnews.com
 apesk.com
 apex100.com
@@ -6404,6 +6405,7 @@ hdroad.org
 hdsky.net
 hdslb.com
 hdslb.net
+hdtmedia.com
 hdwan.net
 he2d.com
 headerhotel.com
@@ -7984,6 +7986,7 @@ lezhuan.com
 lezi.com
 lfang.com
 lfex.com
+lgctshanghai.com
 lgo100.com
 lgole.com
 lgr7.com
@@ -8617,6 +8620,7 @@ mtizt.com
 mtmos.com
 mtmss.com
 mtmssdn.com
+mtty.com
 mtv123.com
 mubansky.com
 mucfc.com
@@ -9228,6 +9232,7 @@ pro6e.com
 procar.cc
 processon.com
 profile.xboxlive.com
+proginn.com
 programtrader.net
 promisingedu.com
 promoker.com
@@ -9571,6 +9576,7 @@ qzoneapp.com
 qzrc.com
 r2g.net
 rabbitpre.com
+racing-china.com
 railcn.net
 rain8.com
 rainbowsoft.org
@@ -11255,6 +11261,7 @@ weixiaodian.com
 weixiaoduo.com
 weixiaoxin.com
 weixin.com
+weixinbridge.com
 weixinhost.com
 weixinju.com
 weixinkd.com
@@ -12068,6 +12075,7 @@ yinzifang.com
 yiqifa.com
 yiqihao.com
 yiqiv.com
+yiqixie.com
 yirendai.com
 yisanban.com
 yishouguan.com
@@ -12640,6 +12648,7 @@ zimilan.com
 zimuku.net
 zimuzu.tv
 zine.la
+zintow.com
 ziroom.com
 zisha.com
 zishahuyu.com
