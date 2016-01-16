@@ -3446,6 +3446,7 @@
 ||booeoo.com
 ||boohee.com
 ||bookbao.com
+||bookdao.com
 ||bookschina.com
 ||bookshi.com
 ||bookuu.com
@@ -4013,6 +4014,7 @@
 ||china-ws.org
 ||china-zibo.com
 ||china.com
+||china.dell.com
 ||china.mintel.com
 ||china.msn.com
 ||china.nba.com
@@ -6186,6 +6188,7 @@
 ||gutou.com
 ||guwendong.com
 ||guzhiwang.com
+||gw630.com
 ||gwamcc.com
 ||gwapi.net
 ||gwyou.com
@@ -6344,6 +6347,7 @@
 ||haozhanhui.com
 ||haozu.com
 ||happigo.com
+||happy24uk.com
 ||happyjuzi.com
 ||harborhousehome.com
 ||hasee.com
@@ -6801,6 +6805,7 @@
 ||i-lehuo.com
 ||i-matcher.com
 ||i-modec.com
+||i-same.com
 ||i-uc.net
 ||i.dell.com
 ||i.v2ex.co
@@ -7023,6 +7028,7 @@
 ||inhe.net
 ||ini3e.com
 ||inimc.com
+||inspur.com
 ||insun-china.com
 ||intelliscoring.org
 ||international.download.nvidia.com
@@ -7426,6 +7432,7 @@
 ||jobsdigg.com
 ||jobtong.com
 ||jobui.com
+||jointreport-switch.com
 ||joinwee.com
 ||joke98.com
 ||jomodns.com
@@ -7715,6 +7722,7 @@
 ||kjcity.com
 ||kjoversea.com
 ||kjw.cc
+||kk3g.net
 ||kk7kk.com
 ||kkcdn.net
 ||kkexam.com
@@ -7871,6 +7879,7 @@
 ||laker.me
 ||lamabang.com
 ||lamiu.com
+||lamost.org
 ||lampw.com
 ||lamyu.com
 ||lan-kun.com
@@ -8637,6 +8646,7 @@
 ||muzhigame.com
 ||muzhiwan.com
 ||mv199.com
+||mvote.net
 ||mwcname.com
 ||mx175.com
 ||mxgcn.com
@@ -9190,6 +9200,7 @@
 ||pop136.com
 ||pop800.com
 ||popgamer.com
+||popiano.org
 ||popoho.com
 ||poppur.com
 ||portablesoft.org
@@ -9862,6 +9873,7 @@
 ||shhuihai.com
 ||shichangbu.com
 ||shifen.com
+||shihuo.me
 ||shijiebang.com
 ||shijiemil.com
 ||shijihr.com
@@ -9880,6 +9892,7 @@
 ||shixiu.org
 ||shiyan.cc
 ||shiyanlou.com
+||shiyi11.com
 ||shiyongjun.biz
 ||shjtaq.com
 ||shlandscape.com
@@ -10213,6 +10226,7 @@
 ||sudidc.com
 ||sudu-r8gh.com
 ||sudu-sq56.com
+||sugon.com
 ||suiqiao.com
 ||suishouji.com
 ||suixingjia.com
@@ -10247,6 +10261,7 @@
 ||swhz6.com
 ||swift.gg
 ||swiftmi.com
+||swjoy.com
 ||swliuxue.com
 ||swotbbs.com
 ||swrdt.com
@@ -12238,6 +12253,7 @@
 ||yqphh.com
 ||yqysp.com
 ||yrw.cc
+||yrw.com
 ||yrzjw.com
 ||ys.cc
 ||ys137.com
