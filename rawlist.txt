@@ -659,6 +659,7 @@
 186it.com
 188.com
 188cyw.com
+188lanxi.com
 188play.com
 189house.com
 189qas.com
@@ -1716,6 +1717,7 @@
 5iyq.com
 5j.com
 5jdai.com
+5jjc.net
 5joys.com
 5jzp.com
 5khouse.com
@@ -2753,6 +2755,7 @@ anjuke.com
 anjukestatic.com
 ankangwang.com
 ann9.com
+annn.me
 anpingdai.com
 anqingonline.com
 anqiu.cc
@@ -3028,6 +3031,7 @@ baidustatic.com
 baiduux.com
 baiduwebgame.com
 baiduyun.me
+baiduyundns.com
 baiduyy.com
 baietu.com
 baifendian.com
@@ -3151,6 +3155,7 @@ baozoumanhua.com
 baozouribao.com
 baqima.com
 barmap.com
+barretlee.com
 bashan.com
 batiaoyu.com
 batterydir.com
@@ -4435,6 +4440,7 @@ cnal.com
 cnanzhi.com
 cnautonews.com
 cnav.club
+cnberg.com
 cnbeta.com
 cnbetacdn.com
 cnbidding.com
@@ -4529,6 +4535,7 @@ cnjxol.com
 cnjywl.com
 cnjzjj.com
 cnkang.com
+cnkeyboard.com
 cnki.net
 cnkjtf.com
 cnkjz.com
@@ -4669,6 +4676,7 @@ code4app.com
 code668.com
 codeceo.com
 codecloud.net
+codekk.com
 coderonline.net
 codetc.com
 coding.io
@@ -5024,6 +5032,7 @@ devtang.com
 deyi.com
 deyi.net
 dezhong365.com
+dezhoudaily.com
 df77.com
 dfb365.com
 dfcfw.com
@@ -5094,6 +5103,7 @@ dingsite.com
 dingtalk.com
 dingxuan.info
 dingyx.com
+dioenglish.com
 dionly.com
 dipan.com
 dipont.com
@@ -5283,6 +5293,7 @@ dsduo.com
 dsxypj.com
 dtccb.com
 dtcms.net
+dttt.net
 du8.com
 duanqu.com
 duanrong.com
@@ -5326,6 +5337,7 @@ duoyi.com
 duozi.org
 dushifang.com
 dushiys.com
+dute.me
 duwenzhang.com
 duxiu.com
 duyao001.com
@@ -5665,6 +5677,7 @@ fasttodie.com
 fastzhong.com
 fat999.com
 fawan.com
+faxindai.com
 faxsun.com
 fb.mu
 fblife.com
@@ -6226,6 +6239,7 @@ hacdn.net
 hack50.com
 hackhome.com
 hackp.com
+hackrf.net
 hadns.net
 haha.mx
 haha168.com
@@ -6445,6 +6459,7 @@ henhaoji.com
 henshiyong.com
 hercity.com
 herebbs.com
+hermoe.com
 herostart.com
 hertzhu.com
 heshidai.com
@@ -6645,6 +6660,7 @@ htinns.com
 htky365.com
 html-js.com
 html5dw.com
+html6game.com
 htsec.com
 httpcn.com
 hty.cc
@@ -6838,6 +6854,7 @@ ic98.com
 icaifu.com
 icaikee.com
 icaile.com
+icanmusic.com
 icbc-ltd.com
 icccq.com
 icdn2.com
@@ -7314,6 +7331,7 @@ jikeweb.com
 jikexiu.com
 jikexueyuan.com
 jiliinn.com
+jimliu.net
 jimubox.com
 jimuc.com
 jimufund.com
@@ -7850,6 +7868,7 @@ kyzf.net
 kzj365.com
 l36h.com
 l99.com
+labazhou.net
 ladjzs.com
 ladpex.com
 lady35.net
@@ -7991,6 +8010,7 @@ lewaos.com
 lewask.com
 leying365.com
 leyouduo8.com
+lezhi.com
 lezhuan.com
 lezi.com
 lfang.com
@@ -8125,6 +8145,7 @@ lizhi001.com
 lizhifilm.com
 lj-bank.com
 ljcdn.com
+ljhoo.com
 ljimg.com
 ljt365.com
 ljzfin.com
@@ -8479,6 +8500,7 @@ microidc.com
 micstatic.com
 midaijihua.com
 midea.com
+midifan.com
 miecn.com
 mier123.com
 miercn.com
@@ -9238,6 +9260,7 @@ pptvyun.com
 ppwan.com
 prada2.com
 prcedu.com
+prettyyes.com
 privacy.xboxlive.com
 pro6e.com
 procar.cc
@@ -9276,6 +9299,7 @@ pujiahh.com
 pupugo.com
 purcow.com
 pureasme.com
+pushr.biz
 putao.so
 putaogame.com
 putaojiayuan.com
@@ -9569,6 +9593,7 @@ qwq4.com
 qwqt.net
 qwsy.com
 qx121.com
+qxbx.com
 qxiu.com
 qxw.cc
 qy6.com
@@ -9922,6 +9947,7 @@ show160.com
 showfrank.com
 showji.com
 showjoy.com
+showstart.com
 showxiu.com
 shpgt.com
 shphouse.com
@@ -10260,6 +10286,7 @@ swchina.org
 sweetread.net
 swhz6.com
 swift.gg
+swiftlet.net
 swiftmi.com
 swjoy.com
 swliuxue.com
@@ -10332,6 +10359,7 @@ szpxe.com
 szsjtjj.com
 szsti.net
 szstsh.org
+szthks.com
 sztingzhou.com
 sztopline.com
 szzbmy.com
@@ -10391,6 +10419,7 @@ taobao.com
 taobao.net
 taobao.org
 taobaocdn.com
+taobaofed.org
 taoche.com
 taodangpu.com
 taofang.com
@@ -10881,6 +10910,7 @@ upyun.com
 uqee.com
 uqer.io
 uqude.com
+urcities.com
 usaedu.net
 usaer.net
 usahaitao.com
@@ -11525,6 +11555,7 @@ www.intel.com
 www.jsdelivr.net
 wwwimages.adobe.com
 wx8s.com
+wxgzpt.cc
 wxhand.com
 wxmovie.com
 wxrb.com
@@ -11842,6 +11873,7 @@ xspliter.com
 xszp.cc
 xtbank.com
 xtgreat.com
+xtseo.com
 xtuan.com
 xuande99.com
 xuanxue.com
@@ -12115,6 +12147,7 @@ yixiaoba.com
 yixieshi.com
 yixin.com
 yixin.im
+yixinxin.com
 yixuancs.com
 yixun.com
 yiyakq.com
@@ -12420,6 +12453,7 @@ zazhipu.com
 zb8.com
 zbai.net
 zbird.com
+zbj.com
 zbjimg.com
 zbnews.net
 zbyzn.com
