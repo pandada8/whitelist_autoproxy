@@ -7856,7 +7856,6 @@
 ||kekejp.com
 ||kekenet.com
 ||kenapple.com
-||kenengba.com
 ||kenfor.com
 ||kengwan.com
 ||kerunwh-edu.com
@@ -9208,6 +9207,7 @@
 ||overapi.com
 ||ownlinux.org
 ||oxbridgedu.org
+||oyasj.com
 ||oyinyue.com
 ||oyoozo.com
 ||p1.com
@@ -10308,6 +10308,7 @@
 ||songshuhui.net
 ||songtaste.com
 ||sonhoo.com
+||sonkwo.com
 ||sonyue.com
 ||soocang.com
 ||soojs.com
