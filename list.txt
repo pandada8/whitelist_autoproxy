@@ -5188,6 +5188,7 @@
 ||dictall.com
 ||didapinche.com
 ||didialift.com
+||didistatic.com
 ||diff.im
 ||digi-wo.com
 ||digitaling.com
@@ -7227,6 +7228,7 @@
 ||iqiqu.net
 ||iqiyi.com
 ||iqshw.com
+||iquanba.com
 ||iqucai.com
 ||ireader.com
 ||ireadercity.com
@@ -10033,6 +10035,7 @@
 ||shadowfax.club
 ||shafa.com
 ||shaidc.com
+||shamla.net
 ||shanbay.com
 ||shandongsannong.com
 ||shang98.com
