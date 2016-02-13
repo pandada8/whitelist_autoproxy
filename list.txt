@@ -3525,6 +3525,7 @@
 ||bobo.com
 ||boboshone.com
 ||bocim.com
+||bohailife.net
 ||bohaishibei.com
 ||bokecc.com
 ||bokee.com
@@ -4915,6 +4916,7 @@
 ||ctcnn.com
 ||ctcwri.org
 ||ctdisk.com
+||ctdns.net
 ||ctdsb.com
 ||ctdsb.net
 ||ctfile.com
@@ -4954,6 +4956,7 @@
 ||cwbgj.com
 ||cwsq.net
 ||cwz123.com
+||cx580.com
 ||cxh99.com
 ||cxtuku.com
 ||cxwz.org
@@ -8684,6 +8687,7 @@
 ||miit.cc
 ||mikecrm.com
 ||milchina.com
+||miliao.com
 ||milkplayer.com
 ||milnews.com
 ||mindai.com
@@ -8744,6 +8748,7 @@
 ||moage.com
 ||mob.com
 ||mobanwang.com
+||mobartsgame.com
 ||mobeehome.com
 ||mobibao.com
 ||mobiletalkclub.com
@@ -11912,6 +11917,7 @@
 ||xiaomeme.com
 ||xiaomi.com
 ||xiaomi.net
+||xiaomicp.com
 ||xiaomishu.com
 ||xiaonaodai.com
 ||xiaonei.com
