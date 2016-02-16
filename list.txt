@@ -1172,6 +1172,7 @@
 ||3987.com
 ||39hp.com
 ||39jks.com
+||39kf.com
 ||39sh.com
 ||39yss.com
 ||39yst.com
@@ -1347,6 +1348,7 @@
 ||519temai.com
 ||51aimei.com
 ||51app.com
+||51aspx.com
 ||51auto.com
 ||51autoapp.com
 ||51bafu.com
@@ -1480,6 +1482,7 @@
 ||51valves.com
 ||51wan.com
 ||51wf.com
+||51wincai.com
 ||51wj.com
 ||51wjrc.com
 ||51wnl.com
@@ -2754,6 +2757,7 @@
 ||alibuybuy.com
 ||alicall.com
 ||alicdn.com
+||alicloudlayer.com
 ||alidata.org
 ||alidigest.com
 ||aliexpress.com
@@ -3569,6 +3573,7 @@
 ||brandcn.com
 ||brandvista.com
 ||breadtrip.com
+||brentron.com
 ||bridgee.net
 ||brightdairy.com
 ||brighttj.com
@@ -3728,6 +3733,7 @@
 ||cake400.com
 ||cali-light.com
 ||callmewhy.com
+||came-online.org
 ||canbo.com
 ||candou.com
 ||candyvisa.com
@@ -3736,6 +3742,7 @@
 ||cangnan5.com
 ||cankaoa.com
 ||cankaoxiaoxi.com
+||canpdu.com
 ||cansine.com
 ||canyin88.com
 ||caogen.com
@@ -3748,6 +3755,7 @@
 ||carcav.com
 ||cardbaobao.com
 ||carnoc.com
+||carry6.com
 ||carschina.com
 ||cartoonb2b.com
 ||cartooncentury.com
@@ -4090,6 +4098,7 @@
 ||china-edai.com
 ||china-ef.com
 ||china-eia.com
+||china-entercom.com
 ||china-enterprise.com
 ||china-erzhong.com
 ||china-fire.com
@@ -4395,6 +4404,7 @@
 ||ci123.com
 ||ciamiecn.com
 ||ciboedu.org
+||cibonet.com
 ||cicaf.com
 ||ciceme.com
 ||cicoos.com
@@ -5022,6 +5032,7 @@
 ||daimajia.com
 ||daimg.com
 ||daiwoqu.com
+||daixiaomi.com
 ||daiyanbao.com
 ||daiyicha.com
 ||dajia365.com
@@ -5081,6 +5092,7 @@
 ||dawuge.com
 ||dawuhan.com
 ||dayanzai.me
+||daydays.com
 ||dayifund.org
 ||dayinpiano.com
 ||dayliuxue.com
@@ -5322,6 +5334,7 @@
 ||dnsv4.com
 ||dnsv5.com
 ||dnsvcache.com
+||dnyyjcw.com
 ||do189.com
 ||doadmin.com
 ||doc88.com
@@ -6078,6 +6091,7 @@
 ||gdgudong.com
 ||gdiso.com
 ||gdrc.com
+||gds-services.com
 ||gdupi.com
 ||gdxgt.com
 ||gdxxb.com
@@ -6204,6 +6218,7 @@
 ||gongzhong.me
 ||goobbe.com
 ||goocdn.com
+||goodbaby.com
 ||goodbabygroup.com
 ||goodgupiao.com
 ||goodnic.net
@@ -6294,6 +6309,7 @@
 ||gudaovision.com
 ||gudong.hk
 ||gugeanzhuangqi.com
+||gugu5.com
 ||guhai66.com
 ||guigu.org
 ||guijianghu.com
@@ -6507,6 +6523,7 @@
 ||haxiu.org
 ||hazq.com
 ||hb114.cc
+||hb165.com
 ||hb189.mobi
 ||hbanjin.com
 ||hbbaidu.com
@@ -6651,6 +6668,7 @@
 ||hiknow.com
 ||hiputian.com
 ||hirede.com
+||his2000.com
 ||hisihi.com
 ||histarter.com
 ||histatic.com
@@ -7035,6 +7053,7 @@
 ||idcads.com
 ||idccun.com
 ||idcicp.com
+||idcquan.com
 ||idea78.com
 ||ideasandroid.com
 ||ideaskin.com
@@ -7143,9 +7162,14 @@
 ||img-cdn.mediaplex.com
 ||img-space.com
 ||img.mediaplex.com
+||img1.wsimg.com
 ||img168.net
 ||img16888.com
+||img2.wsimg.com
+||img3.wsimg.com
+||img4.wsimg.com
 ||img4399.com
+||img5.wsimg.com
 ||img80.net
 ||imgcdc.com
 ||imgii.com
@@ -7222,6 +7246,7 @@
 ||iplaysoft.com
 ||ipn.li
 ||ipo.la
+||ipo3.com
 ||ipr114.net
 ||ipr123.com
 ||iq123.com
@@ -7273,6 +7298,7 @@
 ||itiancai.com
 ||itiankong.net
 ||itiexue.net
+||itiger.me
 ||itindex.net
 ||itingwa.com
 ||itivy.com
@@ -7425,6 +7451,7 @@
 ||jiajuol.com
 ||jiakaobaodian.com
 ||jiameng.com
+||jianai360.com
 ||jianbaimei.com
 ||jianbing.com
 ||jiancai.com
@@ -7481,6 +7508,7 @@
 ||jiepang.com
 ||jieshao.org
 ||jieyou.com
+||jifang360.com
 ||jifenzhong.com
 ||jijidi.com
 ||jijinhao.com
@@ -7695,6 +7723,7 @@
 ||juhuisuan.com
 ||juimg.com
 ||juji123.com
+||jujiaonet.com
 ||jujinw.com
 ||jujusky.com
 ||jukuu.com
@@ -7790,6 +7819,7 @@
 ||k73.com
 ||k76.com
 ||k780.com
+||k8008.com
 ||k913.com
 ||kabasiji.com
 ||kadang.com
@@ -7909,6 +7939,7 @@
 ||kk3g.net
 ||kk7kk.com
 ||kkcdn.net
+||kkcoo.com
 ||kkexam.com
 ||kkk5.com
 ||kklishi.com
@@ -7975,6 +8006,7 @@
 ||kuai7.com
 ||kuai8.com
 ||kuaiapk.com
+||kuaibo.com
 ||kuaidadi.com
 ||kuaidi100.com
 ||kuaidi123.net
@@ -8014,6 +8046,7 @@
 ||kukudm.com
 ||kukuplay.com
 ||kuliqiang.com
+||kungfucloud.com
 ||kungfuker.com
 ||kungfunews.com
 ||kunlun.com
@@ -8387,6 +8420,7 @@
 ||lssen.com
 ||lsxs688.com
 ||ltaaa.com
+||ltesting.net
 ||ltzjlm.com
 ||lu.com
 ||luanren.com
@@ -8496,6 +8530,7 @@
 ||makepolo.net
 ||males120.com
 ||malmam.com
+||mamahuo.com
 ||mamamiyu.com
 ||mamecn.com
 ||mamshare.com
@@ -8601,6 +8636,7 @@
 ||meilishuo.com
 ||meilishuo.net
 ||meimei90.com
+||meimeidu.com
 ||meimotuan.com
 ||meinv.com
 ||meipai.com
@@ -8816,9 +8852,11 @@
 ||ms211.com
 ||ms315.com
 ||mscbsc.com
+||mscto.com
 ||msg.xboxlive.com
 ||msgr.dlservice.microsoft.com
 ||msgruser.dlservice.microsoft.com
+||mshishang.com
 ||msiyw.com
 ||msotu.com
 ||msxf.net
@@ -8895,6 +8933,7 @@
 ||mylegist.com
 ||mymhotel.com
 ||myoppo.com
+||mypcera.com
 ||mypethome.com
 ||mypiao.com
 ||myqcloud.com
@@ -9120,6 +9159,7 @@
 ||oeofo.com
 ||offcn.com
 ||officese.com
+||ofidc.com
 ||ofweek.com
 ||ofyoo.com
 ||ogengine.com
@@ -9694,6 +9734,7 @@
 ||qmango.com
 ||qmqm.net
 ||qmtj.net
+||qmxyc.com
 ||qnsb.com
 ||qnssl.com
 ||qntz.cc
@@ -10525,6 +10566,7 @@
 ||syrcb.net
 ||sysjdjy.com
 ||sywg.com
+||syyx.com
 ||sz-dns.net
 ||sz-yongping.com
 ||sz68.com
@@ -10852,6 +10894,7 @@
 ||toplanit.com
 ||topmaic.com
 ||topnews9.com
+||toppdu.com
 ||topsage.com
 ||topsem.com
 ||topshot-wedding.com
@@ -10962,6 +11005,7 @@
 ||tui8.org
 ||tuiar.com
 ||tuicool.com
+||tuidc.com
 ||tuijie.cc
 ||tuili8.com
 ||tuishiben.com
@@ -11003,6 +11047,7 @@
 ||twcczhu.com
 ||twdm.net
 ||tweibo.com
+||twh5.com
 ||twinsenliang.net
 ||twshoucang.com
 ||twwtn.com
@@ -11401,6 +11446,7 @@
 ||wangzhanbao.cc
 ||wanh5.com
 ||wanhongrui.com
+||wanjiedu.com
 ||wankr100.com
 ||wankuwl.com
 ||wanlibo.com
@@ -11562,6 +11608,7 @@
 ||wesdom.me
 ||weshaketv.com
 ||west263.com
+||weste.net
 ||westsecu.com
 ||weyee.com
 ||weyou360.com
@@ -11827,6 +11874,7 @@
 ||xbeta.info
 ||xbiao.com
 ||xbresearch.com
+||xbrother.com
 ||xcarimg.com
 ||xccbank.com
 ||xccxbj.com
@@ -12224,6 +12272,7 @@
 ||yaopinnet.com
 ||yaosai.com
 ||yaowan.com
+||yaozh.com
 ||yaroumei.com
 ||yatu.tv
 ||yayy120.com
@@ -12280,6 +12329,7 @@
 ||yhouse.com
 ||yhurl.com
 ||yhxx.com
+||yi114.com
 ||yi71.com
 ||yibei.com
 ||yibizi.com
@@ -12392,6 +12442,7 @@
 ||yixue99.com
 ||yixun.com
 ||yiyakq.com
+||yiyaojd.com
 ||yiyatuan.com
 ||yiyebang.com
 ||yiyi.cc
@@ -12452,6 +12503,7 @@
 ||yonyoufinancial.com
 ||yonyouhit.com
 ||yooli.com
+||yooli.org
 ||yooxun.com
 ||yopin8.com
 ||you1ke.com
@@ -12589,6 +12641,7 @@
 ||yukuai.com
 ||yul8.com
 ||yule8.net
+||yulefm.com
 ||yuloo.com
 ||yumingguwen.com
 ||yun-idc.com
@@ -12600,6 +12653,7 @@
 ||yuncheng.com
 ||yunchou.com
 ||yundaex.com
+||yundunddos.com
 ||yundzh.com
 ||yunfaka.com
 ||yunfan.com
@@ -12960,6 +13014,7 @@
 ||ziroom.com
 ||zisha.com
 ||zishahuyu.com
+||zishapot.com
 ||zishengmc.com
 ||zitichina.com
 ||zixia.com
