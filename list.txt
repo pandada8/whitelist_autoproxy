@@ -22,8 +22,10 @@
 ||005789.cc
 ||007shoes.com
 ||007swz.com
+||007yx.com
 ||008008.net
 ||00817.com
+||0082tv.com
 ||008321.com
 ||0086gd.com
 ||00oo00.com
@@ -80,8 +82,10 @@
 ||028office.com
 ||029-zx.net
 ||029558.com
+||029g.com
 ||029k.com
 ||029zx.net
+||030buy.com
 ||030buy.net
 ||030mall.com
 ||0312mc.com
@@ -90,6 +94,7 @@
 ||0318-7979111.com
 ||0318gangjinwang.org
 ||034.me
+||034show.com
 ||0352fang.com
 ||0355fk.com
 ||0356f.com
@@ -284,6 +289,7 @@
 ||0891zp.com
 ||089377.com
 ||0898.net
+||08980898.com
 ||0898100.com
 ||0898cc.com
 ||0898dichan.com
@@ -322,6 +328,7 @@
 ||10000job.com
 ||10000link.com
 ||10000tc.com
+||1000eb.com
 ||1000plan.org
 ||1000tuan.com
 ||10010.com
@@ -339,6 +346,7 @@
 ||100du.com
 ||100dyrc.com
 ||100exam.com
+||100ftv.com
 ||100gcrc.com
 ||100gxrc.com
 ||100hcrc.com
@@ -457,6 +465,7 @@
 ||115ha.com
 ||115img.com
 ||115kf.com
+||115tb.com
 ||1166.com
 ||11665.com
 ||11773.com
@@ -473,6 +482,8 @@
 ||11ads.com
 ||11area.net
 ||11chuangye.com
+||11dream.net
+||11h5.com
 ||11jk.com
 ||11job.com
 ||11k.cc
@@ -485,6 +496,7 @@
 ||120kq.com
 ||120top.com
 ||121.com
+||121121.net
 ||12114job.com
 ||12114rc.com
 ||121314.com
@@ -513,6 +525,7 @@
 ||123fj.com
 ||123haitao.com
 ||123hala.com
+||123huodong.com
 ||123juzi.net
 ||123lvxing.com
 ||123meiyan.com
@@ -559,6 +572,7 @@
 ||135editor.com
 ||135edu.com
 ||135plat.com
+||135yuedu.com
 ||1360.com
 ||136136.com
 ||1365buy.net
@@ -585,10 +599,12 @@
 ||139y.com
 ||13ddd.com
 ||13ejob.com
+||13fuwu.com
 ||13pr.com
 ||140414.com
 ||140ed8.com
 ||1415926.mobi
+||14244.com
 ||148-law.com
 ||148365.com
 ||1488.com
@@ -609,6 +625,7 @@
 ||158wan.com
 ||159.com
 ||15hr.com
+||15ms.com
 ||15sing.com
 ||15sjw.com
 ||15tianqi.com
@@ -718,10 +735,12 @@
 ||17caifu.com
 ||17cdn.com
 ||17ce.com
+||17chuang.cc
 ||17dao.com
 ||17dm.com
 ||17dm.net
 ||17emarketing.com
+||17fifa.com
 ||17firefox.com
 ||17g.com
 ||17game.com
@@ -742,6 +761,7 @@
 ||17startup.com
 ||17sucai.com
 ||17sysj.com
+||17tourer.com
 ||17track.net
 ||17u.com
 ||17u.net
@@ -755,6 +775,7 @@
 ||18114.info
 ||18183.com
 ||1818hm.com
+||183read.com
 ||185185.com
 ||186688.com
 ||186it.com
@@ -763,6 +784,7 @@
 ||188cyw.com
 ||188hi.com
 ||188lanxi.com
+||188mb.com
 ||188play.com
 ||189ebuy.com
 ||189house.com
@@ -785,6 +807,7 @@
 ||197c.com
 ||198526.com
 ||198526.net
+||1987.name
 ||198game.com
 ||198wu.com
 ||1999wan.com
@@ -848,6 +871,7 @@
 ||1ting.com
 ||1tours.net
 ||1tu.com
+||1upjoycn.com
 ||1uuc.com
 ||1v1offcn.com
 ||1wandian.com
@@ -919,6 +943,7 @@
 ||21jingji.com
 ||21jrr.com
 ||21js.com
+||21kunpeng.com
 ||21manager.com
 ||21mmo.com
 ||21momo.com
@@ -954,7 +979,9 @@
 ||2295.com
 ||2298.com
 ||22edu.com
+||22lrc.com
 ||230la.net
+||230tm.com
 ||2323u.com
 ||233.com
 ||233000.com
@@ -974,6 +1001,7 @@
 ||23ps.com
 ||23wx.com
 ||246xf.com
+||246ys.com
 ||2499.tv
 ||24en.com
 ||24home.com
@@ -999,6 +1027,7 @@
 ||25nc.com
 ||25pp.com
 ||25tuzi.com
+||25un.com
 ||25xt.com
 ||25yz.com
 ||2617.com
@@ -1015,6 +1044,7 @@
 ||2686.com
 ||2688.com
 ||268v.com
+||269.net
 ||26923.com
 ||26abc.com
 ||26ebuy.com
@@ -1030,17 +1060,21 @@
 ||281010.com
 ||2828e.com
 ||28296666.com
+||286dm.com
 ||2881.com
+||288idc.com
 ||289.com
 ||28hotel.com
 ||28im.com
 ||28pifa.com
 ||28sn.com
 ||28tui.com
+||28y.com
 ||28yj.com
 ||293.net
 ||2980.com
 ||29yx.com
+||2btu.com
 ||2che.cc
 ||2cl.cc
 ||2cto.com
@@ -1066,6 +1100,7 @@
 ||2smtc.com
 ||2tu.cc
 ||2tuyy.com
+||2weima.com
 ||2zmall.net
 ||3001.net
 ||300p.com
@@ -1159,7 +1194,9 @@
 ||34.com
 ||3454.com
 ||3456.cc
+||3464.com
 ||34job.com
+||34tao.com
 ||34wan.com
 ||35.com
 ||350ban.com
@@ -1174,6 +1211,7 @@
 ||35cc.cc
 ||35go.net
 ||35inter.com
+||35kk.cc
 ||35nic.com
 ||35pic.com
 ||35q.com
@@ -1303,6 +1341,7 @@
 ||37cy.com
 ||37degree.com
 ||37haitao.com
+||37k.com
 ||37kfb.com
 ||37nixi.com
 ||37see.com
@@ -1324,12 +1363,14 @@
 ||3937.com
 ||39655.com
 ||3987.com
+||398990.com
 ||39hp.com
 ||39jks.com
 ||39kf.com
 ||39sh.com
 ||39yss.com
 ||39yst.com
+||3avox.com
 ||3big.net
 ||3bu.com
 ||3ccomic.com
@@ -1341,6 +1382,7 @@
 ||3dkezhan.com
 ||3dmgame.com
 ||3dmgame.net
+||3dtank.com
 ||3dwebyx.com
 ||3dwwwgame.com
 ||3dygame.com
@@ -1413,6 +1455,7 @@
 ||42331.com
 ||425300.co
 ||425300.com
+||429006.com
 ||4339.cc
 ||435200.com
 ||4355.com
@@ -1428,6 +1471,8 @@
 ||43yl.com
 ||442zb.com
 ||4443.com
+||44485.com
+||44670.org
 ||4492.com
 ||449377.com
 ||45575.com
@@ -1453,6 +1498,7 @@
 ||49358.com
 ||497.com
 ||4997.com
+||49lou.com
 ||49wanwan.com
 ||49you.com
 ||4azz.com
@@ -1562,6 +1608,7 @@
 ||51camel.com
 ||51ccdn.com
 ||51chaoban.com
+||51chongdian.net
 ||51chudui.com
 ||51chuguo.org
 ||51chuli.com
@@ -1573,6 +1620,7 @@
 ||51ctzs.com
 ||51dai.com
 ||51daifu.com
+||51dc.com
 ||51ditu.com
 ||51dns.com
 ||51dojoy.com
@@ -1626,6 +1674,7 @@
 ||51junshi.com
 ||51juzhai.com
 ||51jyrc.com
+||51jyzs.com
 ||51kahui.com
 ||51kaxun.com
 ||51kids.com
@@ -1644,6 +1693,7 @@
 ||51mole.com
 ||51mp3ring.com
 ||51nb.com
+||51nod.com
 ||51nuoqi.com
 ||51offer.com
 ||51oscar.com
@@ -1661,6 +1711,7 @@
 ||51rencai.com
 ||51report.com
 ||51rong.com
+||51room.net
 ||51rzy.com
 ||51sdjob.com
 ||51seer.com
@@ -1741,6 +1792,7 @@
 ||520ued.com
 ||520wawa.com
 ||520xs.com
+||520zg.net
 ||5211game.com
 ||521360.com
 ||521che.com
@@ -1789,6 +1841,7 @@
 ||52jscn.com
 ||52jxt.com
 ||52kmh.com
+||52laodong.com
 ||52life.cc
 ||52luckystar.com
 ||52mac.com
@@ -1797,8 +1850,10 @@
 ||52njl.com
 ||52op.net
 ||52pdahd.com
+||52ph.com
 ||52pk.com
 ||52pk.net
+||52psxt.com
 ||52qudao.com
 ||52qupu.com
 ||52rd.com
@@ -1828,6 +1883,7 @@
 ||5336.com
 ||5336cf.com
 ||537.com
+||537hx.com
 ||538538.com
 ||5399.com
 ||53kf.com
@@ -1884,6 +1940,7 @@
 ||5654.com
 ||565656.com
 ||566.com
+||5666.tv
 ||566855.com
 ||5669.com
 ||566job.com
@@ -1902,6 +1959,7 @@
 ||56pan.com
 ||56qss.com
 ||56yk.com
+||56zzx.com
 ||57023.com
 ||571free.com
 ||571xz.com
@@ -1932,6 +1990,7 @@
 ||5874.com
 ||587766.com
 ||5888.tv
+||588art.com
 ||588ku.com
 ||58921.com
 ||58daojia.com
@@ -1943,6 +2002,7 @@
 ||58game.com
 ||58guakao.com
 ||58house.com
+||58huoban.com
 ||58img.com
 ||58pic.com
 ||58player.com
@@ -1961,6 +2021,7 @@
 ||5925car.com
 ||592ht.com
 ||592wg.cc
+||592xyx.com
 ||592zn.com
 ||593yx.com
 ||595818.com
@@ -2023,6 +2084,7 @@
 ||5mnh.com
 ||5nd.com
 ||5pao.com
+||5pinhui.com
 ||5pk.com
 ||5pop.com
 ||5qq.com
@@ -2069,6 +2131,7 @@
 ||612.com
 ||612345.com
 ||6137.net
+||615c.com
 ||6164.com
 ||61658.com
 ||6168511.com
@@ -2082,10 +2145,12 @@
 ||61flash.com
 ||61gequ.com
 ||61hr.com
+||61k.com
 ||61mami.com
 ||61ux.com
 ||61zy.cc
 ||628.com
+||629k.com
 ||632news.com
 ||63wang.com
 ||64365.com
@@ -2159,8 +2224,10 @@
 ||679wan.com
 ||67gu.com
 ||67lm.com
+||67mo.com
 ||67wanwan.com
 ||680.com
+||682.com
 ||68211.com
 ||685.com
 ||685wo.com
@@ -2187,6 +2254,7 @@
 ||6b3b.com
 ||6dad.com
 ||6dan.com
+||6dhx.com
 ||6diy.com
 ||6du.in
 ||6dvip.com
@@ -2262,6 +2330,7 @@
 ||72link.com
 ||72pines.com
 ||72so.net
+||72xit.com
 ||72xuan.com
 ||72zx.com
 ||731c.com
@@ -2296,17 +2365,20 @@
 ||76zu.com
 ||7711.com
 ||7723.com
+||7724.com
 ||77313.com
 ||774g.com
 ||7755.com
 ||7766.org
 ||77745.com
 ||777edu.com
+||777moban.com
 ||777wyx.com
 ||777zp.com
 ||778669.com
 ||7788.com
 ||7789.com
+||7794.com
 ||7799.hk
 ||7799520.com
 ||77acg.com
@@ -2356,6 +2428,7 @@
 ||7dapei.com
 ||7daysinn.biz
 ||7do.net
+||7down.net
 ||7dps.com
 ||7edown.com
 ||7fgame.com
@@ -2364,6 +2437,7 @@
 ||7han.com
 ||7hcn.com
 ||7hon.com
+||7htcw.com
 ||7jia2.com
 ||7jk.com
 ||7k35.com
@@ -2437,6 +2511,7 @@
 ||8211.com
 ||82222919.com
 ||82341.com
+||82401980.com
 ||826.com
 ||8264.com
 ||8265.com
@@ -2463,8 +2538,11 @@
 ||860527.com
 ||860598.com
 ||86118114.net
+||86262.com
 ||862sc.com
 ||86516.com
+||8671.net
+||867game.com
 ||8682.cc
 ||8684.com
 ||868578.com
@@ -2519,6 +2597,7 @@
 ||886520.cc
 ||8866.org
 ||88680.com
+||886966.com
 ||886abc.com
 ||8875.org
 ||88845678.com
@@ -2536,6 +2615,7 @@
 ||88mf.com
 ||88rpg.net
 ||88tc.com
+||88u.com
 ||88ysg.com
 ||88yz.com
 ||88zf.com
@@ -2572,11 +2652,13 @@
 ||8twan.com
 ||8uka.com
 ||8uuzg.com
+||8v.com
 ||8vcom.com
 ||8wdns.com
 ||8wss.com
 ||8yeyou.com
 ||8ynq.com
+||9000idc.com
 ||9000wy.com
 ||900gold.com
 ||90123.com
@@ -2631,6 +2713,7 @@
 ||91ddcc.com
 ||91dena.com
 ||91doujin.com
+||91game.com
 ||91gaoqing.com
 ||91goodschool.com
 ||91huayi.com
@@ -2645,11 +2728,13 @@
 ||91lx.com
 ||91money.com
 ||91open.com
+||91pod.com
 ||91px.com
 ||91rb.com
 ||91rtb.com
 ||91search.net
 ||91student.com
+||91suan.com
 ||91toufang.com
 ||91town.com
 ||91ttx.com
@@ -2684,6 +2769,7 @@
 ||92you.com
 ||934dsw.com
 ||9355.com
+||936u.com
 ||9377.com
 ||937708.com
 ||937750.com
@@ -2816,16 +2902,20 @@
 ||99eo.com
 ||99fang.com
 ||99fund.com
+||99haoche.com
 ||99hots.com
 ||99huizhou.com
 ||99ielts.com
 ||99inf.com
 ||99inn.cc
 ||99jianzhu.com
+||99manga.com
+||99mh.com
 ||99nahuo.com
 ||99pet.com
 ||99pto.com
 ||99qh.com
+||99re6.com
 ||99read.com
 ||99sjyx.com
 ||99sushe.com
@@ -2933,8 +3023,10 @@
 ||acfun.tv
 ||acg.tv
 ||acg6.com
+||acgdb.com
 ||acgdoge.com
 ||acgdoge.net
+||acglingsheng8.com
 ||acgmall.com
 ||acgmiku.com
 ||acgslcc.com
@@ -2971,6 +3063,7 @@
 ||adhouyi.com
 ||adhufeng.com
 ||adidas-store.com.tw
+||adidasevent.com
 ||adiic.com
 ||adinall.com
 ||adirects.com
@@ -3005,6 +3098,7 @@
 ||adxiaozi.com
 ||adxzwl.com
 ||adyun.com
+||ae-people.com
 ||ae60.com
 ||aeenets.com
 ||aegins.net
@@ -3035,6 +3129,7 @@
 ||agucn.com
 ||aguo.com
 ||ah8.cc
+||ahaba.net
 ||ahauto.com
 ||ahcaijing.com
 ||ahchanyi.com
@@ -3091,15 +3186,19 @@
 ||aige010.com
 ||aigo.com
 ||aigou.com
+||aiguge.xyz
 ||aihami.com
 ||aihandu.com
 ||aihangtian.com
 ||aihao.org
 ||aihehuo.com
+||aihuanshu.com
 ||aihuigo.com
 ||aihuishou.com
+||aihuo.cc
 ||aiimg.com
 ||aija.com
+||aijiatxt.com
 ||aijikong.com
 ||aijiutou.com
 ||aiju.com
@@ -3134,17 +3233,22 @@
 ||aitingwang.com
 ||aitoushe.com
 ||aituan.com
+||aitupian.com
 ||aitxt.com
 ||aiuw.com
+||aiuxian.com
 ||aiwan91.com
 ||aiweibang.com
 ||aiweibk.com
 ||aiwenwo.net
+||aixchina.net
 ||aixifan.com
+||aiyaohai.com
 ||aiyidu.com
 ||aiyingshi.com
 ||aiyiqu.com
 ||aiykj.com
+||aiyou.com
 ||aiyousheng.com
 ||aiyouxi.com
 ||aizhan.com
@@ -3160,8 +3264,10 @@
 ||ajmide.com
 ||ajwang.com
 ||ak92.com
+||akaedu.org
 ||akaifa.com
 ||akangdi.com
+||akanmai.com
 ||akbfun48.com
 ||akdanji.com
 ||akhtm.com
@@ -3234,6 +3340,7 @@
 ||allyingshi.com
 ||allzhaopin.com
 ||alma-intl.com
+||alongsky.com
 ||altfarm.mediaplex.com
 ||altxw.com
 ||alu1886.com
@@ -3246,10 +3353,12 @@
 ||amap.com
 ||amberedu.com
 ||ambow.com
+||amcloth.com
 ||amd.com
 ||amicool.net
 ||amobbs.com
 ||ampcn.com
+||amysql.com
 ||analyticskey.com
 ||anatuprak.com
 ||anav.com
@@ -3294,6 +3403,7 @@
 ||anquanbao.com
 ||anquanduns.com
 ||anquanweb.com
+||anrayer.com
 ||anrenmind.com
 ||anruan.com
 ||ansgo.com
@@ -3315,7 +3425,9 @@
 ||anxindeli.com
 ||anxinmai.com
 ||anxjm.com
+||anxz.com
 ||anxz.download
+||any001.xyz
 ||any123.com
 ||any2000.com
 ||any8.com
@@ -3329,15 +3441,19 @@
 ||anzhuola.com
 ||anzhuotiao.com
 ||anzhuoyuan.com
+||anzogame.com
 ||anzow.com
+||ao119.com
 ||ao66.com
 ||aoddoll.com
+||aoddollbbs.com
 ||aohuavisa.com
 ||aoisnow.net
 ||aojiyouxue.com
 ||aojiyuke.com
 ||aojoo.com
 ||aolei520.com
+||aomary.com
 ||aomenpaimai.com
 ||aomicom.com
 ||aoomoo.com
@@ -3372,6 +3488,7 @@
 ||apkyx.com
 ||apowo.com
 ||apowogame.com
+||app-echo.com
 ||app-sage.com
 ||app111.com
 ||app111.org
@@ -3400,6 +3517,7 @@
 ||apple.com
 ||apple2003.com
 ||apple4.us
+||appledoesnt.com
 ||applepie.cc
 ||appletuan.com
 ||applinzi.com
@@ -3441,6 +3559,7 @@
 ||art-ba-ba.com
 ||art456.com
 ||artbaoyi.com
+||artcns.com
 ||artddu.com
 ||artdongyuan.com
 ||artebuy.com
@@ -3462,10 +3581,12 @@
 ||as2sc.com
 ||asc-wines.com
 ||asd868.com
+||asean168.com
 ||aseantradecenter.com
 ||asgfw.com
 ||ashan.org
 ||ashopx.com
+||ashows.com
 ||asiabt.com
 ||asiae.com
 ||asilu.com
@@ -3478,18 +3599,23 @@
 ||aspx.cc
 ||asqql.com
 ||assets-ssl.xbox.com
+||astorpiano.com
 ||astropulsion.com
 ||at-express.com
 ||at58.com
+||at98.com
 ||ataozx.com
 ||atatech.org
 ||atax.cc
+||atelier39.org
 ||atf.com
 ||atimg.com
+||atleeon.com
 ||atobo.com
 ||atomic-art.com
 ||atool.org
 ||atpanel.com
+||atpapapa.com
 ||attri.mobi
 ||atwtech.net
 ||auak.com
@@ -3567,6 +3693,7 @@
 ||babidou.com
 ||baby169.net
 ||babymob.com
+||babyql.com
 ||babytree.com
 ||babytreeimg.com
 ||bacaor.com
@@ -3655,6 +3782,7 @@
 ||bajiemoney.com
 ||bajiu.org
 ||balijieji.com
+||ball114.com
 ||ballpure.com
 ||bama555.com
 ||bamaiwo.com
@@ -3668,6 +3796,7 @@
 ||bandenghui.com
 ||bang5mai.com
 ||bangbang521.com
+||bangchuixuetang.com
 ||bangcle.com
 ||banggo.com
 ||banghui.org
@@ -3728,12 +3857,14 @@
 ||baoruan.com
 ||baoshanjie.com
 ||baosteel.com
+||baotang5.cc
 ||baotime.com
 ||baotoufxh.com
 ||baotu.com
 ||baoxian.com
 ||baoxianelife.com
 ||baoxinleasing.com
+||baoyt.com
 ||baoyuntong.com
 ||baozang.com
 ||baozhuang.biz
@@ -3741,10 +3872,12 @@
 ||baozou.com
 ||baozoumanhua.com
 ||baozouribao.com
+||baozouriji.com
 ||baqima.com
 ||barmap.com
 ||barretlee.com
 ||bashan.com
+||bashumall.com
 ||batiaoyu.com
 ||batterydir.com
 ||batterykey.com
@@ -3772,7 +3905,9 @@
 ||bbs029.com
 ||bbsheji.com
 ||bbsls.net
+||bbsmax.com
 ||bbstoday.com
+||bbstoday.net
 ||bbtcaster.com
 ||bbwfish.com
 ||bbyckj.com
@@ -3791,6 +3926,7 @@
 ||bczx.cc
 ||bd-film.com
 ||bdall.com
+||bdatu.com
 ||bdchina.com
 ||bdf2.com
 ||bdgycx.com
@@ -3810,12 +3946,14 @@
 ||bedese.com
 ||beego.me
 ||beelink.com
+||beetman.net
 ||beevideo.tv
 ||behe.com
 ||beianbeian.com
 ||beianok.com
 ||beibaotu.com
 ||beibei.com
+||beibiaogroup.net
 ||beidao.club
 ||beifabook.com
 ||beifangfoshifen.com
@@ -3886,6 +4024,7 @@
 ||bfsniuhui.com
 ||bftv.com
 ||bfyx.com
+||bfyx.net
 ||bgl88.com
 ||bgrimm.com
 ||bh-eye.com
@@ -3918,6 +4057,7 @@
 ||biedoul.com
 ||bieshu.com
 ||bifbi.com
+||bifen.la
 ||big-bit.com
 ||bigwww.com
 ||bigxiao.com
@@ -3928,6 +4068,8 @@
 ||bijitu.com
 ||bikantu.com
 ||bikehome.cc
+||bikehome.net
+||bikeji.com
 ||biketo.com
 ||bilibili.cc
 ||bilibili.com
@@ -3966,6 +4108,7 @@
 ||bittyboy.com
 ||bitvc.com
 ||bivean.com
+||biwo.com
 ||biyabi.com
 ||biyangwang.com
 ||biyao.com
@@ -3996,6 +4139,7 @@
 ||bjfisc.com
 ||bjfkzl.com
 ||bjhotels.com
+||bjinnovate.com
 ||bjjdzx.org
 ||bjjf.cc
 ||bjjingda.com
@@ -4004,7 +4148,9 @@
 ||bjmama.com
 ||bjmama.net
 ||bjmanyuan.com
+||bjmeikao.com
 ||bjmti.com
+||bjnew.net
 ||bjp321.com
 ||bjrc.com
 ||bjrcb.com
@@ -4084,10 +4230,12 @@
 ||boboshone.com
 ||bocep2c.com
 ||bocim.com
+||bocommleasing.com
 ||bocommlife.com
 ||bocommtrust.com
 ||bohailife.net
 ||bohaishibei.com
+||bohaiyun.com
 ||bokecc.com
 ||bokee.com
 ||bokee.net
@@ -4100,6 +4248,7 @@
 ||bon-top.com
 ||booeoo.com
 ||boohee.com
+||book118.com
 ||bookbao.com
 ||bookdao.com
 ||bookschina.com
@@ -4141,6 +4290,7 @@
 ||bridgetiger.com
 ||brightdairy.com
 ||brighttj.com
+||brushes8.com
 ||bs265.com
 ||bshare.com
 ||bsida.com
@@ -4151,7 +4301,9 @@
 ||bsyjrb.com
 ||bt720.net
 ||btbbt.cc
+||btbbt.com
 ||btbet.in
+||btbt.tv
 ||btc100.com
 ||btc114.com
 ||btc123.com
@@ -4205,12 +4357,16 @@
 ||bundpic.com
 ||bus84.com
 ||bushu.us
+||busionline.com
 ||bussou.com
+||busyan.com
 ||busytrade.com
+||buuyu.com
 ||buycarcn.com
 ||buyiju.com
 ||buzzads.com
 ||bvbfans.net
+||bw40.net
 ||bwchinese.com
 ||bwhgsb.com
 ||bwie.net
@@ -4288,9 +4444,11 @@
 ||caidian.com
 ||caidianqu.com
 ||caiftv.com
+||caifu369.com
 ||caigou2003.com
 ||caiguu.com
 ||caihao.com
+||caiji.info
 ||caijin2.com
 ||caijingche.com
 ||caijixia.com
@@ -4298,6 +4456,7 @@
 ||caikuan.net
 ||caikuu.com
 ||cailele.com
+||cailianpress.com
 ||cailiao.com
 ||cailongwang.com
 ||cailutong.com
@@ -4370,6 +4529,7 @@
 ||cbsrb.com
 ||cbsrc.com
 ||cc148.com
+||cc310.com
 ||cc6uu.com
 ||cc961.com
 ||ccabchina.com
@@ -4404,6 +4564,7 @@
 ||cclcn.com
 ||cclndx.com
 ||ccm-1.com
+||ccmama.com
 ||ccmanhua.com
 ||ccn360.com
 ||ccnew.com
@@ -4561,6 +4722,7 @@
 ||cgauth.xyz
 ||cgbolo.com
 ||cgebook.com
+||cgink.com
 ||cgjoy.com
 ||cgkee.com
 ||cgmodel.com
@@ -4569,6 +4731,9 @@
 ||cgown.com
 ||cgpad.com
 ||cgplusplus.com
+||cgrealm.org
+||cgsb.net
+||cgt8.net
 ||cgtz.com
 ||cguardian.com
 ||cguiw.com
@@ -4641,8 +4806,10 @@
 ||chapuw.com
 ||chasfz.com
 ||chashebao.com
+||chatomali.com
 ||chaxun.la
 ||chayeo.com
+||chayingyong.com
 ||chazidian.com
 ||chazuo.com
 ||chbtc.com
@@ -4659,6 +4826,7 @@
 ||cheaphuo.com
 ||cheari.com
 ||chebao360.com
+||chebiaow.com
 ||chechong.com
 ||checkoo.com
 ||chedaitong.net
@@ -4830,6 +4998,7 @@
 ||chinacg.org
 ||chinachemnet.com
 ||chinachugui.com
+||chinacics.org
 ||chinacnr.com
 ||chinacoop.com
 ||chinacourt.org
@@ -4853,6 +5022,7 @@
 ||chinaemu.org
 ||chinaequity.net
 ||chinaeye.com
+||chinafanyi.com
 ||chinafastener.biz
 ||chinafcx.com
 ||chinafilm.com
@@ -4899,6 +5069,7 @@
 ||chinalawedu.com
 ||chinalawinfo.com
 ||chinaleather.org
+||chinaleica.com
 ||chinalink-sh.net
 ||chinalions.com
 ||chinalongmai.net
@@ -4918,6 +5089,7 @@
 ||chinamp3.com
 ||chinamsr.com
 ||chinamypp.com
+||chinanbb.com
 ||chinanetcenter.com
 ||chinanetsun-dns.com
 ||chinanetsun.com
@@ -4945,6 +5117,7 @@
 ||chinaren.com
 ||chinarootdesign.com
 ||chinarta.com
+||chinasbjy.com
 ||chinasexq.com
 ||chinasiwei.com
 ||chinasky.net
@@ -4962,6 +5135,7 @@
 ||chinatelecom-ec.com
 ||chinatelling.com
 ||chinatibetnews.com
+||chinaticket.com
 ||chinatietong.com
 ||chinatimes.cc
 ||chinatour-net.com
@@ -4978,6 +5152,7 @@
 ||chinauui.com
 ||chinavalue.net
 ||chinavegan.com
+||chinavid.com
 ||chinavisual.com
 ||chinavivaki.com
 ||chinavnet.com
@@ -5035,6 +5210,7 @@
 ||chndtb.com
 ||chngalaxy.com
 ||chngc.net
+||chnlanker.com
 ||chnmilitary.com
 ||chnpac.com
 ||chnsuv.com
@@ -5045,6 +5221,7 @@
 ||chong4.net
 ||chongchuang.biz
 ||chongdiantou.com
+||chongshun.net
 ||chongwu.cc
 ||chotee.com
 ||chou.im
@@ -5073,12 +5250,14 @@
 ||chuansongme.com
 ||chuapp.com
 ||chuban.cc
+||chufaba.me
 ||chufw.com
 ||chuguo.io
 ||chuguo78.com
 ||chuguobang.cc
 ||chuguohome.com
 ||chuguoqu.com
+||chuixue.com
 ||chujinsuo.com
 ||chukong-inc.com
 ||chun.tips
@@ -5205,6 +5384,7 @@
 ||cmcm.com
 ||cmcmcdn.com
 ||cmct.cc
+||cmd5.com
 ||cmd5.org
 ||cmejob.com
 ||cmfchina.com
@@ -5214,6 +5394,7 @@
 ||cmidc.net
 ||cmitsd.com
 ||cmiyu.com
+||cmo.so
 ||cmol.com
 ||cmpassport.com
 ||cmread.com
@@ -5229,6 +5410,7 @@
 ||cn-railway.net
 ||cn-roofexpert.com
 ||cn-sass.com
+||cn-teacher.com
 ||cn-truck.com
 ||cn.archive.ubuntu.com
 ||cn.bing.com
@@ -5265,6 +5447,7 @@
 ||cnair.com
 ||cnak2.englishtown.com
 ||cnal.com
+||cname.co
 ||cnanzhi.com
 ||cnautonews.com
 ||cnav.club
@@ -5421,6 +5604,7 @@
 ||cnpet.cc
 ||cnpickups.com
 ||cnpkm.com
+||cnpmjs.org
 ||cnpowdernet.com
 ||cnpps.org
 ||cnpubg.com
@@ -5441,6 +5625,7 @@
 ||cnrmall.com
 ||cnrmobile.com
 ||cnsc8.com
+||cnscg.org
 ||cnscore.com
 ||cnseeq.com
 ||cnseikai.com
@@ -5531,9 +5716,11 @@
 ||cocos2d-x.org
 ||cocos2dev.com
 ||cocos2dx.net
+||cocostudio.org
 ||cocounion.com
 ||code4app.com
 ||code668.com
+||codebuild.me
 ||codeceo.com
 ||codecloud.net
 ||codekk.com
@@ -5550,10 +5737,12 @@
 ||cofool.com
 ||cogobuy.com
 ||cogonline.com
+||coinsky.com
 ||coinvs.com
 ||colabug.com
 ||colafile.com
 ||collamark.com
+||color.cc
 ||coloros.com
 ||colourhs.com
 ||comac.cc
@@ -5565,6 +5754,7 @@
 ||comingspace.com
 ||comlan.com
 ||commchina.net
+||communicatte.com
 ||companydns.com
 ||compass-ssl.xbox.com
 ||compass-ssl.xboxlive.com
@@ -5582,6 +5772,7 @@
 ||consuargensh.com
 ||coo8.com
 ||coodir.com
+||coodoor.com
 ||cooffee.net
 ||coohua.com
 ||cooit.net
@@ -5605,6 +5796,7 @@
 ||corpize.com
 ||cosco.com
 ||cosplay8.com
+||cosplayla.com
 ||cosplayzone.net
 ||cozyee.com
 ||cp2y.com
@@ -5614,6 +5806,7 @@
 ||cpmok.net
 ||cpooo.com
 ||cpp114.com
+||cpp1x.org
 ||cppblog.com
 ||cppfans.org
 ||cppfoto.com
@@ -5644,6 +5837,7 @@
 ||cqhaokou.com
 ||cqios.com
 ||cqjiaz.com
+||cqjj.net
 ||cqjjnet.com
 ||cqjob.com
 ||cqjsxx.com
@@ -5671,6 +5865,7 @@
 ||cqwulong.net
 ||cqxh120.com
 ||cqxiehe.com
+||cqxj120.com
 ||cqxsss.com
 ||cqyc.net
 ||cqyfgs.com
@@ -5708,6 +5903,7 @@
 ||crsky.com
 ||crystaledu.com
 ||cs-air.com
+||cs027.com
 ||cs090.com
 ||cs2sc.com
 ||cs53.com
@@ -5717,6 +5913,7 @@
 ||csair.com
 ||csairholiday.com
 ||csaspx.com
+||csbdfyy.net
 ||csbew.com
 ||csc108.com
 ||csc86.com
@@ -5731,6 +5928,7 @@
 ||cseyzx.com
 ||csgc365.com
 ||csgm168.com
+||cshxdc.com
 ||cshzw.com
 ||csi.gstatic.com
 ||cskaoyan.com
@@ -5749,6 +5947,7 @@
 ||css88.com
 ||cssforest.org
 ||cssmoban.com
+||cssxn.com
 ||cssyzxx.com
 ||csto.com
 ||cstudyabroad.com
@@ -5850,6 +6049,7 @@
 ||cxwl.com
 ||cxwz.org
 ||cxyym.com
+||cxz120.com
 ||cy-e.com
 ||cy.com
 ||cy177.net
@@ -5858,6 +6058,7 @@
 ||cy635.net
 ||cy887.com
 ||cyacc.com
+||cyad.cc
 ||cyad001.com
 ||cyad456.com
 ||cycnet.com
@@ -5876,6 +6077,7 @@
 ||cz88.net
 ||czbanbantong.com
 ||czbank.com
+||czbh.com
 ||czbtv.com
 ||czcits.com
 ||czepb.com
@@ -5896,6 +6098,7 @@
 ||czssx.com
 ||cztour.com
 ||cztv.com
+||cztv.tv
 ||czvv.com
 ||czwlgy.com
 ||czwlzx.com
@@ -5907,6 +6110,7 @@
 ||d1net.com
 ||d1xz.net
 ||d2scdn.com
+||d3dweb.com
 ||d3f.com
 ||d3zone.com
 ||d4000.com
@@ -5997,6 +6201,7 @@
 ||damuzzz.com
 ||dance365.com
 ||dance888.com
+||dandanplay.net
 ||dandao.cc
 ||dandaowh.com
 ||dandongbank.com
@@ -6020,6 +6225,7 @@
 ||daoapp.me
 ||daocloud.io
 ||daodao.com
+||daodianfu.com
 ||daogoubang.com
 ||daoguo.com
 ||daohui.net
@@ -6042,6 +6248,7 @@
 ||darryring.com
 ||daruan.com
 ||dashangu.com
+||dashenglaile.com
 ||dashenquan.com
 ||dashet.com
 ||dashi.com
@@ -6113,6 +6320,7 @@
 ||ddheli.com
 ||ddkefu.com
 ||ddkj.me
+||ddle.cc
 ||ddmap.com
 ||ddmapimg.com
 ||ddmeishi.com
@@ -6138,8 +6346,10 @@
 ||dedecms8.com
 ||deepdevelop.com
 ||deepepg.com
+||deepin.com
 ||deepin.io
 ||deepin.org
+||deepinmind.com
 ||deepvps.com
 ||deerchao.net
 ||deercv.com
@@ -6167,7 +6377,10 @@
 ||deskier.com
 ||desktx.com
 ||destoon.com
+||dev4living.com
+||devdown.com
 ||devework.com
+||devexpresscn.com
 ||devtang.com
 ||deyang5.com
 ||deyi.com
@@ -6213,6 +6426,7 @@
 ||dh818.com
 ||dhchouse.com
 ||dhifi.com
+||di1.me
 ||dianapp.com
 ||dianchuifeng.net
 ||diandainfo.com
@@ -6228,6 +6442,7 @@
 ||diankeji.com
 ||dianli114.com
 ||dianliang8.com
+||dianmiaoshou.com
 ||diannaoban.com
 ||diannaodian.com
 ||diano.photo
@@ -6236,12 +6451,14 @@
 ||dianpingba.com
 ||dianrong.com
 ||dianru.com
+||dianru.net
 ||dianwoba.com
 ||dianxinnews.com
 ||dianying.cm
 ||dianying.fm
 ||dianyingwenxue.com
 ||dianyuan.com
+||dianzhentan.com
 ||dianzhi.com
 ||dianzhu.net
 ||diaochapai.com
@@ -6269,6 +6486,7 @@
 ||diediao.com
 ||diemameishi.com
 ||diff.im
+||digi-uniclick.net
 ||digi-wo.com
 ||digitaling.com
 ||diglog.com
@@ -6322,6 +6540,7 @@
 ||diyer.so
 ||diyiapp.com
 ||diyicai.com
+||diyidan.net
 ||diyifanwen.com
 ||diyippt.com
 ||diyishijian.com
@@ -6333,19 +6552,24 @@
 ||diyou.co
 ||diypda.com
 ||diyring.cc
+||diyvm.com
 ||dj024.com
 ||dj129.com
 ||dj520.com
 ||dj527.com
+||dj880.com
 ||dj97.com
 ||dj970.com
 ||djcb71.com
+||djfansub.com
 ||djjw.com
 ||djkk.com
 ||djlsoft.net
 ||djob.com
+||djshuo.tv
 ||djstg.com
 ||djw51.com
+||djwma.com
 ||djxww.com
 ||djye.com
 ||djyjob.com
@@ -6359,11 +6583,13 @@
 ||dlcaic.com
 ||dld.com
 ||dldcdn.com
+||dldk8.com
 ||dledu.com
 ||dlflavor.com
 ||dlgaoji.com
 ||dljrw.com
 ||dljs.net
+||dlkeda.com
 ||dllake.com
 ||dlrjtz.com
 ||dltcedu.org
@@ -6373,6 +6599,7 @@
 ||dm115.com
 ||dm300.com
 ||dm456.com
+||dm530.com
 ||dmaow.com
 ||dmcache.com
 ||dmecy.com
@@ -6381,6 +6608,7 @@
 ||dmguo.com
 ||dmhy.org
 ||dmiug.com
+||dmm.hk
 ||dmozdir.org
 ||dmrtb.com
 ||dmtrck.com
@@ -6392,6 +6620,7 @@
 ||dnbbs.com
 ||dnbiz.com
 ||dnion.com
+||dnjishu.com
 ||dnmall.com
 ||dns-diy.com
 ||dns-diy.net
@@ -6435,6 +6664,8 @@
 ||dnsv5.com
 ||dnsv8.net
 ||dnsvcache.com
+||dnszh.com
+||dnwx.com
 ||dnyyjcw.com
 ||do189.com
 ||doadmin.com
@@ -6449,16 +6680,20 @@
 ||dodocss.com
 ||dodolia.com
 ||dodonew.com
+||doershow.com
 ||dogwhere.com
 ||dohuo.com
 ||dolby.cc
 ||dolcn.com
+||doll-leaves.com
 ||doll-love.com
 ||doll-zone.com
 ||dolphin-browser.com
 ||dolphin.com
 ||domobcdn.com
 ||don00.com
+||doname.com
+||donever.co
 ||donews.com
 ||dongao.com
 ||dongbei8.com
@@ -6471,7 +6706,9 @@
 ||dongnanshan.com
 ||dongqiudi.com
 ||dongshou.com
+||dongsuns.com
 ||dongting.com
+||dongua.com
 ||dongxi.net
 ||donkey4u.com
 ||dooland.com
@@ -6490,6 +6727,7 @@
 ||doubanz.com
 ||doubleclick.net
 ||doudouguo.com
+||douglassclub.com
 ||douguo.com
 ||douguo.net
 ||doujind.com
@@ -6517,11 +6755,13 @@
 ||downyi.com
 ||doyoo.net
 ||doyouhike.net
+||dozo.com.tw
 ||dpfile.com
 ||dq247.com
 ||dqccc.cc
 ||dqccc.com
 ||dqguo.com
+||dqz.tv
 ||dragonclaw.org
 ||drakeet.me
 ||drcbank.com
@@ -6583,12 +6823,14 @@
 ||duokebo.com
 ||duoku.com
 ||duole.com
+||duolegame.com
 ||duolunmoma.org
 ||duomai.com
 ||duomi.com
 ||duomi.fm
 ||duomiyy.com
 ||duoqu.com
+||duorou.com
 ||duose.com
 ||duoshuo.com
 ||duost.com
@@ -6610,6 +6852,7 @@
 ||duzhebao.com
 ||duzhoumo.com
 ||dv37.com
+||dvbbs.net
 ||dvbcn.com
 ||dwjoy.com
 ||dwrh.net
@@ -6620,6 +6863,7 @@
 ||dxlaa.com
 ||dxpmedia.com
 ||dxsbb.com
+||dxscy.info
 ||dxsvr.com
 ||dxwd.com
 ||dxy.com
@@ -6657,12 +6901,14 @@
 ||dzblxx.com
 ||dzcozon.com
 ||dzdoll.com
+||dzdollbbs.com
 ||dzpk.com
 ||dzsc.com
 ||dzwww.com
 ||dzzc.com
 ||e-caij.com
 ||e-cyb.com
+||e-gooo.com
 ||e-jjj.com
 ||e-job580.com
 ||e-lining.com
@@ -6701,22 +6947,26 @@
 ||easyicon.net
 ||easytomessage.com
 ||eb80.com
+||ebadu.net
 ||ebaite.com
 ||ebama.net
 ||ebaydesign.hk
 ||ebdoor.com
 ||ebigear.com
+||ebloe.com
 ||ebrun.com
 ||ebscn.com
 ||ebtang.com
 ||ebuy31.com
 ||ebuybible.com
+||ec-ae.com
 ||ec4.images-amazon.com
 ||ec517.com
 ||ec8.images-amazon.com
 ||ecartoon.net
 ||eccn.com
 ||eccsp.org
+||eceibs20.com
 ||echuandan.com
 ||ecice06.com
 ||ecitic.com
@@ -6726,6 +6976,7 @@
 ||ecqun.com
 ||ecvv.com
 ||ecwan77.net
+||ecyti.com
 ||ed10.org
 ||ed2000.com
 ||ed2kers.com
@@ -6737,6 +6988,7 @@
 ||edaixi.com
 ||edatahome.com
 ||edcba.com
+||edenw.com
 ||edianyou.com
 ||ediclot.com
 ||edingtou.com
@@ -6765,6 +7017,7 @@
 ||eekang.net
 ||eelly.com
 ||eeloves.com
+||eeook.com
 ||eeyy.com
 ||ef-cdn.com
 ||efesco.com
@@ -6787,6 +7040,7 @@
 ||ehowbuy.com
 ||ehowbuy.net
 ||ehtao.net
+||ehuatai.com
 ||ehuyo.com
 ||ejee.com
 ||ejiaju.cc
@@ -6867,6 +7121,7 @@
 ||equn.com
 ||eqxiu.com
 ||eqz.cc
+||eraclean.com
 ||erdosrcb.com
 ||erhaojie.com
 ||erichfund.com
@@ -6884,6 +7139,7 @@
 ||eshimin.com
 ||eshow365.com
 ||esinidc.com
+||esnai.com
 ||esnai.net
 ||esoyu.com
 ||essaystar.com
@@ -6904,6 +7160,7 @@
 ||etoubao.com
 ||etowz.com
 ||etpass.com
+||ettbl.org
 ||ettshop.com
 ||etuan.com
 ||eueueu.com
@@ -6915,13 +7172,16 @@
 ||evergrande.com
 ||evervc.com
 ||everychina.com
+||evfocus.com
 ||evget.com
 ||evlook.com
 ||ewang.com
 ||ewcache.com
+||ewceo.com
 ||ewdcloud.com
 ||ewdtx.com
 ||eweiqi.com
+||ewenyan.com
 ||ewoka.com
 ||ewt.cc
 ||ex-silver.com
@@ -6932,6 +7192,7 @@
 ||excelhome.net
 ||exhera.com
 ||exiaoba.com
+||expai.com
 ||expirenotification.com
 ||expo-china.com
 ||expobbs.com
@@ -6946,6 +7207,7 @@
 ||eyecoat.com
 ||eyou.com
 ||eyoudi.com
+||eyuyao.com
 ||eywedu.org
 ||ezdnscenter.com
 ||ezhun.com
@@ -6986,6 +7248,7 @@
 ||fang.com
 ||fangbei.org
 ||fangchan.com
+||fangdaijisuanqi.com
 ||fangdd.com
 ||fangdr.com
 ||fangfa.net
@@ -7006,10 +7269,12 @@
 ||fangzhur.com
 ||fanhcy.com
 ||fanhuan.com
+||fanhuan.org
 ||fanhui8.com
 ||fanjian.net
 ||fanli.com
 ||fanlibang.com
+||fanpusoft.com
 ||fanqie.im
 ||fanshui.net
 ||fansimg.com
@@ -7037,6 +7302,7 @@
 ||faxingshuo.com
 ||faxsun.com
 ||fb.mu
+||fbaba.net
 ||fblife.com
 ||fbook.net
 ||fc12319.com
@@ -7062,11 +7328,13 @@
 ||feeyo.com
 ||feibaokeji.com
 ||feichang56.com
+||feicuiedu.com
 ||feicuiyufo.com
 ||feidee.com
 ||feidee.net
 ||feie.org
 ||feifantxt.com
+||feihu168.com
 ||feihuo.com
 ||feijigao.com
 ||feiku.com
@@ -7079,8 +7347,10 @@
 ||feitian001.com
 ||feitwo.com
 ||feixue.com
+||feiyu.com
 ||feiyuapi.com
 ||feiyuhk.com
+||feiyuteam.com
 ||feizao.tv
 ||feizl.com
 ||felix021.com
@@ -7096,6 +7366,7 @@
 ||fengcheco.com
 ||fengdunan.com
 ||fengedu.com
+||fengex.com
 ||fengfeng.cc
 ||fengjing.com
 ||fengjr.com
@@ -7125,6 +7396,7 @@
 ||fevte.com
 ||ff8bb.com
 ||ffdns.net
+||ffdu.org
 ||ffdy.cc
 ||ffdy.cn.com
 ||ffftuan.com
@@ -7149,6 +7421,7 @@
 ||financeun.com
 ||findlawimg.com
 ||finebi.com
+||finereport.com
 ||finereporthelp.com
 ||finger66.com
 ||fir.im
@@ -7158,6 +7431,7 @@
 ||fish3000.com
 ||fishcan.net
 ||fishcn.com
+||fishingbar.net
 ||fishings.biz
 ||fishlee.net
 ||fixsub.com
@@ -7165,6 +7439,7 @@
 ||fjeca.com
 ||fjhxbank.com
 ||fjnet.com
+||fjsdfz.org
 ||fjsen.com
 ||fkw100.com
 ||fkweber.com
@@ -7187,6 +7462,7 @@
 ||fn-mart.com
 ||fobshanghai.com
 ||focussend.com
+||focustt.com
 ||foloda.com
 ||folou.com
 ||fondcool.com
@@ -7201,6 +7477,7 @@
 ||forecho.com
 ||forestpest.org
 ||forsou.com
+||forthxu.com
 ||forumimage.net
 ||fosun.com
 ||fotoat.com
@@ -7216,6 +7493,7 @@
 ||fql.cc
 ||fqpai.com
 ||fqzww.com
+||fr-trading.com
 ||franzsandner.com
 ||frdic.com
 ||free9.net
@@ -7233,9 +7511,12 @@
 ||friskit.me
 ||frontenddev.org
 ||fruitday.com
+||fs0757.com
+||fs202.com
 ||fsbankonline.com
 ||fsfund.com
 ||fsjoy.com
+||fsmama.com
 ||fspcdn.com
 ||ftchinese.com
 ||ftimg.net
@@ -7249,6 +7530,7 @@
 ||fucms.com
 ||fudanmed.com
 ||fudian-bank.com
+||fuhuacaijing.com
 ||fuiou.com
 ||fuli.ba
 ||fuliba.asia
@@ -7268,6 +7550,7 @@
 ||fun.tv
 ||fund001.com
 ||fundoy.com
+||funinput.com
 ||funmovie.cc
 ||funshion.com
 ||funshion.net
@@ -7327,9 +7610,11 @@
 ||g5h4.com
 ||gaclib.net
 ||gagays.com
+||gahxjc.com
 ||gaiamount.com
 ||gaini.net
 ||gainianet.com
+||gaitu.com
 ||gaixue.com
 ||galaxyasset.com
 ||galstars.net
@@ -7388,6 +7673,7 @@
 ||gaosboy.com
 ||gaosu.com
 ||gaosubao.com
+||gaotang.cc
 ||gaotieshike.com
 ||gaow.cc
 ||gaoxiaoguan.com
@@ -7436,15 +7722,18 @@
 ||geekwom.com
 ||geekzu.org
 ||geely.com
+||geeseteam.com
 ||geetest.com
 ||geihui.com
 ||geilicdn.com
 ||geilijiasu.com
 ||geishost.com
+||geixinwang.com
 ||gemdale.com
 ||geminight.com
 ||gempay.com
 ||gendantong.com
+||gengnew.com
 ||genshuixue.com
 ||gentags.net
 ||geo.kaspersky.com
@@ -7475,6 +7764,7 @@
 ||ggcj.com
 ||gggjs.com
 ||ggmm777.com
+||ggsafe.com
 ||ggwan.com
 ||ggwu.org
 ||ggxt.net
@@ -7497,6 +7787,7 @@
 ||gitcafe.com
 ||gitcafe.io
 ||gitgeek.net
+||gitshu.com
 ||gjgwpmpt.com
 ||gjhwzjw.com
 ||gjsgw.com
@@ -7507,8 +7798,10 @@
 ||gkkxd.com
 ||gkong.com
 ||gkstk.com
+||gkz6.net
 ||glanimaltrade.com
 ||glcanyin.net
+||gleasy.com
 ||glinfo.com
 ||glmama.com
 ||global-download.acer.com
@@ -7528,6 +7821,7 @@
 ||gmlinux.com
 ||gmtv.cc
 ||gn00.com
+||go.cc
 ||go007.com
 ||go008.com
 ||go2050.com
@@ -7564,6 +7858,7 @@
 ||gongchang.com
 ||gongchou.com
 ||gongheshengshi.com
+||gongjiao.com
 ||gongjiaomi.com
 ||gongkong.com
 ||gongkong001.com
@@ -7575,6 +7870,7 @@
 ||goodbaby.com
 ||goodbabygroup.com
 ||goodgupiao.com
+||goodjzjg.com
 ||goodnic.net
 ||google-analytics.com
 ||googleadservices.com
@@ -7631,6 +7927,7 @@
 ||grfy.net
 ||gridsum.com
 ||gridsumdissector.com
+||gro2005.com
 ||growingio.com
 ||grpreach.com
 ||gruntjs.net
@@ -7683,6 +7980,7 @@
 ||gudong.hk
 ||gugeanzhuangqi.com
 ||gugu5.com
+||guguyu.com
 ||guguzhu.com
 ||guhai66.com
 ||guhantai.com
@@ -7704,6 +8002,7 @@
 ||gulaodi.com
 ||gulu.tv
 ||gunfans.net
+||guntian.com
 ||guobie.com
 ||guochengxin.com
 ||guodu.com
@@ -7716,6 +8015,7 @@
 ||guolv.com
 ||guomii.com
 ||guopeiwang.com
+||guotv.com
 ||guowangbixia.com
 ||guoxue.com
 ||guoxuwang.com
@@ -7748,19 +8048,23 @@
 ||gxh.cc
 ||gxjubao.org
 ||gxp.cc
+||gxqs.org
 ||gxrc.com
 ||gxsell.com
 ||gxsky.com
 ||gy9y.com
+||gymama.com
 ||gyr.cc
 ||gysou.com
 ||gywygl.com
 ||gyxuan.com
 ||gyypw.com
 ||gyzy.com
+||gzbaibian.net
 ||gzdinuan.com
 ||gzdsw.com
 ||gzexpo.com
+||gzfangs.com
 ||gzfilm.com
 ||gzhmbag.com
 ||gzibokan.com
@@ -7775,6 +8079,7 @@
 ||gzsyfk.com
 ||gztour.org
 ||gztwkadokawa.com
+||gzu521.com
 ||gzxhdyc.com
 ||gzycdy.com
 ||gzyeah.com
@@ -7801,8 +8106,10 @@
 ||haha365.com
 ||hahadm.com
 ||hai600.com
+||haianw.com
 ||haibao.com
 ||haibian.com
+||haiboinvest.com
 ||haiboyi.com
 ||haidaibao.com
 ||haier.com
@@ -7835,6 +8142,7 @@
 ||haiwailoushi.com
 ||haiwailoushi.net
 ||haixice.com
+||haixirc.com
 ||haixiuhanhua.com
 ||haiyunx.com
 ||haizhebar.com
@@ -7844,6 +8152,7 @@
 ||hallofix.com
 ||haloapps.com
 ||han-cang.com
+||hanbaiji.com
 ||hancangwenhua.com
 ||hanchangwh.com
 ||handanw.com
@@ -7866,6 +8175,7 @@
 ||hantangpm.net
 ||hanterry.com
 ||hanweb.com
+||hanweimetal.com
 ||hanxinbank.com
 ||hanxiump.com
 ||hanyinet.com
@@ -7908,6 +8218,7 @@
 ||haohaowan8.com
 ||haohtml.com
 ||haoinvest.com
+||haojiaolian.com
 ||haojiaolian.org
 ||haoju5.com
 ||haojunpd.com
@@ -7953,6 +8264,7 @@
 ||happy24uk.com
 ||happycodeboy.com
 ||happyjuzi.com
+||happymath.org
 ||happyphonewoods.com
 ||harborhousehome.com
 ||hasea.com
@@ -8051,6 +8363,7 @@
 ||heitao.me
 ||heiyan.com
 ||heiye.cc
+||heizhushoes.com
 ||hejun.com
 ||heku.org
 ||helijia.com
@@ -8077,6 +8390,7 @@
 ||henkuai.com
 ||henshiyong.com
 ||henter.me
+||hepan.com
 ||hercity.com
 ||herebbs.com
 ||hermoe.com
@@ -8092,22 +8406,26 @@
 ||hexinlif.com
 ||hexiunet.com
 ||hexun.com
+||hey-ganzhou.com
 ||heyang.cc
 ||heyi.com
 ||heyunchou.com
 ||heze.cc
 ||hezerencai.cc
+||hezi.com
 ||hf365.com
 ||hfgrandtheatre.com
 ||hfhddl.com
 ||hfhouse.com
 ||hfjy.com
+||hfmama.com
 ||hfrc.net
 ||hfrcbc.com
 ||hfssw.com
 ||hftfund.com
 ||hftogo.com
 ||hg44111.net
+||hg6666.info
 ||hg6668.cc
 ||hgame.com
 ||hgamecn.com
@@ -8135,6 +8453,7 @@
 ||hi767.com
 ||hiao.com
 ||hiapk.com
+||hibuzz.net
 ||hicdma.com
 ||hichao.com
 ||hichina.com
@@ -8160,6 +8479,7 @@
 ||hisupplier.com
 ||hitao.com
 ||hitokoto.us
+||hitutu.com
 ||hiued.org
 ||hiwifi.com
 ||hixgo.com
@@ -8172,9 +8492,11 @@
 ||hjz518.com
 ||hk-island.hk
 ||hk515.net
+||hk6w.com
 ||hkbaocheng.net
 ||hkbchina.com
 ||hkcd.com
+||hkcgart.com
 ||hkcna.hk
 ||hkctsmembers.com
 ||hkdq.net
@@ -8251,6 +8573,7 @@
 ||homezz.com
 ||hommk.com
 ||homolo.com
+||homolo.org
 ||hong18.com
 ||hongbaosuoping.com
 ||hongbaowifi.com
@@ -8289,6 +8612,7 @@
 ||hotel525.com
 ||hoterran.info
 ||hotsales.net
+||hotuke.com
 ||houdao.com
 ||houpao.net
 ||houqun.net
@@ -8305,6 +8629,7 @@
 ||howzhi.com
 ||hp123.com
 ||hpapapa.com
+||hpyk.com
 ||hqbd.com
 ||hqbpc.com
 ||hqcft.com
@@ -8351,6 +8676,7 @@
 ||html5dw.com
 ||html5tricks.com
 ||html6game.com
+||htpc1.com
 ||htsec.com
 ||httpcn.com
 ||hty.cc
@@ -8368,6 +8694,7 @@
 ||huaer.cc
 ||huagu.com
 ||huaguo.com
+||huahuo.com
 ||huainanren.net
 ||huaiqiong.com
 ||huajia.cc
@@ -8429,7 +8756,9 @@
 ||huing.net
 ||huipinzhe.com
 ||huirendai.com
+||huishoubao.com
 ||huisou.com
+||huitao.net
 ||huitongqingsuan.com
 ||huitouzi.cc
 ||huitouzi.com
@@ -8547,9 +8876,11 @@
 ||hzhuti.com
 ||hzhyhm.com
 ||hzins.com
+||hzjlxx.com
 ||hzlzh.io
 ||hzman.net
 ||hzqz.net
+||hzr1.com
 ||hzrc.com
 ||hzstatic.com
 ||hztags.net
@@ -8562,11 +8893,13 @@
 ||i-matcher.com
 ||i-modec.com
 ||i-same.com
+||i-size.com
 ||i-uc.net
 ||i.dell.com
 ||i.v2ex.co
 ||i0349.com
 ||i2ya.com
+||i3done.com
 ||i3v.cc
 ||i520.love
 ||i5more.com
@@ -8586,6 +8919,7 @@
 ||iartmoney.com
 ||iask.com
 ||iaskgo.com
+||ibailve.com
 ||ibangkf.com
 ||ibaopen.com
 ||ibaozou.com
@@ -8657,6 +8991,7 @@
 ||idcads.com
 ||idccun.com
 ||idcicp.com
+||idcps.com
 ||idcquan.com
 ||idcvip.net
 ||idea78.com
@@ -8691,6 +9026,7 @@
 ||ifengcdn.com
 ||ifenghui.com
 ||ifengimg.com
+||ifenglei.com
 ||ifengpai.com
 ||ifengweekly.com
 ||ifengwoo.com
@@ -8699,6 +9035,7 @@
 ||iflying.com
 ||iflytek.com
 ||ifunmac.com
+||igamesocial.net
 ||igao7.com
 ||igeak.com
 ||igerun.com
@@ -8708,6 +9045,7 @@
 ||igo180.com
 ||igoyx.com
 ||iguoguo.net
+||iguor.com
 ||iguso.com
 ||igwfmc.com
 ||ihacksoft.com
@@ -8728,9 +9066,12 @@
 ||ihuochaihe.com
 ||ihuoliao.com
 ||ihuyi.com
+||ii-i.org
 ||iiad.com
 ||iibq.com
 ||iidns.com
+||iiijk.com
+||iincn.net
 ||iisicp.com
 ||iissbbs.com
 ||iiyi.com
@@ -8849,9 +9190,12 @@
 ||incoto.com
 ||indexedu.com
 ||indexedu.net
+||indiancn.com
 ||ineice.com
+||inewhope.com
 ||inewya.com
 ||inexus.co
+||infaq.net
 ||infertilitybridge.com
 ||infinity-game.com
 ||info10.com
@@ -8867,6 +9211,8 @@
 ||inidc.net
 ||inimc.com
 ||inlishui.com
+||inoherb.com
+||inpla.net
 ||inspur.com
 ||insun-china.com
 ||intelliscoring.org
@@ -8878,6 +9224,8 @@
 ||intovfx.com
 ||invescogreatwall.com
 ||inweke.com
+||iopq.com
+||iosask.com
 ||iosfchina.com
 ||ioswift.org
 ||iosx.me
@@ -8900,6 +9248,7 @@
 ||ipiao.com
 ||ipinyou.com
 ||ipip.net
+||iplaypython.com
 ||iplaysgs.com
 ||iplaysoft.com
 ||ipmph.com
@@ -8908,10 +9257,12 @@
 ||ipo3.com
 ||ipr114.net
 ||ipr123.com
+||ipsir.net
 ||iq123.com
 ||iqianbang.com
 ||iqianjin.com
 ||iqilu.com
+||iqing.in
 ||iqiqu.net
 ||iqiyi.com
 ||iqiyun.net
@@ -8940,6 +9291,7 @@
 ||ishuhui.com
 ||ishuhui.net
 ||isofts.org
+||isoji.org
 ||isorange.com
 ||issconline.com
 ||isself.com
@@ -8961,6 +9313,7 @@
 ||itchaguan.com
 ||itcpn.net
 ||itdadao.com
+||itdog.moe
 ||iteblog.com
 ||itebook.net
 ||iter168.com
@@ -8992,6 +9345,7 @@
 ||itnms.info
 ||itnpc.com
 ||itnxs.com
+||itobet.com
 ||itocp.com
 ||itotii.com
 ||itoumi.com
@@ -9015,6 +9369,7 @@
 ||itzcdn.com
 ||itzmx.com
 ||iuksky.com
+||iuliao.com
 ||iuni.com
 ||iunios.com
 ||iuvision.com
@@ -9042,7 +9397,9 @@
 ||iwucha.com
 ||ixchen.com
 ||ixdba.net
+||ixdzs.com
 ||ixiangyu.com
+||ixidian.org
 ||ixinglu.com
 ||ixingmei.com
 ||ixintui.com
@@ -9050,6 +9407,7 @@
 ||ixiqi.com
 ||ixiumei.com
 ||ixpub.net
+||ixtgame.com
 ||ixueyi.com
 ||iyaou.com
 ||iyaxi.com
@@ -9072,9 +9430,11 @@
 ||izhangchu.com
 ||izhenxin.com
 ||izhikang.com
+||izhuanfa.com
 ||izhufu.com
 ||izhufu.net
 ||izhuitie.com
+||izhushen.com
 ||izhuti.com
 ||izmzg.com
 ||iztcz.com
@@ -9082,6 +9442,7 @@
 ||jaeapp.com
 ||jafcjj.com
 ||jahee.com
+||jameson512.com
 ||jandan.com
 ||jandan.net
 ||japolydjy.com
@@ -9108,6 +9469,7 @@
 ||jcrb.com
 ||jcu.cc
 ||jcwcn.com
+||jcwgk.com
 ||jcwuhan.com
 ||jczacm.com
 ||jczqw.com
@@ -9183,12 +9545,15 @@
 ||jianai360.com
 ||jianbaimei.com
 ||jianbihua.cc
+||jianbihua.org
 ||jianbing.com
 ||jiancai.com
+||jiandan.biz
 ||jiando.com
 ||jianfei.com
 ||jianfei.net
 ||jiangduoduo.com
+||jianghao.wang
 ||jiangliang.net
 ||jiangmin.com
 ||jianguoyun.com
@@ -9207,6 +9572,7 @@
 ||jianpuw.com
 ||jianshe99.com
 ||jianshen114.com
+||jianshen8.com
 ||jianshu.com
 ||jianshu.io
 ||jianshuapi.com
@@ -9232,6 +9598,7 @@
 ||jiawin.com
 ||jiaxipaimai.com
 ||jiayi56.com
+||jiayouzhan.tv
 ||jiayuan.com
 ||jiayuepc.com
 ||jiazhao.com
@@ -9271,7 +9638,9 @@
 ||jimustock.com
 ||jin10.com
 ||jinanyan.com
+||jinbaoidc.com
 ||jinbaonet.com
+||jinbuguo.com
 ||jinchen18.com
 ||jinda.tv
 ||jindanlicai.com
@@ -9282,14 +9651,17 @@
 ||jingdianwenji.com
 ||jinghua.com
 ||jingjiu.com
+||jinglongjiaxiao.com
 ||jingme.net
 ||jingoal.com
+||jingp.com
 ||jingwei.com
 ||jingwentian.com
 ||jingwuhui.com
 ||jingyanbus.com
 ||jingyanhome.com
 ||jingyanshu.com
+||jingying.com
 ||jingzhengu.com
 ||jinhaijiacheng.com
 ||jinhuazhe.com
@@ -9300,12 +9672,14 @@
 ||jinlianchu.com
 ||jinmate3c.com
 ||jinmi.com
+||jinniu.in
 ||jinnong.cc
 ||jinritemai.com
 ||jinrong-online.com
 ||jinruimedia.com
 ||jinshangdai.cc
 ||jinshangdai.com
+||jinshui8.com
 ||jinshuju.net
 ||jinsongzhang.com
 ||jinti.com
@@ -9321,6 +9695,7 @@
 ||jinzhoubank.com
 ||jiongdm.com
 ||jiongtz.com
+||jiou.me
 ||jiqie.com
 ||jisilu.com
 ||jisuanke.com
@@ -9338,15 +9713,19 @@
 ||jiumei.com
 ||jiurong.com
 ||jiushengmall.com
+||jiusozz.com
 ||jiuxian.com
 ||jiuxinfinance.com
 ||jiuxing.com
 ||jiuzhilan.com
 ||jiwu.com
 ||jixigroup.com
+||jiyingdm.com
 ||jiyou.tv
 ||jiyouwang.com
 ||jiyuqiao.com
+||jj20.com
+||jj59.com
 ||jjc.link
 ||jjccb.com
 ||jjdu.org
@@ -9354,6 +9733,8 @@
 ||jjh568.com
 ||jjidc.com
 ||jjj.ee
+||jjjoystudios.com
+||jjjtimes.com
 ||jjlwd.com
 ||jjmmw.com
 ||jjqj.net
@@ -9374,15 +9755,19 @@
 ||jkc8.com
 ||jkdpw.com
 ||jkeabc.com
+||jkedu.net
 ||jkimg.net
 ||jkwshk.tv
 ||jkys5.com
+||jl1011.com
 ||jl123.net
 ||jljbbs.com
 ||jlpzj.net
 ||jlr360.com
 ||jlscds.com
+||jlspr.com
 ||jlyingze.com
+||jlytjx.com
 ||jlzsoft.com
 ||jm84.com
 ||jmabroad.com
@@ -9454,6 +9839,7 @@
 ||jrgang.com
 ||jrj.com
 ||jrjhg.com
+||jrlady.com
 ||jrpx.net
 ||jrpxw.com
 ||jrq.com
@@ -9562,6 +9948,7 @@
 ||junshishu.com
 ||junshitx.com
 ||junying.com
+||junyougame.com
 ||junzimen.com
 ||juooo.com
 ||juqiweb.com
@@ -9602,6 +9989,7 @@
 ||jxjatv.com
 ||jxjyz.com
 ||jxjyzy.com
+||jxnchc.com
 ||jxqgpx.com
 ||jxrencai.com
 ||jxrtv.com
@@ -9668,6 +10056,7 @@
 ||kaluli.com
 ||kameng.com
 ||kamigami.org
+||kamiro.net
 ||kan123.com
 ||kan300.com
 ||kanba.cc
@@ -9725,6 +10114,7 @@
 ||kedou.com
 ||keede.com
 ||keepdays.com
+||kefusoft.com
 ||kehuda.com
 ||kehuiw.com
 ||kejet.net
@@ -9767,6 +10157,7 @@
 ||kg-gold.com
 ||kgimg.com
 ||khoaf.com
+||kibey.com
 ||kidulty.com
 ||kiees.com
 ||kimiss.com
@@ -9776,6 +10167,7 @@
 ||kingbirdoverseas.com
 ||kingdee.com
 ||kingdeezx.com
+||kingdelgc.com
 ||kingdoneart.com
 ||kingho.cc
 ||kingkaid.com
@@ -9792,6 +10184,7 @@
 ||kirinmach.com
 ||kisdee.com
 ||kissyui.com
+||kitstown.com
 ||kjcad.net
 ||kjcity.com
 ||kjeport.com
@@ -9826,6 +10219,7 @@
 ||kmgtp.org
 ||kmguolv.com
 ||kmweige.com
+||kn93.net
 ||knewbi.com
 ||knewone.com
 ||knifriend.com
@@ -9834,6 +10228,7 @@
 ||knowsky.com
 ||koalacam.net
 ||kodmp.com
+||kokozu.net
 ||kongfz.cc
 ||kongfz.com
 ||kongjie.com
@@ -9844,16 +10239,19 @@
 ||koofang.com
 ||kookong.com
 ||koolearn.com
+||koosec.com
 ||koowo.com
 ||koplayer.com
 ||koubei.com
 ||koudai.com
 ||koudai8.com
 ||koudaitong.com
+||koukuko.com
 ||kp17.net
 ||kp64.net
 ||kpkpw.com
 ||kq36.com
+||kqnm120.com
 ||krdrama.com
 ||krystal-bj.com
 ||ks-cdn.com
@@ -9906,7 +10304,9 @@
 ||kuaipandata.com
 ||kuaishubao.com
 ||kuaiwan.com
+||kuaiwan01.com
 ||kuaiwanwo.com
+||kuaixiaapp.com
 ||kuaixun360.com
 ||kuaiyong.com
 ||kuaiyouxi.com
@@ -9935,6 +10335,7 @@
 ||kuku99.com
 ||kukud.net
 ||kukudm.com
+||kukupao.com
 ||kukuplay.com
 ||kulengvps.com
 ||kuliqiang.com
@@ -10011,12 +10412,14 @@
 ||lan-kun.com
 ||lanbing.org
 ||lancdn.com
+||landai.com
 ||landfu.com
 ||landiannews.com
 ||landscapecn.com
 ||landzestate.com
 ||lanfw.com
 ||langgo.org
+||langmanzg.com
 ||langqixiaozu.com
 ||langren8.com
 ||languisheji.net
@@ -10043,6 +10446,7 @@
 ||laoxuehost.com
 ||laoyuanji.com
 ||laozu.com
+||laravist.com
 ||laruence.com
 ||lashou.com
 ||lashouimg.com
@@ -10069,6 +10473,7 @@
 ||lebaidai.com
 ||lebang.net
 ||lebogame.net
+||lebook.me
 ||leboweb.com
 ||lecai.com
 ||lecloud.com
@@ -10109,6 +10514,7 @@
 ||leju.com
 ||lejuwh.com
 ||lelehaha.com
+||leleketang.com
 ||leletv.com
 ||leletv.net
 ||leleyx.com
@@ -10183,6 +10589,7 @@
 ||liansuo.com
 ||liantu.com
 ||lianwifi.com
+||lianwo8.com
 ||lianzhong.com
 ||liao1.com
 ||liao1.net
@@ -10190,6 +10597,7 @@
 ||liaohenmeng.com
 ||liaoing.com
 ||liaotuo.org
+||liaoyuanwl.com
 ||liba.com
 ||libaclub.com
 ||libcg.com
@@ -10200,6 +10608,7 @@
 ||licaimofang.com
 ||licairen.net
 ||licomsh.com
+||licqi.com
 ||lidaofang.com
 ||lidoooo.com
 ||lidroid.com
@@ -10220,6 +10629,7 @@
 ||lifetm.com
 ||lifevc.com
 ||lifeweeker.com
+||lifeyk.com
 ||lighting163.com
 ||lightinit.com
 ||lightonus.com
@@ -10249,6 +10659,7 @@
 ||lingganjia.com
 ||linghang001.net
 ||lingmihaitao.com
+||lingmovie.com
 ||lingrengame.com
 ||lingshi.com
 ||lingtu.com
@@ -10261,6 +10672,7 @@
 ||linktom.net
 ||linkvans.com
 ||linkwan.com
+||linnyou.com
 ||linodeclub.com
 ||linovel.com
 ||linshang.com
@@ -10272,9 +10684,11 @@
 ||linuxeden.com
 ||linuxidc.com
 ||linuxsir.org
+||linuxstory.org
 ||linuxtone.org
 ||linyiren.com
 ||lipian.com
+||lipin010.com
 ||liqi.io
 ||liqucn.com
 ||lishi.net
@@ -10287,6 +10701,7 @@
 ||liu16.com
 ||liubon.com
 ||liujiacai.net
+||liujilan.com
 ||liulan7.net
 ||liulanmi.com
 ||liuliguo.com
@@ -10294,6 +10709,7 @@
 ||liumeinet.com
 ||liumh.com
 ||liusihao.com
+||liusuping.com
 ||liuweispace.com
 ||liuxue.com
 ||liuxue360.com
@@ -10314,6 +10730,7 @@
 ||liwushuo.com
 ||lixiaolai.com
 ||lixin.co
+||lixinglong.com
 ||liyaos.com
 ||lizhenwang.com
 ||lizhi.fm
@@ -10321,23 +10738,28 @@
 ||lizhifilm.com
 ||lj-bank.com
 ||ljcdn.com
+||ljcjw.com
 ||ljhoo.com
 ||ljimg.com
 ||ljsdk.com
 ||ljt365.com
 ||ljzfin.com
+||lkgame.com
 ||lkong.net
 ||ll788.pw
 ||llc2010.com
 ||lldm.com
 ||llf6.com
+||llsapp.com
 ||lmbang.com
 ||lmf9.com
 ||lmjtgs.com
 ||lmlc.com
+||lmtw.com
 ||lmuhanhua.ml
 ||lncld.net
 ||lndao.com
+||lngongmu.com
 ||lnk0.com
 ||locatran.com
 ||locoso.com
@@ -10354,11 +10776,14 @@
 ||logowu.com
 ||lohasus.com
 ||loho88.com
+||loji.com
+||loldk.com
 ||loli.mg
 ||loli.my
 ||loli.vg
 ||loljy.com
 ||lolmax.com
+||lololer.com
 ||lomoment.com
 ||lon3d.com
 ||londonchinese.com
@@ -10384,6 +10809,7 @@
 ||lotour.com
 ||lotour.net
 ||lotreat.com
+||lotuschina.net
 ||lotuseed.com
 ||louishan.com
 ||louisvuitton-outlets.us
@@ -10393,12 +10819,16 @@
 ||love3721.com
 ||lovebizhi.com
 ||loveineurope.com
+||loveinhere.com
+||lovepd.com
 ||loverili.com
 ||lovewh.com
 ||lovezhangjunning.com
 ||lovfp.com
 ||loyo.cc
 ||lpdns.com
+||lq580.com
+||lqhualang.com
 ||lqjob88.com
 ||lrd.cc
 ||lrshare.com
@@ -10409,10 +10839,13 @@
 ||lsccb.com
 ||lsgrandtheatre.com
 ||lshou.com
+||lsoos.com
+||lssdjt.com
 ||lssen.com
 ||lsxs688.com
 ||ltaaa.com
 ||ltesting.net
+||ltxjob.com
 ||ltzjlm.com
 ||lu.com
 ||luaninfo.com
@@ -10491,11 +10924,14 @@
 ||lysk.net
 ||lywww.com
 ||lyzhujia.com
+||lz520.net
 ||lzbank.com
 ||lzbt.net
 ||lzc369.com
 ||lzcbnews.com
 ||lzccb.com
+||lzcqt.com
+||lztvnet.com
 ||lzzxt.com
 ||lzzyad.com
 ||m1080.com
@@ -10551,6 +10987,7 @@
 ||maitix.net
 ||maitu.cc
 ||maituan.com
+||maixiaba.com
 ||maiyadi.com
 ||maiyaole.com
 ||maizhixiu.com
@@ -10564,6 +11001,8 @@
 ||males120.com
 ||malmam.com
 ||malshenzu.com
+||mama1314.xyz
+||mamacn.com
 ||mamahao.com
 ||mamahuo.com
 ||mamamiyu.com
@@ -10571,7 +11010,10 @@
 ||mamicode.com
 ||mamshare.com
 ||man189.com
+||manacg.com
 ||managershare.com
+||mandarincapital.net
+||mangguo168.com
 ||mangocity.com
 ||manguoi.com
 ||manhuabang.com
@@ -10603,6 +11045,7 @@
 ||maoyiw.com
 ||mapabc.com
 ||mapbar.com
+||mapeng.net
 ||marboo.biz
 ||marieclairechina.com
 ||marketplace-xb.xboxlive.com
@@ -10625,6 +11068,7 @@
 ||maxthonimg.com
 ||maxzhang.com
 ||mayahuashi.com
+||maydeal.com
 ||mayi.com
 ||mayi258.com
 ||mayiangel.com
@@ -10659,6 +11103,7 @@
 ||mdkqnm.com
 ||mdman.cc
 ||mdpda.com
+||mdshop.com.tw
 ||mdvdns.com
 ||me2.fm
 ||me2.tv
@@ -10672,11 +11117,13 @@
 ||meditic.com
 ||meet99.com
 ||mefeng.net
+||mefun.cc
 ||megaintel.com
 ||megajoy.com
 ||mei.com
 ||meiaoju.com
 ||meibo.tv
+||meican.com
 ||meichubang.com
 ||meici.com
 ||meidaojia.com
@@ -10703,6 +11150,7 @@
 ||meimeito.com
 ||meimotuan.com
 ||meinv.com
+||meinv86.com
 ||meipai.com
 ||meipin.cc
 ||meiqia.com
@@ -10745,6 +11193,7 @@
 ||mengmao.org
 ||mengniang.org
 ||mengniang.tv
+||mengwangchao.us
 ||mengwowo.com
 ||mengwubaike.com
 ||mengyoo.com
@@ -10753,9 +11202,11 @@
 ||menpiao.com
 ||menww.com
 ||menwww.com
+||metal-min.com
 ||metao.com
 ||metoo.fm
 ||metroer.com
+||metstr.com
 ||mexxum.com
 ||meyet.com
 ||mf06.com
@@ -10774,6 +11225,7 @@
 ||mgyun.com
 ||mgyyw.com
 ||mgzpy.com
+||mgzxzs.com
 ||mhacn.com
 ||mhimg.com
 ||mhtgame.com
@@ -10789,6 +11241,7 @@
 ||mianbao99.com
 ||mianfeimoban.com
 ||mianhuatang.cc
+||mianwww.com
 ||miaoche.com
 ||miaopai.com
 ||miaozhen.com
@@ -10809,6 +11262,9 @@
 ||mifangba.com
 ||mihoyo.com
 ||mihtool.com
+||mihua.net
+||mihuashi.com
+||mihuwa.com
 ||miit.cc
 ||mikecrm.com
 ||mikuclub.cc
@@ -10819,8 +11275,10 @@
 ||milkplayer.com
 ||milnews.com
 ||milxue.com
+||mimtao.com
 ||mimvp.com
 ||mindai.com
+||mindmanager.cc
 ||mindstore.io
 ||mingbianji.com
 ||mingchaoonline.com
@@ -10828,9 +11286,11 @@
 ||mingin.com
 ||minglian.com
 ||mingluji.com
+||mingmings.org
 ||mingrenziliao.com
 ||mingxiaodai.com
 ||mingxing.com
+||mingyi.com
 ||mingyi.me
 ||minhangshi.com
 ||mini-4wd.net
@@ -10855,12 +11315,14 @@
 ||mixilu.com
 ||miyabaobei.com
 ||miyomo.com
+||mizhenhao.com
 ||mizone.cc
 ||mizuno-running.net
 ||mjceo.com
 ||mjjcn.com
 ||mjl388.com
 ||mjoys.com
+||mjy211.com
 ||mjyx.com
 ||mktplassets-ssl.xbox.com
 ||mkvcn.com
@@ -10873,6 +11335,7 @@
 ||mlwed.com
 ||mlyel.net
 ||mm-girl.com
+||mm-img.com
 ||mm111.net
 ||mm123m.com
 ||mm2pl.com
@@ -10891,6 +11354,7 @@
 ||mmstat.com
 ||mmtrix.com
 ||mmzh.com
+||mn123.net
 ||mndvd.net
 ||mnsfh.com
 ||mnwww.com
@@ -10979,6 +11443,7 @@
 ||moye.me
 ||mp4ba.com
 ||mpacc.net
+||mpfmall.com
 ||mpiano.com
 ||mplife.com
 ||mrlzk.com
@@ -10998,6 +11463,7 @@
 ||msotu.com
 ||msxf.net
 ||msxh.com
+||msypr.com
 ||mszsx.com
 ||mt-bbs.com
 ||mt-wire.com
@@ -11081,6 +11547,7 @@
 ||mydrivers.com
 ||myeclipsecn.com
 ||myf6.com
+||myfish.cc
 ||myfrfr.com
 ||myfun.com
 ||myfund.com
@@ -11089,6 +11556,7 @@
 ||mygame88.com
 ||mygolbs.com
 ||myhack58.com
+||myhaowai.com
 ||myhard.com
 ||myhexin.com
 ||myhongzuan.com
@@ -11108,6 +11576,8 @@
 ||mysanco.com
 ||myscore.org
 ||mysodao.com
+||mysoeasy.com
+||mystoys.com
 ||mysupa.com
 ||mysuperdns.com
 ||mytanwan.com
@@ -11115,6 +11585,8 @@
 ||myunke.com
 ||myvoice.cc
 ||mywakao.com
+||mywang.net
+||mywebpage2.com
 ||myzaker.com
 ||myzcm.com
 ||mz315.net
@@ -11128,14 +11600,17 @@
 ||n0808.com
 ||n21.cc
 ||n9377e.com
+||n9z.net
 ||na1tqa9b0hn.cc
 ||naadou.com
 ||nadianshi.com
 ||nahuo9.com
 ||naimei.com
+||naitang.com
 ||najiaoluo.com
 ||nalanxi.com
 ||namipan.cc
+||nanbeiyou.com
 ||nandagang.cc
 ||nandu.com
 ||nanguache.com
@@ -11158,6 +11633,7 @@
 ||nashangban.com
 ||nav80.com
 ||navinfo.com
+||nayishuo.com
 ||nb527.com
 ||nb637300.com
 ||nba20.com
@@ -11227,6 +11703,7 @@
 ||newsing.com
 ||newsmth.net
 ||newssc.org
+||newstarpress.com
 ||newtrip.com
 ||newxue.com
 ||newyx.net
@@ -11239,6 +11716,7 @@
 ||nffund.com
 ||nfhcys.com
 ||nflchina.com
+||nfmedia.com
 ||nfpeople.com
 ||nftx8.com
 ||nfwin.com
@@ -11291,12 +11769,16 @@
 ||niututu.com
 ||niuwap2p.com
 ||niuxgame77.com
+||niuyou5.com
 ||niuza.com
 ||niuzhu.com
 ||niwodai.com
 ||niwodai.net
+||njcdata.com
+||njcw.com
 ||njdfwb.com
 ||njgjj.com
+||njiaren.com
 ||njrx.cc
 ||njuaplusplus.com
 ||njxld.com
@@ -11304,6 +11786,7 @@
 ||nlnw.net
 ||nlpjob.com
 ||nlzpy.com
+||nmet168.com
 ||nmglabs.com
 ||nmglawyer.com
 ||nmtyxy.com
@@ -11385,12 +11868,15 @@
 ||nyato.com
 ||nyko.me
 ||nyxcomic.com
+||nz4cn.com
 ||o-or.com
 ||o-sky.com
 ||o136.com
 ||o2obill.com
 ||o2oexpo.com
+||o2omobi.com
 ||o2oshangji.com
+||o3k5.com
 ||o9377r.com
 ||oa84.com
 ||oachn.net
@@ -11412,6 +11898,7 @@
 ||ofidc.com
 ||ofweek.com
 ||ofyoo.com
+||ogaoxiao.com
 ||ogengine.com
 ||ohimg.com
 ||ohsame.com
@@ -11451,10 +11938,12 @@
 ||ol3vs.com
 ||olcdn.com
 ||olivephone.com
+||omc.hk
 ||omegatravel.net
 ||ometal.com
 ||ommoo.com
 ||omooo.net
+||omtxw.com
 ||onccc.com
 ||one120.com
 ||oneapm.com
@@ -11464,6 +11953,7 @@
 ||onekeyrom.com
 ||onemex.com
 ||onemovie.com
+||oneniceapp.com
 ||oneplusbbs.com
 ||onetad.com
 ||onevcat.com
@@ -11496,6 +11986,7 @@
 ||optimix.asia
 ||oq78.com
 ||oqss.com
+||orangelive.tv
 ||oray.com
 ||oray.net
 ||oraycn.com
@@ -11504,6 +11995,7 @@
 ||orientalpatek.com
 ||orscape.com
 ||orsoon.com
+||orspr.com
 ||ort250.com
 ||orz.asia
 ||orz9.com
@@ -11513,10 +12005,13 @@
 ||otolines.com
 ||oufa-travel.com
 ||ougepiano.com
+||ouhua.info
 ||ouj.com
 ||oupeng.com
+||oupengcloud.net
 ||ourail.com
 ||ourats.com
+||ourcga.com
 ||ourcoders.com
 ||ourden.net
 ||ourdvs.com
@@ -11547,6 +12042,7 @@
 ||oyksoft.com
 ||oyoozo.com
 ||oyoumo.com
+||ozhibao.com
 ||p1.com
 ||p2p110.com
 ||p2p178.com
@@ -11589,7 +12085,9 @@
 ||panghufei.com
 ||pangshu.com
 ||panguso.com
+||panjk.com
 ||panku.cc
+||panli.com
 ||pansou.com
 ||paomou.com
 ||paopaoche.net
@@ -11642,6 +12140,7 @@
 ||pdsxww.com
 ||pe.vc
 ||pediy.com
+||peimin.org
 ||peiqiang.net
 ||peixun.net
 ||peixunxue.com
@@ -11673,6 +12172,7 @@
 ||phonekr.com
 ||photocome.com
 ||photoshopcn.com
+||php-z.com
 ||php100.com
 ||php168.com
 ||php186.com
@@ -11684,6 +12184,7 @@
 ||phpfans.net
 ||phpgao.com
 ||phpkoo.com
+||phpweb.net
 ||phpwind.com
 ||phpwind.net
 ||phpxs.com
@@ -11748,6 +12249,7 @@
 ||plat16.com
 ||plateno.com
 ||play175.com
+||play86.com
 ||playbeta.net
 ||playcrab.com
 ||playfreevpn.com
@@ -11756,6 +12258,7 @@
 ||plcsq.com
 ||plsub.com
 ||plures.net
+||plyz.net
 ||pm25.com
 ||pm25.in
 ||pm265.com
@@ -11837,6 +12340,7 @@
 ||prada2.com
 ||prcedu.com
 ||prdcity.com
+||pre.im
 ||prettyyes.com
 ||privacy.xboxlive.com
 ||pro6e.com
@@ -11844,6 +12348,7 @@
 ||processon.com
 ||profile.xboxlive.com
 ||proginn.com
+||programru.com
 ||programtrader.net
 ||promisingedu.com
 ||promoker.com
@@ -11875,8 +12380,11 @@
 ||puata.info
 ||pubone.cc
 ||pubsage.com
+||pubu.im
 ||pubucloud.com
 ||pubyun.com
+||pudding.cc
+||puercn.com
 ||puji114.com
 ||pujia.com
 ||pujia8.com
@@ -11886,6 +12394,7 @@
 ||purcow.com
 ||pureasme.com
 ||pushauction.com
+||pushjoy.com
 ||pushr.biz
 ||putao.so
 ||putaogame.com
@@ -11912,6 +12421,7 @@
 ||q5.com
 ||qbao.com
 ||qbaobei.com
+||qbb6.com
 ||qbox.me
 ||qbview.com
 ||qbxs8.com
@@ -11923,7 +12433,9 @@
 ||qcers.com
 ||qcloud.com
 ||qclub.io
+||qcqcw.com
 ||qcr.cc
+||qcsyt.com
 ||qdaily.com
 ||qdbeian.com
 ||qdcaijing.com
@@ -11949,6 +12461,7 @@
 ||qh45.com
 ||qhcdn.com
 ||qhdxw.com
+||qhea.com
 ||qhimg.com
 ||qhlingwang.com
 ||qhlly.com
@@ -11998,6 +12511,7 @@
 ||qiaosiwang.com
 ||qiaowai.net
 ||qiawei.com
+||qibosoft.com
 ||qicaiqiao.com
 ||qicaiwan.com
 ||qichacha.com
@@ -12010,6 +12524,7 @@
 ||qidianla.com
 ||qidic.com
 ||qidou.com
+||qifun.com
 ||qigongworld.net
 ||qiguo.com
 ||qihoo.com
@@ -12017,6 +12532,7 @@
 ||qihuayao.com
 ||qihucdn.com
 ||qihuiwang.com
+||qijee.com
 ||qijianzs.com
 ||qijilvxing.com
 ||qijuan.com
@@ -12101,6 +12617,7 @@
 ||qiyipic.com
 ||qiyou.com
 ||qiyue.com
+||qiyukf.com
 ||qiyun.org
 ||qizuang.com
 ||qjfy.com
@@ -12110,6 +12627,7 @@
 ||qjis.com
 ||qjren.com
 ||qjrsd.com
+||qjtrip.com
 ||qjy168.com
 ||qjz.com
 ||qjzdb.com
@@ -12150,9 +12668,11 @@
 ||qq2.co
 ||qq360wang.com
 ||qq79795080.com
+||qq8868.com
 ||qq8868.net
 ||qq933.com
 ||qqbaobao.com
+||qqbody.com
 ||qqcyl.com
 ||qqdna.com
 ||qqfangke.com
@@ -12161,8 +12681,10 @@
 ||qqjia.com
 ||qqjianli.com
 ||qqjy.cc
+||qqkjkl.com
 ||qqmail.com
 ||qqmcc.com
+||qqmofasi.com
 ||qqq.tv
 ||qqqla.com
 ||qqrizhi.com
@@ -12174,6 +12696,7 @@
 ||qqtn.com
 ||qqtu8.com
 ||qqtz.com
+||qqu.cc
 ||qquu8.com
 ||qqwaiguan.com
 ||qqwangdai.com
@@ -12218,6 +12741,7 @@
 ||quantone.com
 ||quanzhi.com
 ||qucai.com
+||qucaiad.com
 ||qucaigg.com
 ||qudao.com
 ||qudao.info
@@ -12231,6 +12755,7 @@
 ||qukan.cc
 ||qukuai.com
 ||qulishi.com
+||quna.com
 ||qunar.com
 ||qunarxia.com
 ||qunarzz.com
@@ -12249,11 +12774,14 @@
 ||quutoo.net
 ||quwan.com
 ||quweiwu.com
+||quxiamen.com
 ||quxiu.com
 ||quyiyuan.com
 ||quyundong.com
 ||qvbuy.com
 ||qvocd.org
+||qvod.com
+||qvodkuang.com
 ||qwgt.com
 ||qwimm.com
 ||qwjian.com
@@ -12296,20 +12824,24 @@
 ||ranwen.org
 ||raorao.com
 ||rapidppt.com
+||rar8.net
 ||rayfile.com
 ||raythonsoft.com
 ||rayyo.com
 ||rc.cc
+||rcdang.com
 ||rcfans.com
 ||rcw0375.com
 ||rczzxs.com
 ||rdzs.com
+||re1d.com
 ||react-china.org
 ||readcolor.com
 ||readfar.com
 ||readindex.com
 ||readingcabin.com
 ||readlishi.com
+||readmeok.com
 ||readnovel.com
 ||readu.net
 ||really100.net
@@ -12320,6 +12852,7 @@
 ||recordjapan.net
 ||redbaby.com
 ||redfunding.com
+||redidai.com
 ||redocn.com
 ||redream.com
 ||redsh.com
@@ -12329,6 +12862,7 @@
 ||regishome.com
 ||reimu.io
 ||rekoo.com
+||reminjiu.net
 ||renai19.com
 ||renailady.com
 ||rendairen.com
@@ -12346,6 +12880,7 @@
 ||repian.com
 ||replays.net
 ||reqianduan.com
+||resgain.net
 ||rexsong.com
 ||rexuemil.com
 ||reyun.com
@@ -12357,13 +12892,16 @@
 ||rhvisa.com
 ||ribenbang.com
 ||ricebook.com
+||richba.com
 ||richtj.com
 ||ricter.me
+||ringdoll.com
 ||rishiqing.com
 ||ritaipaper.com
 ||rizhiyi.com
 ||rjjacky.info
 ||rjs.com
+||rjzxw.com
 ||rkylin.com
 ||rlmega.com
 ||rmbtimes.com
@@ -12375,6 +12913,7 @@
 ||roclee.com
 ||rohlan.biz
 ||romanting.com
+||romdu.com
 ||romhui.com
 ||romjd.com
 ||romzhijia.net
@@ -12448,34 +12987,41 @@
 ||ruxianke.com
 ||ruyig.com
 ||ruyisou.net
+||ruyitianrong.com
 ||rwjfs.com
 ||rxhui.com
 ||rxian.com
 ||ryedu.net
 ||ryjr8.com
+||rzok.net
 ||s-s.pw
 ||s1979.com
 ||s1n1.com
 ||s8s8.com
 ||s8x1.com
 ||s8youni.com
+||sa16.com
 ||saayaa.com
 ||sae-china.org
 ||saebbs.com
 ||sagetrc.com
+||saicgmac.com
 ||saicmotor.com
 ||saicyun.com
 ||saifou.com
 ||saillove.com
+||sailmail.net
 ||sainthyler.com
 ||saitjr.com
 ||salonwith.com
 ||samsung.com
 ||samsunganycar.com
 ||sanban18.com
+||sanbengzi.com
 ||sandai.net
 ||sangfor.com
 ||sangfor.net
+||sanguoinfo.com
 ||sanguosha.com
 ||sangwu.org
 ||sanjieke.com
@@ -12483,9 +13029,11 @@
 ||sankuai.com
 ||sanqindaily.com
 ||sanquanxianshi.com
+||sansanbajiu.com
 ||santaihu.com
 ||santiwang.com
 ||sanwen.net
+||sanyastar.com
 ||sao.so
 ||saonian.me
 ||saraba1st.com
@@ -12497,6 +13045,7 @@
 ||sbwxz.com
 ||sc-cn.net
 ||sc-jiaoyu.com
+||sc-ol.com
 ||sc115.com
 ||sc126.com
 ||sc2c.com
@@ -12518,6 +13067,7 @@
 ||scp-social.s-msn.com
 ||scriptcc.cc
 ||scrxw.com
+||scsgk.com
 ||scstock.com
 ||sctv.com
 ||scxdf.com
@@ -12529,12 +13079,14 @@
 ||sdbeta.com
 ||sdchina.com
 ||sdchn.com
+||sddcp.com
 ||sdebank.com
 ||sdg-china.com
 ||sdgh.net
 ||sdgw.com
 ||sdjiateng.com
 ||sdjsq.net
+||sdkkg.com
 ||sdmy168.com
 ||sdnlab.com
 ||sdo.com
@@ -12561,14 +13113,17 @@
 ||semfeeds.com
 ||semidata.info
 ||sen-lan.net
+||sends.cc
 ||senguo.cc
 ||sensetime.com
+||seosaiqi.com
 ||seotime.org
 ||seowhy.com
 ||septwolves.com
 ||sequoiadb.com
 ||settings.xboxlive.com
 ||sewzm.com
+||sex618.org
 ||sf-express.com
 ||sf.gg
 ||sfacg.com
@@ -12598,7 +13153,9 @@
 ||sh-ycang.com
 ||sh.com
 ||sh021.cc
+||sh1122.com
 ||sh250.com
+||sha-fa.org
 ||sha-steel.com
 ||shacumox.com
 ||shadowfax.club
@@ -12607,6 +13164,7 @@
 ||shaidc.com
 ||shamla.net
 ||shanbay.com
+||shandaz.com
 ||shandian.biz
 ||shandongsannong.com
 ||shang98.com
@@ -12619,7 +13177,9 @@
 ||shanghaifuke.net
 ||shanghailiangyi.com
 ||shanghaimart.com
+||shanghainb.com
 ||shanghaining.com
+||shanghairolexmasters.com
 ||shanghaitour.net
 ||shangjie.biz
 ||shangjilian.com
@@ -12655,6 +13215,7 @@
 ||shejiben.com
 ||shejicool.com
 ||shejis.com
+||shenbinghang.com
 ||shenchuang.com
 ||shendu.com
 ||shengcai18.com
@@ -12673,6 +13234,7 @@
 ||shenzhenair.com
 ||shenzhenu.com
 ||shenzhoufu.com
+||sheqjx.com
 ||shetuannet.com
 ||sheup.com
 ||sheup.net
@@ -12683,6 +13245,7 @@
 ||shhbm.com
 ||shhpgycs.com
 ||shhrui.com
+||shhuangding.com
 ||shhuayi.com
 ||shhuihai.com
 ||shhxjx.com
@@ -12698,6 +13261,7 @@
 ||shijue.me
 ||shikee.com
 ||shilipai.net
+||shimadan.com
 ||shimo.im
 ||shinemediaworld.com
 ||shineter.com
@@ -12712,12 +13276,15 @@
 ||shitou.com
 ||shitourom.com
 ||shiwan.com
+||shixiseng.com
 ||shixiu.net
 ||shixiu.org
 ||shiyan.cc
 ||shiyanlou.com
+||shiye.org
 ||shiyi11.com
 ||shiyongjun.biz
+||shizongzui.org
 ||shjdc.com
 ||shjdj.com
 ||shjtaq.com
@@ -12733,6 +13300,7 @@
 ||shopin.net
 ||shoppingbuy.org
 ||shou555.com
+||shou99.net
 ||shoucw.com
 ||shoudujuchang.com
 ||shoudurc.com
@@ -12750,6 +13318,7 @@
 ||shouyouquan.me
 ||shouyoutv.com
 ||shouyouya.com
+||shouyouzhijia.net
 ||shovesoft.com
 ||show.money
 ||show160.com
@@ -12778,12 +13347,15 @@
 ||shucong.com
 ||shuda.cc
 ||shufagu.com
+||shufawu.com
 ||shuge.org
 ||shuhai.com
 ||shui2014.com
 ||shuichan.cc
 ||shuihulu.com
+||shuijingwuyu.com
 ||shuilv.org
+||shuixiangu.com
 ||shujubang.com
 ||shujubo.com
 ||shumahezi.com
@@ -12796,11 +13368,14 @@
 ||shuoyao.net
 ||shurenbang.net
 ||shushi100.com
+||shutiantang.com
+||shuyangba.com
 ||shuyfdc.com
 ||shwebi.com
 ||shwglm.com
 ||shwyky.net
 ||shxb.net
+||shxwcb.com
 ||shygc.net
 ||shyjpm.com
 ||shyxwz.com
@@ -12818,8 +13393,10 @@
 ||silkroadtechnologies.com
 ||silverlight.dlservice.microsoft.com
 ||silversand.net
+||simiki.org
 ||simnovo.net
 ||simuwang.com
+||sina.co
 ||sina.com.hk
 ||sina.com
 ||sina.lt
@@ -12878,6 +13455,7 @@
 ||sjzhushou.com
 ||sketchupbar.com
 ||sketchupbbs.com
+||skieer.com
 ||skongmx.com
 ||sksy.cc
 ||skwo.net
@@ -12947,8 +13525,10 @@
 ||social.xboxlive.com
 ||socialbeta.com
 ||sodao.com
+||sodu.cc
 ||soepub.com
 ||sofang.com
+||soft808.com
 ||softbar.com
 ||softwhy.com
 ||soge8.com
@@ -12959,6 +13539,7 @@
 ||sogua.com
 ||sohkhome.com
 ||soho3q.com
+||sohonow.com
 ||sohovark.com
 ||sohu-inc.com
 ||sohu.com
@@ -12973,6 +13554,7 @@
 ||sojump.com
 ||sojump.hk
 ||soku.com
+||sokutu.com
 ||solarbao.com
 ||solaridc.com
 ||solidot.org
@@ -12981,6 +13563,7 @@
 ||somepen.com
 ||songbeng.com
 ||songhua88.com
+||songluhome.com
 ||songpai.net
 ||songshitang.com
 ||songshuhui.net
@@ -13003,6 +13586,7 @@
 ||soperson.com
 ||sopopo.com
 ||soppt.com
+||soquair.com
 ||sosg.net
 ||soso.com
 ||soso2009.com
@@ -13013,6 +13597,7 @@
 ||sosoyy.com
 ||sosuo.name
 ||sotee.com
+||sotuiwang.com
 ||sou-yun.com
 ||souche.com
 ||soudaila.com
@@ -13039,6 +13624,7 @@
 ||southmoney.com
 ||southnews.net
 ||souwoo.com
+||souxue8.com
 ||souyi.cc
 ||souyidai.com
 ||souyue.mobi
@@ -13052,6 +13638,7 @@
 ||sozhen.com
 ||sp.cc
 ||spade7.com
+||spdex.com
 ||speedtest.xboxlive.com
 ||speiyou.com
 ||spforum.net
@@ -13059,6 +13646,7 @@
 ||sphwq.net
 ||spirit-doll.net
 ||splayer.org
+||sponia.com
 ||sportq.com
 ||sportscn.com
 ||sposter.net
@@ -13086,6 +13674,7 @@
 ||sspnext.com
 ||ssqgx.com
 ||ssqzj.com
+||sssccc.net
 ||sswchina.com
 ||ssyule.com
 ||sszcpm.com
@@ -13104,6 +13693,7 @@
 ||static.licdn.com
 ||staticdn.net
 ||staticfile.org
+||staticq.com
 ||staticsdo.com
 ||stc2002.com
 ||stcn.com
@@ -13171,6 +13761,7 @@
 ||suloon.com
 ||sun0769.com
 ||sun0816.com
+||sunbo.com
 ||sundan.com
 ||sundns.com
 ||sundray.com
@@ -13182,6 +13773,7 @@
 ||sunny90.com
 ||sunnychina.com
 ||sunpala.com
+||sunxin.org
 ||sunyea.com
 ||sunyingchao.com
 ||suobianyu.com
@@ -13244,6 +13836,7 @@
 ||sydi.org
 ||syditie.com
 ||syfw.com
+||syguanye.com
 ||syhccs.com
 ||syitgz.com
 ||syjiancai.com
@@ -13301,6 +13894,7 @@
 ||szpama.com
 ||szpxe.com
 ||szsjtjj.com
+||szsky.com
 ||szsti.net
 ||szstsh.org
 ||szthks.com
@@ -13395,12 +13989,14 @@
 ||taobc.com
 ||taoche.com
 ||taodangpu.com
+||taody.com
 ||taofang.com
 ||taofen8.com
 ||taohua.com
 ||taohuaan.net
 ||taohuren.com
 ||taojindi.com
+||taojingame.com
 ||taojinji.com
 ||taomee.com
 ||taoming.com
@@ -13427,6 +14023,7 @@
 ||tbnimg.com
 ||tbscache.com
 ||tburl.in
+||tbw-xie.com
 ||tbxt.com
 ||tc600.com
 ||tcdai.com
@@ -13447,15 +14044,18 @@
 ||teahour.fm
 ||teambition.com
 ||teambuy.cc
+||tech-food.com
 ||tech2ipo.com
 ||techmongosite.com
 ||technode.com
+||techuangyi.com
 ||techxue.com
 ||tedx.net
 ||teeker.com
 ||teeqee.com
 ||tegongji.com
 ||teiron.com
+||tejiaquan.com
 ||telefen.com
 ||temaiku.com
 ||tencent-cloud.net
@@ -13506,16 +14106,19 @@
 ||thexnode.com
 ||thinkdo3.com
 ||thinkvm.net
+||thirsight.com
 ||thjunshi.com
 ||thmovie.com
 ||thmz.com
 ||ths123.com
+||thunderex.com
 ||thwiki.cc
 ||thxflt.com
 ||tianantang.net
 ||tiancity.com
 ||tiancitycdn.com
 ||tiandaoedu.com
+||tiandi.com
 ||tiandizw.com
 ||tianelian.com
 ||tianfus.com
@@ -13547,6 +14150,8 @@
 ||tianyatool.com
 ||tianyaui.com
 ||tianzhilou.com
+||tiaohao.com
+||tiaomu.com
 ||tibetcn.com
 ||tibetdiy.com
 ||tibetinfor.com
@@ -13600,6 +14205,7 @@
 ||tjculture.com
 ||tjdljy.net
 ||tjdtdd.com
+||tjfxb.com
 ||tjj.com
 ||tjjd.org
 ||tjkximg.com
@@ -13733,10 +14339,12 @@
 ||travelyee.com
 ||travis.wang
 ||treation.com
+||treehousesub.com
 ||trend6.com
 ||trendscar.com
 ||trendsmen.com
 ||trinitigame.com
+||trinitigames.net
 ||trip8080.com
 ||tripbaba.com
 ||tripbe.com
@@ -13772,6 +14380,7 @@
 ||tt7z.com
 ||tt86.com
 ||ttadm.com
+||ttbbss.com
 ||ttcjzhibo.com
 ||ttcnn.com
 ||ttdtweb.com
@@ -13823,6 +14432,7 @@
 ||tuidc.com
 ||tuijie.cc
 ||tuili8.com
+||tuilisr.com
 ||tuishiben.com
 ||tuituifang.com
 ||tuixiazai.com
@@ -13848,6 +14458,7 @@
 ||tusapi.com
 ||tuscdn.com
 ||tusdk.com
+||tusuu.com
 ||tutu001.com
 ||tutuapp.com
 ||tuwan.com
@@ -13857,6 +14468,7 @@
 ||tuyansuo.com
 ||tuyaya.com
 ||tuyiyi.com
+||tuyoo.com
 ||tuyuandi.com
 ||tuzhan.com
 ||tv002.com
@@ -13865,6 +14477,7 @@
 ||tvandnet.com
 ||tvapk.com
 ||tvapk.net
+||tvbbj.com
 ||tvhuan.com
 ||tvlele.com
 ||tvmao.com
@@ -13878,6 +14491,7 @@
 ||twh5.com
 ||twinsenliang.net
 ||twshoucang.com
+||twtstudio.com
 ||twwtn.com
 ||txdai.com
 ||txjly.com
@@ -13909,6 +14523,7 @@
 ||tz8.com
 ||tzbank.com
 ||tzbao.com
+||tzfuke.com
 ||tzidc.com
 ||tzrl.com
 ||tzsnw.com
@@ -13918,12 +14533,14 @@
 ||u17.com
 ||u17i.com
 ||u17t.com
+||u3dc.com
 ||u51.com
 ||u520.net
 ||u5wan.com
 ||u8xs.com
 ||u9time.com
 ||u9youxi.com
+||ua168.com
 ||uavsnews.com
 ||ubacenter.com
 ||ubssdic.com
@@ -13931,6 +14548,7 @@
 ||uc123.com
 ||uc129.com
 ||uc56.com
+||uc8.cc
 ||ucai123.com
 ||ucdchina.com
 ||ucdin.com
@@ -13946,6 +14564,8 @@
 ||ueapp.com
 ||uebai.com
 ||ued163.com
+||ueder.info
+||uedhome.net
 ||uedmb.com
 ||uedsc.com
 ||uedx.net
@@ -13961,6 +14581,7 @@
 ||uforen.com
 ||ufotm.com
 ||ufstone.net
+||ugojp.com
 ||uhouzz.com
 ||ui4app.com
 ||uicom.net
@@ -13980,6 +14601,7 @@
 ||uleapp.com
 ||ulink.cc
 ||ultramanclub.com
+||umanbu.com
 ||umbrohk.com
 ||umeng.co
 ||umeng.com
@@ -14016,6 +14638,7 @@
 ||upaidui.com
 ||upaiyun.com
 ||upan.so
+||upantool.com
 ||update-cdn.xboxlive.com
 ||updrv.com
 ||upepsi.com
@@ -14038,6 +14661,7 @@
 ||uschinapress.com
 ||uscnk.com
 ||use-trust.com
+||useasp.net
 ||userpresence.xboxlive.com
 ||userstats.xboxlive.com
 ||useso.com
@@ -14069,6 +14693,7 @@
 ||uuhy.com
 ||uuimg.com
 ||uuke.co
+||uupei.com
 ||uuqupu.com
 ||uus8.org
 ||uusee.com
@@ -14094,6 +14719,7 @@
 ||uvov.com
 ||uvshipping.com
 ||uvu.cc
+||uwa4d.com
 ||uwan5.com
 ||ux18.com
 ||ux87.com
@@ -14145,6 +14771,7 @@
 ||vdian.com
 ||vdolady.com
 ||vdpgpolo.com
+||vedeng.com
 ||veeqi.com
 ||veerchina.com
 ||veikei.com
@@ -14183,6 +14810,7 @@
 ||violinww.com
 ||vip-0001.com
 ||vip.com
+||vip120.com
 ||vip800.com
 ||vipabc.com
 ||vipchina.com
@@ -14229,6 +14857,7 @@
 ||vocaloidproject.com
 ||vodjk.com
 ||voguemate.com
+||voidcn.com
 ||voidman.com
 ||voltmemo.com
 ||vonibo.com
@@ -14245,6 +14874,7 @@
 ||vpsmm.com
 ||vqs.com
 ||vrbrothers.com
+||vrcan.com
 ||vsens.com
 ||vsharing.com
 ||vshengsu.com
@@ -14252,6 +14882,7 @@
 ||vsnoon.com
 ||vsnoon.net
 ||vsnoon.org
+||vspk.com
 ||vspk.net
 ||vsread.com
 ||vstart.net
@@ -14274,12 +14905,15 @@
 ||vzyun.com
 ||w1515.com
 ||w1989.com
+||w3cin.com
 ||w3cool.com
 ||w3cplus.com
 ||w3cschool.cc
 ||w3ctech.com
+||w5t5.com
 ||w707.com
 ||w890u.com
+||w918.com
 ||w9377u.com
 ||w944.com
 ||wa-ai.com
@@ -14287,6 +14921,7 @@
 ||wabuw.com
 ||wacai.com
 ||wacdn.com
+||wadongxi.com
 ||wadongxi.net
 ||waerfa.com
 ||waigame.com
@@ -14312,6 +14947,7 @@
 ||wally.in
 ||wan.com
 ||wan5d.com
+||wan8.com
 ||wanche100.com
 ||wanchezhijia.com
 ||wanda-cti.com
@@ -14344,7 +14980,9 @@
 ||wangfujing.com
 ||wanggou.com
 ||wanggouchao.com
+||wangguai.com
 ||wangheng.org
+||wangjia.net
 ||wangjianshuo.com
 ||wangjin123.com
 ||wangjiu.com
@@ -14362,6 +15000,7 @@
 ||wangukcn.com
 ||wanguoschool.net
 ||wangxianjin.com
+||wangxianyuan.com
 ||wangxiaowang.com
 ||wangyanpiano.com
 ||wangye.com
@@ -14369,6 +15008,7 @@
 ||wangyingbao.com
 ||wangzhanbao.cc
 ||wanh5.com
+||wanhedoors.com
 ||wanhongrui.com
 ||wanjiashe.com
 ||wanjiedu.com
@@ -14381,6 +15021,7 @@
 ||wanlitong.com
 ||wanmei.com
 ||wanmeilink.com
+||wanmeishijiexiaoshuo.org
 ||wanmeiyueyu.com
 ||wannengxiaoge.com
 ||wanplus.com
@@ -14422,6 +15063,7 @@
 ||wcjbb.com
 ||wcnimg.com
 ||wcsfa.com
+||wcwone.com
 ||wd112.com
 ||wdcdn.com
 ||wdcdn.net
@@ -14463,6 +15105,7 @@
 ||webankcdn.net
 ||webcname.net
 ||webdissector.com
+||webfoss.com
 ||webfuns.net
 ||webhek.com
 ||webjx.com
@@ -14490,8 +15133,10 @@
 ||wegene.com
 ||wehefei.com
 ||wei6.com
+||wei60.com
 ||weibo.co
 ||weibo.com
+||weibodangan.com
 ||weibojs.com
 ||weibopay.com
 ||weicaifu.com
@@ -14535,6 +15180,7 @@
 ||weixin.com
 ||weixin111.com
 ||weixinbridge.com
+||weixinbrothers.com
 ||weixinhost.com
 ||weixinjia.net
 ||weixinju.com
@@ -14544,6 +15190,7 @@
 ||weixinpy.com
 ||weixinqing.com
 ||weixinqun.com
+||weixinrensheng.com
 ||weixinsucai.com
 ||weixinyidu.com
 ||weixinyunduan.com
@@ -14553,6 +15200,7 @@
 ||weiyingbao.com
 ||weiyun.com
 ||weiyunyong.com
+||weizhang.org
 ||weizhangjilu.com
 ||weizhifeng.net
 ||weizhishu.com
@@ -14560,8 +15208,11 @@
 ||welltrend-edu.com
 ||welovead.com
 ||wemomo.com
+||wemvp.com
 ||wenangou.com
 ||wenchangfc.com
+||wenda.io
+||wendal.net
 ||wendangwang.com
 ||wendian.com
 ||wenidc.com
@@ -14575,15 +15226,18 @@
 ||wenwuchina.com
 ||wenxiu.com
 ||wenyeah.com
+||wenyifan.net
 ||wenyijcc.com
 ||wenzhaihui.com
 ||wenzhanghui.com
 ||wepiao.com
 ||wesdom.me
 ||weshaketv.com
+||weshareapp.net
 ||west263.com
 ||weste.net
 ||westsecu.com
+||wetogame.com
 ||weyee.com
 ||weyou360.com
 ||wezebra.com
@@ -14592,6 +15246,7 @@
 ||wfbrood.com
 ||wfccb.com
 ||wff168.com
+||wffc120.com
 ||wfjimg.com
 ||wgimg.com
 ||wgos.com
@@ -14611,6 +15266,7 @@
 ||whgssns.com
 ||whhsg.com
 ||whicec.com
+||whitecat.com
 ||whjbh.com
 ||whjddc.com
 ||whjdhy.com
@@ -14628,6 +15284,7 @@
 ||whptc.org
 ||whqtdjy.com
 ||whrcbank.com
+||whrenai.com
 ||whrsj.org
 ||whsyy.net
 ||whtmhh.com
@@ -14645,6 +15302,7 @@
 ||wificw.com
 ||wifigx.com
 ||wifilt.com
+||wifishenqi.com
 ||wiixiaobao.com
 ||wikdo.com
 ||wike178.com
@@ -14669,6 +15327,7 @@
 ||winenice.com
 ||winfang.com
 ||wingiga.com
+||winmail.cc
 ||winmobi.net
 ||winshang.com
 ||winvvv.com
@@ -14757,6 +15416,8 @@
 ||worldfang.com
 ||worldhello.net
 ||worldiiss.com
+||worldlv.com
+||worlduc.com
 ||worldwayhk.com
 ||worthytown.com
 ||woshipm.com
@@ -14804,6 +15465,7 @@
 ||wting.info
 ||wtoutiao.com
 ||wtser.com
+||wtsw.net
 ||wubaiyi.com
 ||wubx.net
 ||wudage.com
@@ -14823,6 +15485,7 @@
 ||wuhubtv.com
 ||wujidy.com
 ||wujiecaifu.com
+||wujunze.com
 ||wukonglicai.com
 ||wukongshuo.com
 ||wuliaoo.com
@@ -14837,9 +15500,15 @@
 ||wutongguo.com
 ||wutongxiang.cc
 ||wuxiairport.com
+||wuxianlandao.com
+||wuxiaodi.com
+||wuxibus.com
 ||wuyishan.net
 ||wuyouchou.com
+||wuyuan.cc
+||wuyuan168.com
 ||wuzhenfestival.com
+||wwdu.org
 ||wwjhs.com
 ||wwtu.org
 ||www-cdn.dell.com
@@ -14883,11 +15552,14 @@
 ||wzits.com
 ||wzksw.com
 ||wzlry.com
+||wzsee.com
 ||wzsky.net
+||x0x.win
 ||x118.net
 ||x16.co
 ||x1616.com
 ||x1950.com
+||x1ad.com
 ||x431.com
 ||x7ef.com
 ||x9377a.com
@@ -14973,6 +15645,7 @@
 ||xiami.com
 ||xiami.net
 ||xiami001.com
+||xiamiz.com
 ||xiamp4.com
 ||xian-tourism.com
 ||xianba.net
@@ -15017,12 +15690,15 @@
 ||xiaoji001.com
 ||xiaojiaoyar.com
 ||xiaojilicai.com
+||xiaojiulou.com
+||xiaojl.com
 ||xiaojudeng.com
 ||xiaojukeji.com
 ||xiaojunzi.com
 ||xiaolai.net
 ||xiaolinsi.com
 ||xiaolinyuan.com
+||xiaolvren.org
 ||xiaoma.com
 ||xiaomayi.co
 ||xiaomeiti.com
@@ -15040,7 +15716,9 @@
 ||xiaoqiaomm.com
 ||xiaoqingfen.com
 ||xiaorou.com
+||xiaoshangmin.com
 ||xiaoshuomi.cc
+||xiaoshuxiong.com
 ||xiaot.com
 ||xiaotee.com
 ||xiaoten.com
@@ -15054,10 +15732,12 @@
 ||xiaoyida.net
 ||xiaoying.tv
 ||xiaozhan.cc
+||xiaozhaozhushou.com
 ||xiaozhiyun.com
 ||xiaozhu.com
 ||xiaozhu2.com
 ||xiaozhudiantai.com
+||xiaozhustatic1.com
 ||xiaozhustatic2.com
 ||xiapu.co
 ||xiawu.com
@@ -15067,6 +15747,7 @@
 ||xibao100.com
 ||xibotao.com
 ||xibu168.com
+||xichu.net
 ||xici.net
 ||xici800.com
 ||xidian.cc
@@ -15096,12 +15777,14 @@
 ||xinduihuan.com
 ||xineee.com
 ||xinfengbao.com
+||xingbo.tv
 ||xinge.com
 ||xinggan.com
 ||xinggan.net
 ||xingkong.com
 ||xingkoo.com
 ||xingqu18.com
+||xingshuo.net
 ||xingtai123.com
 ||xingtai163.com
 ||xingtouzi.com
@@ -15158,6 +15841,7 @@
 ||xinzhongnews.com
 ||xiong.ac
 ||xiongying.com
+||xiouou.com
 ||xishanju.com
 ||xishiwang.com
 ||xitao88.com
@@ -15190,7 +15874,9 @@
 ||xizhezhe.com
 ||xizhi.com
 ||xiziwang.net
+||xj898.com
 ||xjabc.net
+||xjbdf.net
 ||xjbuluo.com
 ||xjc18.com
 ||xjeea.com
@@ -15214,6 +15900,8 @@
 ||xlfans.com
 ||xlpan.com
 ||xlpu.cc
+||xltzgy.com
+||xlzd.me
 ||xmadmin.com
 ||xmccb.com
 ||xmcct.com
@@ -15244,6 +15932,7 @@
 ||xoyo.com
 ||xoyobox.com
 ||xp510.com
+||xp7000.com
 ||xp85.com
 ||xp9365.com
 ||xpcha.com
@@ -15261,10 +15950,12 @@
 ||xs222.com
 ||xsbnholiday.com
 ||xscake.com
+||xshellcn.com
 ||xshuma.com
 ||xskhome.com
 ||xsool.com
 ||xspliter.com
+||xsvps.com
 ||xszp.cc
 ||xtbank.com
 ||xtgreat.com
@@ -15320,6 +16011,7 @@
 ||xunyou.com
 ||xunzai.com
 ||xunzhenji.com
+||xupu120.com
 ||xuxinfang.xyz
 ||xuyaoren.com
 ||xuyongren.com
@@ -15351,9 +16043,11 @@
 ||xxsy.net
 ||xxtcall.com
 ||xxwolo.com
+||xxxxxbbs.com
 ||xxycw.com
 ||xxzhushou.com
 ||xy.com
+||xy00030.com
 ||xycq.net
 ||xydhl.com
 ||xyffsb.com
@@ -15369,6 +16063,7 @@
 ||xyxy.com
 ||xyxy.net
 ||xyxy01.com
+||xyyksy.com
 ||xyz-soft.com
 ||xyznew.com
 ||xyzs.com
@@ -15378,6 +16073,7 @@
 ||xzbu.com
 ||xzkd.com
 ||xzlres.com
+||xzlyt.com
 ||xzsec.com
 ||xzw.com
 ||y1103.com
@@ -15412,6 +16108,7 @@
 ||yangshengtt.com
 ||yangshitianqi.com
 ||yangtse.com
+||yangzhe1991.org
 ||yangzhiping.com
 ||yanjiaorexian.com
 ||yankanghan.com
@@ -15442,6 +16139,7 @@
 ||yatu.tv
 ||yayy120.com
 ||yazhougoufang.com
+||yazuo.com
 ||yb1867.com
 ||ybccb.com
 ||ybirds.com
@@ -15462,6 +16160,7 @@
 ||ycpai.com
 ||ycwb.com
 ||ycwb.net
+||ycwbjygj.com
 ||yczihua.com
 ||ydl.wang
 ||ydr.me
@@ -15470,6 +16169,7 @@
 ||ye3.com
 ||yea.im
 ||yeah.net
+||yechengfu.com
 ||yedingding.com
 ||yeecloud.com
 ||yeekit.com
@@ -15483,10 +16183,12 @@
 ||yelixiali.com
 ||yellowchina.info
 ||yes515.com
+||yes58.net
 ||yesfr.com
 ||yeshen.com
 ||yeshj.com
 ||yesky.com
+||yeslicake.com
 ||yesmywine.com
 ||yesudoo.com
 ||yeswedo.cc
@@ -15498,9 +16200,11 @@
 ||yfcdn.net
 ||yfmhw.com
 ||ygame.cc
+||ygbbs.cc
 ||ygdy8.net
 ||ygliuxue.com
 ||ygobbs.com
+||ygzq777.com
 ||yh31.com
 ||yhachina.com
 ||yhbimg.com
@@ -15514,6 +16218,7 @@
 ||yhxx.com
 ||yi114.com
 ||yi71.com
+||yibanglv.com
 ||yibei.com
 ||yibizi.com
 ||yibuzhiyao.com
@@ -15554,6 +16259,7 @@
 ||yijiedai.com
 ||yikedou.com
 ||yikuaiqu.com
+||yilanok.com
 ||yilianit.com
 ||yilinguoji.com
 ||yilinjipin.com
@@ -15566,6 +16272,7 @@
 ||yiminchaoshi.com
 ||yiminjiayuan.com
 ||yimity.com
+||yimoe.cc
 ||yinar.com
 ||yindou.com
 ||yineitong.com
@@ -15585,6 +16292,7 @@
 ||yingsheng.com
 ||yingsoo.com
 ||yingxintea.com
+||yingxiong.com
 ||yingxiongji.com
 ||yingyinglicai.com
 ||yingyong.so
@@ -15613,6 +16321,7 @@
 ||yiqiv.com
 ||yiqixie.com
 ||yirendai.com
+||yirenzz.com
 ||yisanban.com
 ||yisell.com
 ||yishengfanyi.com
@@ -15675,6 +16384,7 @@
 ||ylmf.com
 ||yluu.com
 ||ylwpx8.com
+||ylws.net
 ||ylzqx.com
 ||ymapp.com
 ||ymatou.com
@@ -15700,6 +16410,7 @@
 ||yobangbang.com
 ||yobo360.com
 ||yocajr.com
+||yodakgroup.com
 ||yodao.com
 ||yodbank.com
 ||yododo.com
@@ -15725,6 +16436,7 @@
 ||yonyou.com
 ||yonyoufinancial.com
 ||yonyouhit.com
+||yooek.com
 ||yooli.com
 ||yooli.org
 ||yooxun.com
@@ -15750,7 +16462,9 @@
 ||youhanzhong.com
 ||youhaosuda.com
 ||youhuaaa.com
+||youiv.in
 ||youjialink.com
+||youjiangxx.com
 ||youjiao.com
 ||youjiaus.net
 ||youjoy.tv
@@ -15758,7 +16472,9 @@
 ||youkexueyuan.com
 ||youku.com
 ||youku.tv
+||youkudou.com
 ||youkutv.com
+||youlai66.com
 ||youle55.com
 ||youlu.net
 ||youluxe.com
@@ -15777,6 +16493,7 @@
 ||yousc.com
 ||youshang.com
 ||youshifu.com
+||yousuu.com
 ||youtaidu.com
 ||youtui.mobi
 ||youtx.com
@@ -15797,6 +16514,7 @@
 ||youxih.com
 ||youxihezi.net
 ||youxij.com
+||youxile.com
 ||youxiniao.com
 ||youxinpai.com
 ||youxipai.com
@@ -15806,6 +16524,7 @@
 ||youxituoluo.com
 ||youxiuhui.com
 ||youxiwangguo.com
+||youxizh.com
 ||youxueke.com
 ||youyangyc.com
 ||youyiqi.com
@@ -15870,6 +16589,7 @@
 ||yuanbaohui.com
 ||yuanjiance.com
 ||yuanlai521.com
+||yuanlian.net
 ||yuanlin.com
 ||yuanlin8.com
 ||yuanoook.com
@@ -15897,6 +16617,7 @@
 ||yueyuxuan.com
 ||yueyv.com
 ||yufmcdn.com
+||yugaopian.com
 ||yuguo.us
 ||yuguod.com
 ||yuheii.com
@@ -15956,6 +16677,7 @@
 ||yuntongxun.com
 ||yunuo.co
 ||yunva.com
+||yunvhs.com
 ||yunview.com
 ||yunvm.com
 ||yunvs.com
@@ -15971,6 +16693,7 @@
 ||yushufang.me
 ||yutian.cc
 ||yuwanshe.com
+||yuxiaor.com
 ||yuyi-school.com
 ||yuyin.fm
 ||yuyoutuan.com
@@ -15987,12 +16710,14 @@
 ||yxbao.com
 ||yxblo.com
 ||yxboo.com
+||yxcamp.com
 ||yxdown.com
 ||yxduo.com
 ||yxen.net
 ||yxfw.com
 ||yxi.cc
 ||yximgs.com
+||yxkfw.com
 ||yxlady.com
 ||yxm.com
 ||yxpopo.com
@@ -16003,7 +16728,9 @@
 ||yy138.com
 ||yy521.com
 ||yy6080.org
+||yyaxx.com
 ||yycaf.net
+||yyclub.org
 ||yycoin.com
 ||yydeb.com
 ||yydzh.com
@@ -16023,10 +16750,13 @@
 ||yytcdn.com
 ||yytd66.com
 ||yyuap.com
+||yyxt.com
 ||yyyia.com
 ||yyzhiboshi.com
 ||yzdsb.com
 ||yzfy.org
+||yzgttm.com
+||yzjjw.net
 ||yzmg.com
 ||yzmjw.com
 ||yzmoney.com
@@ -16065,6 +16795,7 @@
 ||zbjimg.com
 ||zbkszx.net
 ||zbnews.net
+||zbqzy.com
 ||zbusa.com
 ||zbwbbs.com
 ||zbyzn.com
@@ -16094,6 +16825,7 @@
 ||zdomo.com
 ||zdroxy.net
 ||zdsee.com
+||zdtxt.com
 ||zdvps.com
 ||zdworks.com
 ||zdworkscdn.com
@@ -16101,12 +16833,14 @@
 ||ze5.com
 ||zealer.com
 ||zei8.net
+||zeixihuan.com
 ||zengrong.net
 ||zenha.net
 ||zerodm.com
 ||zesmob.com
 ||zeus.dl.playstation.net
 ||zeuux.com
+||zexiaoqiao.com
 ||zeze.com
 ||zf3d.com
 ||zfdmkj.com
@@ -16121,6 +16855,7 @@
 ||zgeci.com
 ||zgeroom.com
 ||zgfznews.com
+||zggjgy.com
 ||zggonglue.com
 ||zghhzx.net
 ||zgjm.org
@@ -16141,12 +16876,14 @@
 ||zgswcn.com
 ||zgwygl.org
 ||zgxqds.com
+||zgyaye.com
 ||zgycsc.com
 ||zgys.net
 ||zgyssyxh.com
 ||zgyuwen.com
 ||zgzcw.com
 ||zgzdb.com
+||zgzhuanli.com
 ||zgzhys.com
 ||zgzxwsg.com
 ||zh-cn.appex-rf.msn.com
@@ -16157,6 +16894,7 @@
 ||zhandi.cc
 ||zhang365.com
 ||zhanggame.com
+||zhangkai.red
 ||zhangxinxu.com
 ||zhangyue.com
 ||zhangzishi.cc
@@ -16167,9 +16905,11 @@
 ||zhanxinban.com
 ||zhanzhang8.net
 ||zhanzhenming.com
+||zhaobeijing.com
 ||zhaocaibb.com
 ||zhaocaihr.com
 ||zhaochafa.com
+||zhaodanji.com
 ||zhaodao123.com
 ||zhaofile.com
 ||zhaogepu.com
@@ -16215,6 +16955,7 @@
 ||zhenimg.com
 ||zhenpin.com
 ||zhenren.com
+||zhenrenmm.com
 ||zhenyouliao.com
 ||zheye.cc
 ||zheyibu.com
@@ -16234,6 +16975,7 @@
 ||zhicg.com
 ||zhicheng.com
 ||zhicho.com
+||zhidianqk.com
 ||zhiding8.com
 ||zhidx.com
 ||zhifang.com
@@ -16253,6 +16995,7 @@
 ||zhimajinrong.com
 ||zhimg.com
 ||zhimoe.com
+||zhinengfun.com
 ||zhinsta.com
 ||zhipiao100.com
 ||zhipiaoduixian8.com
@@ -16311,7 +17054,9 @@
 ||zhou6.com
 ||zhouhua.net
 ||zhoujilianhe.com
+||zhoujiping.com
 ||zhoukan.cc
+||zhoupuwang.com
 ||zhouwenbin.com
 ||zhouxiaoniao.com
 ||zhouxingchi.info
@@ -16327,6 +17072,7 @@
 ||zhuangbi.me
 ||zhuangjiba.com
 ||zhuangpin.com
+||zhuangyuanxiong.com
 ||zhuaniao.com
 ||zhuankebar.com
 ||zhuankezhijia.com
@@ -16342,6 +17088,7 @@
 ||zhubao.com
 ||zhubiaoju.com
 ||zhubo123.com
+||zhubofen.com
 ||zhuce.la
 ||zhucexianggang.com
 ||zhugeio.com
@@ -16351,11 +17098,13 @@
 ||zhuizhuiimg.com
 ||zhuji.com
 ||zhuji.gd
+||zhuji.la
 ||zhuji91.com
 ||zhujia360.com
 ||zhujiaimg.com
 ||zhujiceping.com
 ||zhujike.com
+||zhujiming.com
 ||zhujiwu.com
 ||zhujunel.com
 ||zhukun.net
@@ -16398,6 +17147,7 @@
 ||zixia.com
 ||zixue7.com
 ||zixuntop.com
+||ziyimall.com
 ||ziyouge.com
 ||zizaike.com
 ||zizizizizi.com
@@ -16421,9 +17171,11 @@
 ||zjolcdn.com
 ||zjoldns.com
 ||zjpl.com
+||zjqyltlg.com
 ||zjqzrj.com
 ||zjrc.com
 ||zjrc.net
+||zjrxz.com
 ||zjstv.com
 ||zjtcn.com
 ||zjtlcb.com
@@ -16446,6 +17198,7 @@
 ||zmrgame.com
 ||zmsc.cc
 ||zmxiu.com
+||zn-car.com
 ||zn8.com
 ||zndns.com
 ||znds.com
@@ -16470,6 +17223,7 @@
 ||zp-golf.com
 ||zq99y.com
 ||zqgame.com
+||zqjjr.com
 ||zqsos.com
 ||zqzhibo.com
 ||zr98.com
@@ -16479,6 +17233,7 @@
 ||zrdaip2p.com
 ||zreading.net
 ||zruicaifu.com
+||zsbdcn.com
 ||zsdtbz.com
 ||zshl.com
 ||zsj18.com
@@ -16496,6 +17251,7 @@
 ||zto.com
 ||ztrong.com
 ||ztsafe.com
+||ztt.cc
 ||zu-ba.com
 ||zuanke8.com
 ||zuber.im
@@ -16504,6 +17260,7 @@
 ||zufang.com
 ||zufangzi.com
 ||zuiaishiting.com
+||zuidongxi.com
 ||zuiku.com
 ||zuilizhi.net
 ||zuimeia.com
@@ -16531,6 +17288,7 @@
 ||zx080.com
 ||zx100.com
 ||zx110.org
+||zx250.com
 ||zx7b.com
 ||zx98.com
 ||zxd.com
@@ -16573,3 +17331,4 @@
 ||zzyjedu.com
 ||zzyjs.com
 ||zzyzphoto.com
+||zzzyb.com
