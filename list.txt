@@ -1623,6 +1623,7 @@
 ||51dc.com
 ||51ditu.com
 ||51dns.com
+||51dns.top
 ||51dojoy.com
 ||51dzrc.com
 ||51dzw.com
@@ -1919,6 +1920,7 @@
 ||55g.cc
 ||55haitao.com
 ||55hl.com
+||55hl.net
 ||55jj.com
 ||55lady.net
 ||55shantao.com
@@ -2011,6 +2013,7 @@
 ||58supin.com
 ||58wangwei.com
 ||58yiji.com
+||58yuesao.com
 ||58zhongchouwang.com
 ||59120.com
 ||59178.com
@@ -2033,6 +2036,7 @@
 ||598wan.com
 ||5999.tv
 ||59kankan.com
+||59na.com
 ||59store.com
 ||5a49.com
 ||5aaa.com
@@ -3016,6 +3020,7 @@
 ||aboutidc.com
 ||aboutnuke.org
 ||abroadstar.com
+||acadn.com
 ||accgame.com
 ||acde.net
 ||acfan.com
@@ -3120,6 +3125,7 @@
 ||age06.com
 ||agenow.com
 ||aglc.cc
+||agmbet.com
 ||agoodme.com
 ||agouzq.com
 ||agrantsem.com
@@ -3520,6 +3526,7 @@
 ||appledoesnt.com
 ||applepie.cc
 ||appletuan.com
+||applex.net
 ||applinzi.com
 ||applong.com
 ||appnimc.com
@@ -4465,6 +4472,7 @@
 ||cainiao.com
 ||caipiao365.com
 ||caipopo.com
+||caishangcaifu.com
 ||caitou.com
 ||caixin.com
 ||caiyu.in
@@ -4647,6 +4655,7 @@
 ||cdnren.com
 ||cdntip.com
 ||cdnudns.com
+||cdnunion.net
 ||cdnunion.org
 ||cdnzz.com
 ||cdnzz.net
@@ -4858,6 +4867,7 @@
 ||chengche.cc
 ||chengdebank.com
 ||chengdechina.com
+||chengduhunli.com
 ||chengdujjw.com
 ||chengguw.com
 ||chengkao365.com
@@ -5190,6 +5200,7 @@
 ||chinese-no1.com
 ||chineseall.com
 ||chinesecio.com
+||chinesejk.com
 ||chinesejy.com
 ||chinesetown.net
 ||chint.com
@@ -6071,6 +6082,7 @@
 ||cyruc.com
 ||cyttc.org
 ||cyuew.com
+||cyysjm.com
 ||cz-yurui.com
 ||cz2sc.com
 ||cz365.com
@@ -6513,6 +6525,7 @@
 ||dingshengjianye.com
 ||dingsite.com
 ||dingtalk.com
+||dingtalkapps.com
 ||dingxinhui.com
 ||dingxuan.info
 ||dingyx.com
@@ -6591,17 +6604,22 @@
 ||dljs.net
 ||dlkeda.com
 ||dllake.com
+||dlmonita.com
 ||dlrjtz.com
 ||dltcedu.org
 ||dlxww.com
+||dlysgh.com
 ||dm004.com
+||dm0571.com
 ||dm1080p.com
 ||dm115.com
 ||dm300.com
 ||dm456.com
 ||dm530.com
+||dmansg.com
 ||dmaow.com
 ||dmcache.com
+||dmcbd.com
 ||dmecy.com
 ||dmeng.net
 ||dmfeel.com
@@ -6616,6 +6634,7 @@
 ||dmzj.com
 ||dmzx.com
 ||dn.com
+||dn1234.com
 ||dnaob.com
 ||dnbbs.com
 ||dnbiz.com
@@ -6681,8 +6700,10 @@
 ||dodolia.com
 ||dodonew.com
 ||doershow.com
+||dog126.com
 ||dogwhere.com
 ||dohuo.com
+||doido.com
 ||dolby.cc
 ||dolcn.com
 ||doll-leaves.com
@@ -6697,9 +6718,14 @@
 ||donews.com
 ||dongao.com
 ||dongbei8.com
+||dongbeiol.com
 ||dongchengwang.com
 ||dongdong17.com
+||dongeedu.com
 ||dongeejiao.com
+||dongfang.com
+||dongfang8.com
+||dongfangnews.com
 ||dongfei315.com
 ||dongfeng-nissan.com
 ||donglingying.cc
@@ -6707,16 +6733,20 @@
 ||dongqiudi.com
 ||dongshou.com
 ||dongsuns.com
+||dongtangad.com
 ||dongting.com
 ||dongua.com
 ||dongxi.net
 ||donkey4u.com
 ||dooland.com
+||doomii.com
 ||doonhome.com
 ||dooo.cc
 ||dooreb.com
+||doorhr.com
 ||dorapp.com
 ||dospy.com
+||dostor.com
 ||dota.tw
 ||dota2rpg.com
 ||dota2sp.com
@@ -6732,6 +6762,7 @@
 ||douguo.net
 ||doujind.com
 ||doukeji.com
+||douluodalu123.com
 ||doumi.com
 ||douquwang.com
 ||douxie.com
@@ -6739,6 +6770,7 @@
 ||douyar.com
 ||douyu.tv
 ||douyutv.com
+||dowater.com
 ||dowei.com
 ||down.cc
 ||downcc.com
@@ -6751,17 +6783,24 @@
 ||download.windowsupdate.com
 ||download.xbox.com
 ||download.xboxlive.com
+||downxia.com
 ||downxunlei.com
 ||downyi.com
 ||doyoo.net
 ||doyouhike.net
 ||dozo.com.tw
 ||dpfile.com
+||dpm360.com
 ||dq247.com
 ||dqccc.cc
 ||dqccc.com
+||dqcccc.com
+||dqdaily.com
 ||dqguo.com
+||dqiong.com
+||dqjob88.com
 ||dqz.tv
+||dqzc.com
 ||dragonclaw.org
 ||drakeet.me
 ||drcbank.com
@@ -6772,15 +6811,24 @@
 ||dreamxt.net
 ||drip.im
 ||drivergenius.com
+||driversdown.com
 ||drivethelife.com
 ||droidyue.com
 ||drupal001.net
 ||drupalba.com
 ||drvcache.com
 ||drvsky.com
+||ds123456.com
+||ds599.com
 ||ds5f.com
+||dsdod.com
 ||dsduo.com
+||dsfdc.com
+||dshigao.com
+||dshmama.com
+||dshrc.com
 ||dsjunshi.net
+||dsrlzy.com
 ||dssz.com
 ||dssz.org
 ||dsti.net
@@ -6788,8 +6836,10 @@
 ||dsxypj.com
 ||dtccb.com
 ||dtcms.net
+||dtcoalmine.com
 ||dthrb.com
 ||dttt.net
+||dtxmw.com
 ||du7.com
 ||du8.com
 ||duanqu.com
@@ -6818,6 +6868,7 @@
 ||duocaitou.com
 ||duoduopan.com
 ||duoduozhifu.com
+||duojiaochong.com
 ||duokan.com
 ||duokanbox.com
 ||duokebo.com
@@ -6832,6 +6883,7 @@
 ||duoqu.com
 ||duorou.com
 ||duose.com
+||duoshitong.com
 ||duoshuo.com
 ||duost.com
 ||duotai.org
@@ -6840,8 +6892,10 @@
 ||duouoo.com
 ||duowan.com
 ||duowanns.com
+||duoyewu.com
 ||duoyi.com
 ||duozi.org
+||dushicn.com
 ||dushifang.com
 ||dushiys.com
 ||dute.me
@@ -6857,18 +6911,23 @@
 ||dwjoy.com
 ||dwrh.net
 ||dwstatic.com
+||dx-job.com
 ||dx168.com
 ||dxbei.com
+||dxda.com
+||dxddcx.com
 ||dxjs.com
 ||dxlaa.com
 ||dxpmedia.com
 ||dxsbb.com
 ||dxscy.info
 ||dxsvr.com
+||dxszxy.com
 ||dxwd.com
 ||dxy.com
 ||dxycdn.com
 ||dxztc.com
+||dxzx.com
 ||dy.cm
 ||dy100.me
 ||dy131.com
@@ -6876,10 +6935,12 @@
 ||dy2018.com
 ||dy2018.net
 ||dycar.net
+||dycars.com
 ||dyccb.com
 ||dydh.tv
 ||dydt.net
 ||dyfc.net
+||dyfcw.com
 ||dygang.com
 ||dygod.com
 ||dygod.net
@@ -6889,6 +6950,8 @@
 ||dylc.com
 ||dyp2p.com
 ||dypics.com
+||dyplk.com
+||dyqc.com
 ||dyshoufa.com
 ||dyteam.com
 ||dytt.com
@@ -6897,13 +6960,23 @@
 ||dyxhjinrong.com
 ||dyxtw.com
 ||dyxw.com
+||dz-z.com
+||dz1982.com
+||dz666.com
 ||dzbchina.com
 ||dzblxx.com
+||dzcnc.com
 ||dzcozon.com
 ||dzdoll.com
 ||dzdollbbs.com
+||dzmjw.com
 ||dzpk.com
+||dzqiche.com
+||dzrbs.com
 ||dzsc.com
+||dzsm.com
+||dzsrcw.com
+||dzszb.com
 ||dzwww.com
 ||dzzc.com
 ||e-caij.com
@@ -7050,6 +7123,7 @@
 ||ejixun.com
 ||ejoy.com
 ||eju.com
+||ekaidian.com
 ||ekoooo.com
 ||ekslog.com
 ||eku.cc
@@ -7234,6 +7308,7 @@
 ||fadesky.com
 ||fadoushi.com
 ||fafawang.com
+||fafeng.com
 ||fahai.com
 ||faidns.com
 ||faisco.com
@@ -7489,6 +7564,7 @@
 ||foxwan.com
 ||foyuan.net
 ||fpwap.com
+||fq-china.com
 ||fqjyxx.com
 ||fql.cc
 ||fqpai.com
@@ -7821,6 +7897,7 @@
 ||gmlinux.com
 ||gmtv.cc
 ||gn00.com
+||gn168mail.com
 ||go.cc
 ||go007.com
 ||go008.com
@@ -8364,6 +8441,7 @@
 ||heiyan.com
 ||heiye.cc
 ||heizhushoes.com
+||hejizhan.com
 ||hejun.com
 ||heku.org
 ||helijia.com
@@ -9387,6 +9465,7 @@
 ||iweizhijia.com
 ||iwencai.com
 ||iwgame.com
+||iwin10.com
 ||iwj.cc
 ||iwjw.com
 ||iwjwagent.com
@@ -9713,6 +9792,7 @@
 ||jiumei.com
 ||jiurong.com
 ||jiushengmall.com
+||jiusow.com
 ||jiusozz.com
 ||jiuxian.com
 ||jiuxinfinance.com
@@ -9773,6 +9853,7 @@
 ||jmabroad.com
 ||jmdcf.com
 ||jmdedu.com
+||jmjinrong.com
 ||jmstatic.com
 ||jn-bank.com
 ||jn001.com
@@ -9890,6 +9971,7 @@
 ||ju33.com
 ||ju51.com
 ||juancdn.com
+||juandou.com
 ||juangua.com
 ||juanlaoda.com
 ||juanpi.com
@@ -10940,6 +11022,7 @@
 ||m1905.com
 ||m3guo.com
 ||m598.com
+||m5bn.com
 ||m6go.com
 ||m818.com
 ||m8cool.com
@@ -11186,6 +11269,7 @@
 ||menchuang.biz
 ||meng3.com
 ||meng800.com
+||menggang.com
 ||mengheng.net
 ||menghuanfeixian.com
 ||mengjiagames.com
@@ -11221,6 +11305,7 @@
 ||mgoume168.xyz
 ||mgpyh.com
 ||mgslb.com
+||mgtv.com
 ||mgyapp.com
 ||mgyun.com
 ||mgyyw.com
@@ -12018,6 +12103,7 @@
 ||ourgame.com
 ||ourglb.net
 ||ourglb0.com
+||ourglb0.net
 ||ourhy.net
 ||ourjay.com
 ||ourku.com
@@ -12025,6 +12111,7 @@
 ||ourseo.net
 ||ourtra.com
 ||ourwebcdn.com
+||ourwebcdn.net
 ||ourwebpic.com
 ||ourxun.com
 ||ousns.net
@@ -12165,6 +12252,7 @@
 ||pgyer.com
 ||pgzs.com
 ||phedu.net
+||phgs001.us
 ||philcongenshanghai.org
 ||phobos-apple.com.akadns.net
 ||phoenixlzx.com
@@ -13250,6 +13338,7 @@
 ||shhuihai.com
 ||shhxjx.com
 ||shibeike.com
+||shicaidai.com
 ||shichangbu.com
 ||shifen.com
 ||shifenkafei.com
@@ -13297,7 +13386,9 @@
 ||shoeshr.com
 ||shokw.com
 ||sholrun.com
+||shop123.com
 ||shopin.net
+||shopmaxmb.com
 ||shoppingbuy.org
 ||shou555.com
 ||shou99.net
@@ -13732,7 +13823,9 @@
 ||stylemode.com
 ||su-long.com
 ||suanguajie.com
+||suapp.me
 ||subaonet.com
+||subar.me
 ||subhd.com
 ||subom.net
 ||subpig.net
@@ -14790,6 +14883,7 @@
 ||vf5c.com
 ||vfdgf.com
 ||vfe.cc
+||vfund.org
 ||vgabc.com
 ||vglook.com
 ||vgooo.com
@@ -14801,6 +14895,7 @@
 ||vicp.cc
 ||vicp.net
 ||vidarsoft.com
+||videocc.net
 ||videojj.com
 ||viewones.com
 ||vikecn.com
@@ -15679,6 +15774,7 @@
 ||xiaobaostudio.com
 ||xiaoche001.com
 ||xiaochiwang.org
+||xiaodian.com
 ||xiaodiao.com
 ||xiaodoubi.com
 ||xiaoenai.com
@@ -15841,6 +15937,7 @@
 ||xinzhongnews.com
 ||xiong.ac
 ||xiongying.com
+||xiongzhenyu.com
 ||xiouou.com
 ||xishanju.com
 ||xishiwang.com
@@ -15903,6 +16000,7 @@
 ||xltzgy.com
 ||xlzd.me
 ||xmadmin.com
+||xmbool.com
 ||xmccb.com
 ||xmcct.com
 ||xmcdn.com
@@ -16108,6 +16206,7 @@
 ||yangshengtt.com
 ||yangshitianqi.com
 ||yangtse.com
+||yangyangla.com
 ||yangzhe1991.org
 ||yangzhiping.com
 ||yanjiaorexian.com
@@ -16318,6 +16417,7 @@
 ||yinzifang.com
 ||yiqifa.com
 ||yiqihao.com
+||yiqisooimg.com
 ||yiqiv.com
 ||yiqixie.com
 ||yirendai.com
@@ -16643,6 +16743,7 @@
 ||yundaex.us
 ||yundangan.com
 ||yundasys.com
+||yundongfang.com
 ||yundunddos.com
 ||yunduoketang.com
 ||yundzh.com
