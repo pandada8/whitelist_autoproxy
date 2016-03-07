@@ -4731,6 +4731,7 @@
 ||cfd163.com
 ||cfdaguanjia.com
 ||cfdp.org
+||cff666.biz
 ||cfhot.com
 ||cfhpc.org
 ||cfjs.cc
@@ -8435,6 +8436,7 @@
 ||hdletv.com
 ||hdlogo.com
 ||hdmee.com
+||hdmeiju.com
 ||hdmnw.com
 ||hdrich.com
 ||hdroad.org
@@ -9394,6 +9396,7 @@
 ||isaced.com
 ||ishangman.com
 ||ishangzu.com
+||ishare.red
 ||ishenyou.com
 ||ishowx.com
 ||ishuhui.com
@@ -10373,6 +10376,7 @@
 ||ksbao.cc
 ||ksbao.com
 ||kscac.com
+||ksec.me
 ||ksgfzq.com
 ||ksmobile.com
 ||ksosoft.com
@@ -14788,6 +14792,7 @@
 ||updrv.com
 ||upepsi.com
 ||upqzfile.com
+||ups.ksmobile.net
 ||upsbuy.com
 ||upsunet.com
 ||upyun.com
@@ -15114,6 +15119,7 @@
 ||wang1314.com
 ||wangcaigu.com
 ||wangcaiwang.com
+||wangchao.de
 ||wangdaicaifu.com
 ||wangdaichina.com
 ||wangdaidongfang.com
@@ -15598,6 +15604,7 @@
 ||wquant.com
 ||wrating.com
 ||wredian.com
+||ws.ksmobile.net
 ||ws8.org
 ||wscdns.com
 ||wscloudcdn.com
