@@ -3006,6 +3006,7 @@
 ||a8v5.com
 ||a907907.com
 ||a9188.com
+||a9377j.com
 ||a963.com
 ||a9vg.com
 ||aa65535.com
@@ -3402,6 +3403,7 @@
 ||animetaste.net
 ||anjiala.com
 ||anjian.com
+||anjinno1.com
 ||anjixiandierzhongxue.com
 ||anjuke.com
 ||anjukestatic.com
@@ -3956,6 +3958,7 @@
 ||bdstatic.com
 ||bdwm.net
 ||bdx678.com
+||bdydns.com
 ||bearing.cm
 ||bearjoy.com
 ||bearyboard.com
@@ -4166,6 +4169,7 @@
 ||bjjf.cc
 ||bjjingda.com
 ||bjjubao.org
+||bjkn120.com
 ||bjlmfq.com
 ||bjmama.com
 ||bjmama.net
@@ -4283,6 +4287,7 @@
 ||bootcss.com
 ||boqii.com
 ||boqiicdn.com
+||borpor.com
 ||bosera.com
 ||bosigame.com
 ||bosondata.net
@@ -4649,7 +4654,6 @@
 ||cdn-files.net
 ||cdn-hotels.com
 ||cdn.apple-mapkit.com
-||cdn.jsdelivr.net
 ||cdn.marketplaceimages.windowsphone.com
 ||cdn1.apple-mapkit.com
 ||cdn1.evernote.com
@@ -4668,6 +4672,7 @@
 ||cdnmaster.com
 ||cdnok.com
 ||cdnren.com
+||cdnsvc.com
 ||cdntip.com
 ||cdnudns.com
 ||cdnunion.net
@@ -7211,6 +7216,7 @@
 ||epub360.com
 ||eput.com
 ||epweike.com
+||epwk.com
 ||equanxing.com
 ||equn.com
 ||eqxiu.com
@@ -9833,6 +9839,7 @@
 ||jiuzhilan.com
 ||jiwu.com
 ||jixigroup.com
+||jixin365.com
 ||jiyingdm.com
 ||jiyou.tv
 ||jiyoubang360.com
@@ -9973,6 +9980,7 @@
 ||jscnxx.com
 ||jscts.com
 ||jsdada.com
+||jsdelivr.net
 ||jseie.org
 ||jser.com
 ||jsfof.com
@@ -10335,6 +10343,7 @@
 ||kmgtp.org
 ||kmguolv.com
 ||kmweige.com
+||kn120.com
 ||kn93.net
 ||knewbi.com
 ||knewone.com
@@ -10584,6 +10593,7 @@
 ||ld12.com
 ||ldeng.com
 ||ldz.cc
+||le.com
 ||leadercf.com
 ||leaderhero.com
 ||leanote.com
@@ -10917,6 +10927,7 @@
 ||longwiki.net
 ||longyu.cc
 ||longzhongtv.com
+||longzili.com
 ||lookae.com
 ||lookcss.com
 ||loome.net
@@ -11070,6 +11081,7 @@
 ||macappbox.com
 ||macappstore.net
 ||macfav.com
+||macgg.com
 ||macgood.com
 ||machine-in-china.com
 ||macidea.com
@@ -11622,6 +11634,8 @@
 ||muzisoft.com
 ||mv199.com
 ||mvote.net
+||mwcloudcdn.com
+||mwcloudcdn.info
 ||mwcname.com
 ||mwjx.com
 ||mx175.com
@@ -12055,6 +12069,7 @@
 ||okhqb.com
 ||okinfo.org
 ||okjoys.com
+||oklink.com
 ||oklx.com
 ||okooo.com
 ||okoooimg.com
@@ -12284,6 +12299,7 @@
 ||penglaiu.com
 ||pengyou.com
 ||pengyoufx.com
+||pengyoujia.me
 ||pengyoukan.com
 ||pentaq.com
 ||peoplerail.com
@@ -12313,6 +12329,7 @@
 ||phpchina.com
 ||phpcj.org
 ||phpcode8.com
+||phpcomposer.com
 ||phpcoo.com
 ||phpfans.net
 ||phpgao.com
@@ -13015,6 +13032,8 @@
 ||repian.com
 ||replays.net
 ||reqianduan.com
+||res.office365.com
+||res.outlook.com
 ||resgain.net
 ||rexsong.com
 ||rexuemil.com
@@ -13526,6 +13545,7 @@
 ||sidatz.com
 ||sigchina.com
 ||sightp.com
+||sihaitravel.com
 ||siilu.com
 ||sike.io
 ||silkroadtechnologies.com
@@ -13610,6 +13630,7 @@
 ||skysrt.com
 ||skyunion.com
 ||skyworth.com
+||skyyin.org
 ||sl-360.com
 ||slghyd.com
 ||slmwp.com
@@ -14247,6 +14268,7 @@
 ||thevarietygames.com
 ||thexnode.com
 ||thinkdo3.com
+||thinkjs.org
 ||thinkvm.net
 ||thirsight.com
 ||thjunshi.com
@@ -14332,6 +14354,7 @@
 ||tiny4.org
 ||tinydawn.com
 ||tinysou.com
+||tiqcdn.com
 ||tiqinpu.com
 ||tired.im
 ||tisiwi.com
@@ -14575,6 +14598,7 @@
 ||tuicool.com
 ||tuidc.com
 ||tuijie.cc
+||tuikes.com
 ||tuili8.com
 ||tuilisr.com
 ||tuishiben.com
@@ -15704,6 +15728,7 @@
 ||wzdjy.com
 ||wzdsb.net
 ||wzfzh.com
+||wzhealth.com
 ||wzi9.com
 ||wzits.com
 ||wzksw.com
@@ -16084,6 +16109,7 @@
 ||xn--io0a7i
 ||xn--tlqu1kcxrkza101cwpqlwk.com
 ||xn121.com
+||xnfzl.com
 ||xnhc521.com
 ||xnpic.com
 ||xns315.com
