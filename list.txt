@@ -2419,6 +2419,7 @@
 ||5252cha.com
 ||5253.com
 ||5258.net
+||525cm.com
 ||525jmall.com
 ||5262.com
 ||526d.com
@@ -3423,6 +3424,7 @@
 ||8384cs.com
 ||8385.com
 ||83dd.com
+||83edu.net
 ||84.vc
 ||844a.com
 ||844mm.com
@@ -6118,6 +6120,7 @@
 ||caibangzi.com
 ||caibao.com
 ||caichongwang.com
+||caicui.com
 ||caidian.com
 ||caidianqu.com
 ||caiftv.com
@@ -6576,6 +6579,7 @@
 ||changker.com
 ||changlongyingshi.com
 ||changsha-show.com
+||changtounet.com
 ||changtu.com
 ||changtu8.com
 ||changwanba.com
@@ -6587,6 +6591,7 @@
 ||chanjet.com
 ||channeleffect.com
 ||channelray.com
+||chanpin100.com
 ||chanqing.net
 ||chanwuhotel.com
 ||chanyeditu.com
@@ -6888,6 +6893,7 @@
 ||chinadiver.com
 ||chinadmd.com
 ||chinadmoz.org
+||chinadns.org
 ||chinadoudi.com
 ||chinadrtv.com
 ||chinadyt.com
@@ -7318,6 +7324,7 @@
 ||ckjunshi.com
 ||ckplayer.cc
 ||ckplayer.com
+||ckurk.org
 ||cl0438.com
 ||cl2.apple.com.edgekey.net.globalredir.akadns.net
 ||cl2.apple.com.edgekey.net
@@ -7576,6 +7583,7 @@
 ||cnhvacrnet.com
 ||cnhzpjy.com
 ||cniao5.com
+||cniee.com
 ||cnimba.com
 ||cnimg.elex.com
 ||cninfo.net
@@ -7816,6 +7824,7 @@
 ||codingapp.com
 ||codingboy.com
 ||codingcool.com
+||codingke.com
 ||codinglabs.org
 ||codingpy.com
 ||codoon.com
@@ -8063,6 +8072,7 @@
 ||csair.com
 ||csairholiday.com
 ||csairshop.com
+||csapa.org
 ||csaspx.com
 ||csbdfyy.net
 ||csbew.com
@@ -8112,6 +8122,7 @@
 ||csto.com
 ||cstudyabroad.com
 ||csuboy.com
+||csvclub.org
 ||csvt.net
 ||csvw.com
 ||csxdf.com
@@ -8401,6 +8412,7 @@
 ||dajiachou.com
 ||dajialawyer.com
 ||dajianet.com
+||dajiantuan.com
 ||dajiashequ.com
 ||dajiatou.com
 ||dajiazhao.com
@@ -8498,6 +8510,7 @@
 ||dashikou.com
 ||dashiyou.com
 ||dashuye.com
+||data985.com
 ||datacaciques.com
 ||dataeye.com
 ||dataman-inc.com
@@ -8505,6 +8518,7 @@
 ||datang.net
 ||dataodu.com
 ||datapanda.net
+||datathinking.com
 ||dataunion.net
 ||dataunion.org
 ||datavlab.org
@@ -11836,6 +11850,7 @@
 ||hijoys.com
 ||hijuu.com
 ||hiknow.com
+||hilistentome.com
 ||hinavi.net
 ||hipcam.net
 ||hiputian.com
@@ -12462,6 +12477,7 @@
 ||hzman.net
 ||hzmrhl.com
 ||hzmylike.com
+||hzpgc.com
 ||hzqz.net
 ||hzr1.com
 ||hzrc.com
@@ -12494,6 +12510,7 @@
 ||i3done.com
 ||i3v.cc
 ||i520.love
+||i5399.com
 ||i5good.com
 ||i5more.com
 ||i7gg.com
@@ -12519,6 +12536,7 @@
 ||iartmoney.com
 ||iask.com
 ||iaskgo.com
+||iaxure.com
 ||ibailve.com
 ||ibaitai.com
 ||ibangkf.com
@@ -12977,6 +12995,7 @@
 ||invescogreatwall.com
 ||inwaishe.com
 ||inweke.com
+||ionic.wang
 ||ionic8.com
 ||iopq.com
 ||iopq.net
@@ -13579,6 +13598,7 @@
 ||jiekon.com
 ||jielong-printing.com
 ||jiemian.com
+||jiemo.net
 ||jiemodui.com
 ||jiepang.com
 ||jieshao.org
@@ -14854,6 +14874,7 @@
 ||lanrenzhoumo.com
 ||lansha.tv
 ||lantian.tv
+||lantingmingjia.com
 ||lantouzi.com
 ||lanyingwang.com
 ||lanyus.com
@@ -16265,6 +16286,7 @@
 ||miyabaobei.com
 ||miyomo.com
 ||miyouu.com
+||miyucun.com
 ||mizhe.com
 ||mizhenhao.com
 ||mizone.cc
@@ -16423,6 +16445,7 @@
 ||moojnn.com
 ||moomcherry.com
 ||moonbasa.com
+||mooninbox.com
 ||moonsun.cc
 ||moorburn.com
 ||moorecat.com
@@ -16821,6 +16844,7 @@
 ||neeu.com
 ||negui.com
 ||neihan8.com
+||neihang.me
 ||neihanshequ.com
 ||neitui.me
 ||nekonazo.com
@@ -16929,6 +16953,7 @@
 ||nibaguai.com
 ||nibaku.com
 ||nibiye.com
+||nic.ren
 ||nic.wang
 ||nicaifu.com
 ||nice-app.com
@@ -17287,6 +17312,7 @@
 ||openlanguage.com
 ||openxinfo.com
 ||opfensi.com
+||opp2.com
 ||oppo.com
 ||oppomobile.com
 ||opsapp.com
@@ -17539,6 +17565,7 @@
 ||peixunxue.com
 ||peiyinxiu.com
 ||peiyou.com
+||peizi.me
 ||peizi0371.com
 ||pemsou.com
 ||pending-renewal-domain.com
@@ -17728,6 +17755,7 @@
 ||pmhui.com
 ||pmovie.com
 ||pmtoo.com
+||pmtown.com
 ||pmxsd.com
 ||pn66.com
 ||pnol.net
@@ -18035,6 +18063,7 @@
 ||qianhuaweb.com
 ||qianjia.com
 ||qianjing.com
+||qianka.com
 ||qianligu.org
 ||qianlima.com
 ||qianlinkj.com
@@ -18730,6 +18759,7 @@
 ||rongyitou.com
 ||rongyiw.com
 ||rongzhijia.com
+||roobo.com
 ||rookew.com
 ||rootjl.com
 ||rootzhushou.com
@@ -18919,6 +18949,7 @@
 ||sc2car.com
 ||sc2club.net
 ||sc2p.com
+||sc386.com
 ||scanv.com
 ||scarbbs.com
 ||sccin.com
@@ -19327,6 +19358,7 @@
 ||shou99.net
 ||shoubus.com
 ||shoucw.com
+||shoudian.org
 ||shoudujuchang.com
 ||shoudurc.com
 ||shougongke.com
@@ -19779,6 +19811,7 @@
 ||sos919.com
 ||sosg.net
 ||soso.com
+||soso021.com
 ||soso2009.com
 ||sosobtc.com
 ||sosohaha.com
@@ -20304,6 +20337,7 @@
 ||tai87.com
 ||taichangle.com
 ||taici.org
+||taidizh.com
 ||taidous.com
 ||taiee.net
 ||taig.com
@@ -20340,6 +20374,7 @@
 ||talkop.com
 ||talkshowcn.com
 ||talkyun.com
+||tamic.cc
 ||tamtattoodx.com
 ||tan-jita.com
 ||tan.cc
@@ -20703,7 +20738,9 @@
 ||tiny4.org
 ||tinydawn.com
 ||tinysou.com
+||tinyyuan.com
 ||tip4mac.com
+||tipdm.com
 ||tiqcdn.com
 ||tiqinpu.com
 ||tired.im
@@ -21284,6 +21321,7 @@
 ||ufotm.com
 ||ufstone.net
 ||ugojp.com
+||ugong.com
 ||ugoooo.com
 ||uhouzz.com
 ||ui001.com
@@ -21518,6 +21556,7 @@
 ||v3gp.com
 ||v3sm.com
 ||v3v3.net
+||v4.cc
 ||v4la.com
 ||v5bjq.com
 ||v5kf.com
@@ -21614,6 +21653,7 @@
 ||videer.net
 ||videocc.net
 ||videodd.com
+||videohupu.com
 ||videojj.com
 ||viewones.com
 ||vikecn.com
@@ -22322,6 +22362,7 @@
 ||whusf.com
 ||whuss.com
 ||whuwto.com
+||whwebsite.com
 ||whwkh.com
 ||whwm.org
 ||whyaodian.com
@@ -22329,6 +22370,7 @@
 ||whyenjoy.com
 ||whyqi.com
 ||whzc2008.com
+||whzhshgl.com
 ||whzyy.net
 ||widuu.com
 ||wifi.com
@@ -23143,6 +23185,7 @@
 ||xinshipu.com
 ||xinshishen.com
 ||xinshoucun.com
+||xinshuru.com
 ||xinsilu.com
 ||xintian.org
 ||xinweicook.com
@@ -23255,6 +23298,7 @@
 ||xlingdi.com
 ||xlmdy.com
 ||xlmoto.com
+||xlobo.com
 ||xlpan.com
 ||xlpu.cc
 ||xlrocket.com
@@ -23689,6 +23733,7 @@
 ||yeecloud.com
 ||yeekit.com
 ||yeelife.com
+||yeelight.com
 ||yeelink.net
 ||yeepay.com
 ||yeeuu.com
@@ -24059,6 +24104,7 @@
 ||yooli.com
 ||yooli.org
 ||yooxun.com
+||yopai.com
 ||yopin8.com
 ||yotosee.com
 ||you157.com
@@ -24328,6 +24374,7 @@
 ||yui-nya.com
 ||yujiangongyu.com
 ||yujiangshui.com
+||yujzw.com
 ||yukuai.com
 ||yul8.com
 ||yule0411.com
@@ -24553,9 +24600,11 @@
 ||zaiyunli.com
 ||zaizhibo.tv
 ||zallcn.com
+||zamazc.com
 ||zampda.net
 ||zampdsp.com
 ||zamplink.net
+||zan-shang.com
 ||zanba.com
 ||zanbai.com
 ||zank.mobi
