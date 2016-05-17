@@ -12978,6 +12978,7 @@
 ||fangyouquan.com
 ||fangyuan365.com
 ||fangyunlin.com
+||fangzhou-sz.com
 ||fangzhounet.com
 ||fangzhur.com
 ||fanhcy.com
@@ -14265,6 +14266,7 @@
 ||goodbaby.com
 ||goodbabygroup.com
 ||goodgupiao.com
+||goodid.com
 ||goodjili.com
 ||goodjzjg.com
 ||goodnic.net
@@ -16728,6 +16730,7 @@
 ||ihei5.com
 ||iheidou.com
 ||iheima.com
+||iheima.net
 ||ihengheng.com
 ||ihetou.com
 ||ihezhu.com
@@ -20038,6 +20041,8 @@
 ||lilianxiang.com
 ||lilslb.com
 ||liluping.com
+||lily-collection.com
+||lilysamericandiner.com
 ||lilyst.com
 ||limax.com
 ||limbo-nova.com
@@ -21460,6 +21465,8 @@
 ||minhangshi.com
 ||mini-4wd.net
 ||mini-audio.com
+||mini5cn-1.opera-mini.net
+||mini5cn.opera-mini.net
 ||mini88s.com
 ||minicc.com
 ||minidaxue.com
@@ -25127,6 +25134,7 @@
 ||scdng.com
 ||scfzbs.com
 ||schiy.com
+||scholat.com
 ||schoolgater.com
 ||schrb.com
 ||sci99.com
@@ -26451,6 +26459,7 @@
 ||spdex.com
 ||spdiy.com
 ||spdiy.net
+||spdydns.com
 ||speedtest.xboxlive.com
 ||speedycloud.cc
 ||speiyou.com
@@ -29394,6 +29403,7 @@
 ||wed6.com
 ||wedai.net
 ||wedalian.com
+||wedcable.com
 ||wedding--dresses.ca
 ||wedding86.com
 ||weddingos.com
@@ -29513,6 +29523,7 @@
 ||weixiaoduo.com
 ||weixiaohan.com
 ||weixiaoxin.com
+||weixiaoyan.com
 ||weixin.com
 ||weixin111.com
 ||weixinbang.com
@@ -33824,6 +33835,7 @@
 ||ztbest.com
 ||ztcadx.com
 ||ztehn.com
+||ztemap.com
 ||ztems.com
 ||ztfans.com
 ||ztgame.com
