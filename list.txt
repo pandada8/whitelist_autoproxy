@@ -569,6 +569,7 @@
 ||1001p.com
 ||100580.com
 ||1006.tv
+||10086api.com
 ||10086web.com
 ||100afrc.com
 ||100allin.com
@@ -729,6 +730,7 @@
 ||114cbd.com
 ||114chn.com
 ||114cnbaiducom.com
+||114desk.com
 ||114dg.com
 ||114dhc.com
 ||114dns.com
@@ -884,6 +886,7 @@
 ||125y.com
 ||126.am
 ||126.com
+||126.fm
 ||126.la
 ||126.net
 ||126disk.com
@@ -4520,6 +4523,7 @@
 ||88meishi.com
 ||88mf.com
 ||88mmmoney.com
+||88mob.com
 ||88pets.com
 ||88rpg.net
 ||88tang.com
@@ -6336,6 +6340,7 @@
 ||atwtech.net
 ||auak.com
 ||aubdas.com
+||aucanlink.com
 ||auctionaa.com
 ||audiobar.net
 ||audiocn.com
@@ -6457,6 +6462,7 @@
 ||b-chem.com
 ||b-fairy.com
 ||b-tea.com
+||b086.com
 ||b181.com
 ||b2b-builder.com
 ||b2b110.com
@@ -9447,6 +9453,7 @@
 ||cindasoft.com
 ||cineseitalia.com
 ||ciniao.me
+||cinwell.com
 ||cio-value.com
 ||cio360.net
 ||cio6.com
@@ -11474,6 +11481,7 @@
 ||ditiezu.com
 ||ditu.live.com
 ||ditu100.net
+||ditu6.com
 ||dituge.com
 ||dituhui.com
 ||dituigo.com
@@ -11835,6 +11843,7 @@
 ||doudouxitong.net
 ||doudouyin.com
 ||doudouyuedu.com
+||doufl.com
 ||douglassclub.com
 ||douguo.com
 ||douguo.net
@@ -12828,6 +12837,7 @@
 ||exhera.com
 ||exiaoba.com
 ||exmail.com
+||exmrw.com
 ||exo-mk.com
 ||exotxt.com
 ||expai.com
@@ -16798,6 +16808,7 @@
 ||ijsp.net
 ||ijuer.com
 ||ijunhai.com
+||ijustrun.com
 ||ik123.com
 ||ik6.com
 ||ikafan.com
@@ -26929,6 +26940,7 @@
 ||syy.me
 ||syys8.com
 ||syyx.com
+||sz-acc.com
 ||sz-dns.net
 ||sz-yongping.com
 ||sz1001.net
@@ -27037,6 +27049,7 @@
 ||t.im
 ||t.tt
 ||t00y.com
+||t086.com
 ||t105.com
 ||t1y4.com
 ||t1y5.com
@@ -31281,6 +31294,7 @@
 ||xuitu.com
 ||xukailun.me
 ||xukuang.review
+||xun.me
 ||xunbaozhifu.com
 ||xunbin.com
 ||xunbo.cc
@@ -32939,6 +32953,7 @@
 ||zdic.net
 ||zdlife.com
 ||zdmimg.com
+||zdmimg.xyz
 ||zdnscloud.biz
 ||zdnscloud.com
 ||zdnscloud.info
