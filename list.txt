@@ -955,6 +955,7 @@
 ||138085.com
 ||138292.com
 ||138edu.com
+||138gzs.com
 ||138jm.com
 ||138job.com
 ||138mr.com
@@ -5359,6 +5360,7 @@
 ||adchitu.net
 ||adconfer.com
 ||adcoonfer.com
+||addons.cdn.mozilla.net
 ||addpv.com
 ||adeqo.com
 ||adfarm.mediaplex.com
@@ -6592,6 +6594,7 @@
 ||baihei.net
 ||baihuakm.com
 ||baihui.com
+||baihuoke.com
 ||baiila.com
 ||baijiegroup.com
 ||baijiexiu.com
@@ -6702,6 +6705,7 @@
 ||bangyike.com
 ||bangyouit.com
 ||banjiajia.com
+||banjiamao.com
 ||bank-of-china.com
 ||bankcomm.com
 ||bankgz.com
@@ -6878,6 +6882,7 @@
 ||bbzhi.com
 ||bc797.com
 ||bcactc.com
+||bcbvi.com
 ||bccfw.com
 ||bccn.net
 ||bccv.com
@@ -12941,6 +12946,7 @@
 ||face100.net
 ||faceboer.com
 ||facee.org
+||faceid.com
 ||faceplusplus.com
 ||faceu.mobi
 ||faceui.com
@@ -14149,6 +14155,7 @@
 ||gkstk.com
 ||gkwiki.net
 ||gkz6.net
+||gkzhan.com
 ||gl-data.com
 ||gl-hoyun.com
 ||gl154.com
@@ -18255,6 +18262,7 @@
 ||jn001.com
 ||jn178.com
 ||jnbbbyy.com
+||jndehang.com
 ||jndwyy.com
 ||jnecw.com
 ||jnesc.com
@@ -19989,6 +19997,7 @@
 ||liageren.com
 ||lianaibashi.com
 ||lianaibiji.com
+||lianbijr.com
 ||liangchan.net
 ||liangjan.com
 ||liangjian.com
@@ -22701,6 +22710,7 @@
 ||nuqk.com
 ||nushai.com
 ||nutscn.com
+||nuubao.com
 ||nuuren.com
 ||nuuxie.com
 ||nuxue.com
@@ -23056,6 +23066,7 @@
 ||ourseo.net
 ||ourtra.com
 ||ourtxt.net
+||ourwebat.com
 ||ourwebcdn.com
 ||ourwebcdn.net
 ||ourwebpic.com
@@ -26473,6 +26484,7 @@
 ||soufun.com
 ||soufunimg.com
 ||souge.cc
+||souho.net
 ||souhudy.com
 ||souid.com
 ||souidc.org
@@ -27347,6 +27359,7 @@
 ||tbw-fuzhuang.com
 ||tbw-hufu.com
 ||tbw-xie.com
+||tbwfy.com
 ||tbxt.com
 ||tc-ds2000.com
 ||tc600.com
@@ -30032,6 +30045,7 @@
 ||wode.im
 ||wodecrowd.com
 ||wodedy.com
+||wodeoffice.com
 ||wodeshebao.com
 ||wodiancan.net
 ||wodingche.com
@@ -30328,6 +30342,7 @@
 ||wwwquan.com
 ||wwwwang.com
 ||wwwwasher.com
+||wx135.com
 ||wx521.net
 ||wx8s.com
 ||wxb.com
@@ -33377,6 +33392,7 @@
 ||zhifubao.com
 ||zhifujie.com
 ||zhige.net
+||zhigou.com
 ||zhihu.com
 ||zhihuangjin.com
 ||zhihuisky.com
@@ -33785,6 +33801,7 @@
 ||zjypw.com
 ||zjzffz.com
 ||zjzg.com
+||zk528.com
 ||zk71.com
 ||zkbaoliao.com
 ||zkcx.com
