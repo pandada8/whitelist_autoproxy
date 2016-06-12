@@ -738,6 +738,7 @@
 114dhc.com
 114dns.com
 114dns.net
+114god.com
 114good.com
 114hrb.com
 114huoche.com
@@ -1383,6 +1384,7 @@
 1gbru.com
 1gemofa.com
 1gjh.com
+1haoguo.com
 1hcang.com
 1hdns.com
 1hhd.com
@@ -2424,6 +2426,7 @@
 3snews.net
 3songshu.com
 3ujp.com
+3uol.com
 3utui.com
 3v.do
 3vkj.net
@@ -6590,6 +6593,7 @@ baiduyiyi.com
 baiduyun.me
 baiduyundns.com
 baiduyunpan.wang
+baiduyuns.com
 baiduyunwangpan.com
 baiduyy.com
 baietu.com
@@ -11907,6 +11911,7 @@ doumi.com
 dounai.org
 doupai.cc
 douquwang.com
+doutula.com
 douwanweb.com
 douxie.com
 douxw.net
@@ -13339,6 +13344,7 @@ fevte.com
 fewke.com
 feydj.com
 ff8bb.com
+ffan.com
 ffdns.net
 ffdu.org
 ffdy.cc
@@ -14123,6 +14129,7 @@ gexingpifu.com
 gexingzipai.com
 geyo.com
 gezila.com
+gf-funds.com
 gf-video.com
 gf.cc
 gf517.com
@@ -14952,6 +14959,7 @@ haining.tv
 haipz.com
 haiqq.com
 hair8.net
+hairbobo.com
 hairunmedia.com
 hairunpictures.com
 haishui.cc
@@ -15199,6 +15207,7 @@ happycamp.cc
 happychang.net
 happycodeboy.com
 happyelements.com
+happygaga.com
 happygame.org
 happyjuzi.com
 happymath.org
@@ -16999,6 +17008,7 @@ imaitu.com
 imandarin.net
 imanhua.com
 imatlas.com
+imbatv.com
 imbatv.net
 imbeer.com
 imbusy.me
@@ -18851,6 +18861,7 @@ jzrc.net
 jzsxinyudianqi.com
 jztdc.com
 jztey.com
+jzw.tv
 jzwcom.com
 jzyx.com
 jzzhw.com
@@ -19587,6 +19598,7 @@ kxzmw.com
 ky6.com
 kybapp.com
 kybimg.com
+kyhs.me
 kymjs.com
 kyonli.com
 kyp.com
@@ -20824,6 +20836,7 @@ lwedu.com
 lwgcw.com
 lwgod.com
 lwhouse.com
+lwinst.com
 lwkz.cc
 lwons.com
 lwork.com
@@ -20938,6 +20951,7 @@ macshuo.com
 macx.net
 maczapp.com
 madailicai.com
+madanqq.com
 made-in-china.com
 madefuns.com
 madisonboom.com
@@ -22407,6 +22421,7 @@ neihan1024.com
 neihan8.com
 neihang.me
 neihanshequ.com
+neihantu.cc
 neitui.com
 neitui.me
 nekonazo.com
@@ -23929,6 +23944,7 @@ pyxk.com
 pyxydz.com
 pyyx.com
 pz01.net
+pzhan.com
 pzhccb.com
 pzhht.com
 pzlink.com
@@ -24337,6 +24353,7 @@ qkzz.net
 ql1d.com
 qlbchina.com
 qlcard.com
+qlchat.com
 qlcoder.com
 qlgpy.com
 qlidc.com
@@ -28486,6 +28503,7 @@ uao-online.com
 uavsnews.com
 ubacenter.com
 uban.com
+ubernihao.com
 ubersz.com
 ubetween.com
 ubooo.com
@@ -28894,6 +28912,7 @@ vanke.com
 vans1966.com
 vapee.com
 var4.com
+varhair.com
 variflight.com
 vart.cc
 vartcn.com
@@ -29374,6 +29393,7 @@ wanh5.com
 wanhedoors.com
 wanhongrui.com
 wanhuajing.com
+wanhui365.com
 wanhunet.com
 wanjiaoyu.com
 wanjiashe.com
@@ -33195,6 +33215,7 @@ zfhz.org
 zfimg.com
 zfsc.com
 zft.com
+zg.com
 zg163.net
 zg5.cc
 zgaxr.com
@@ -34064,6 +34085,7 @@ zttdc1.com
 ztxdzx.com
 zu-ba.com
 zuanke8.com
+zuanshi.com
 zuber.im
 zubunet.com
 zuche.com
