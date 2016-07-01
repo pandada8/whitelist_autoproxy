@@ -23,6 +23,7 @@
 ||0027.net
 ||002dh.com
 ||0033.com
+||00394.net
 ||005.tv
 ||00544.com
 ||0056.cc
@@ -2256,6 +2257,7 @@
 ||3737k.com
 ||373f.com
 ||373house.com
+||3761.com
 ||377bbs.com
 ||37937.com
 ||3797play.com
@@ -5320,6 +5322,7 @@
 ||acfun.tv
 ||acg.ac
 ||acg.gg
+||acg.pics
 ||acg.tv
 ||acg12.com
 ||acg2.com
@@ -7326,6 +7329,7 @@
 ||bj-tvart.com
 ||bj1.api.bing.com
 ||bj1777.com
+||bj315.org
 ||bj597.com
 ||bj65z.com
 ||bj73.com
@@ -7422,6 +7426,7 @@
 ||bjtopli.com
 ||bjtu-hedu.com
 ||bjtvnews.com
+||bjweekly.com
 ||bjwj2y.com
 ||bjwmys.com
 ||bjws66.com
@@ -10093,6 +10098,7 @@
 ||cntaijiquan.com
 ||cntaiping.com
 ||cntc.com
+||cntca.com
 ||cntexjob.com
 ||cntheory.com
 ||cntiyu.com
@@ -11315,6 +11321,7 @@
 ||devtang.com
 ||devtian.me
 ||devzeng.com
+||dewmobile.net
 ||deyang5.com
 ||deyi.com
 ||deyi.net
@@ -12260,6 +12267,7 @@
 ||dxwd.com
 ||dxxnews.com
 ||dxy.com
+||dxy.me
 ||dxycdn.com
 ||dxzq.net
 ||dxztc.com
@@ -13575,6 +13583,7 @@
 ||fontke.com
 ||fonts.googleapis.com
 ||fonts.gstatic.com
+||foodgx.com
 ||foodjx.com
 ||foods1.com
 ||foodszs.com
@@ -15982,6 +15991,7 @@
 ||hongshu.com
 ||hongtaikejian.com
 ||hongxin18.com
+||hongxinbao.com
 ||hongxingchajian.com
 ||hongxinghai.com
 ||hongxiu.cc
@@ -19876,6 +19886,7 @@
 ||laozu.com
 ||laozuo.me
 ||laozuo.org
+||lapin365.com
 ||laputachen.com
 ||laravel-china.org
 ||laravel.so
@@ -30418,6 +30429,7 @@
 ||wplat.com
 ||wplux.com
 ||wpmee.com
+||wpsmail.net
 ||wpxap.com
 ||wpxap.mobi
 ||wqc.so
@@ -33105,6 +33117,7 @@
 ||yxen.net
 ||yxfw.com
 ||yxgxsw.com
+||yxhenan.com
 ||yxhi.com
 ||yxhuying.com
 ||yxi.cc
