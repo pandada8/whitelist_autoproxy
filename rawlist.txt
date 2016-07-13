@@ -11677,6 +11677,7 @@ dktime.org
 dky.cc
 dl-mec.com
 dl-origin.ubnt.com
+dl.ubnt.com
 dl.delivery.mp.microsoft.com
 dl.google.com
 dl1234.com
@@ -31684,6 +31685,7 @@ xuekuaiji.com
 xuelema.com
 xueming.li
 xuenb.com
+xueqing.tv
 xueqiu.com
 xueqiu360.com
 xueren.biz
