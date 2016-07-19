@@ -11678,9 +11678,9 @@
 ||dky.cc
 ||dl-mec.com
 ||dl-origin.ubnt.com
-||dl.ubnt.com
 ||dl.delivery.mp.microsoft.com
 ||dl.google.com
+||dl.ubnt.com
 ||dl1234.com
 ||dl321.net
 ||dlassets-ssl.xboxlive.com
@@ -26663,6 +26663,7 @@
 ||sohu.tm
 ||sohucs.com
 ||sohuhistory.com
+||sohuno.com
 ||sohuns.com
 ||sohusce.com
 ||sohuu.com
