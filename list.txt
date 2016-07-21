@@ -9981,6 +9981,7 @@
 ||cnkore.com
 ||cnkszx.com
 ||cnkuai.com
+||cnlabs.net
 ||cnlaw.net
 ||cnledw.com
 ||cnlightnet.com
@@ -29969,6 +29970,7 @@
 ||weizhifeng.net
 ||weizhishu.com
 ||weizoom.com
+||welansh.com
 ||weleve.com
 ||welian.com
 ||well8.com
