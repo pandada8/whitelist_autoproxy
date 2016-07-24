@@ -4913,6 +4913,7 @@
 95060.com
 95081.com
 95095.com
+9513.com
 9518.com
 95191.com
 95195.com
@@ -7207,6 +7208,7 @@ big-shanghai.com
 bigao123.com
 bigc.at
 bigdata.ren
+bigehudong.com
 bigemao.com
 bigerdata.com
 bigf00t.net
@@ -8523,6 +8525,7 @@ cfdaguanjia.com
 cfdp.org
 cfdtlee.com
 cff666.biz
+cffw.net
 cfhot.com
 cfhpc.org
 cfjs.cc
@@ -16652,6 +16655,7 @@ hzylpco.com
 hzyz.net
 hzzsbbs.com
 i-27.name
+i-520.net
 i-ab.com
 i-ab.in
 i-ab.org
@@ -26427,6 +26431,7 @@ sishuok.com
 sisijiyi.com
 sisijp.com
 sisituan.com
+sisiww.com
 sisuzk.org
 siswin.com
 sitcoffee.com
@@ -30801,6 +30806,7 @@ xbauto.com
 xbbdclaw.com
 xbeta.info
 xbext.com
+xbfh.net
 xbfqw.com
 xbiao.com
 xbidc.com
@@ -32158,6 +32164,7 @@ yezhanjun.net
 yezizhu.com
 yf-ws.com
 yfcdn.net
+yfcnn.com
 yfinvest.com
 yfjiakao.com
 yfju.com
@@ -33958,6 +33965,7 @@ zhuhaily.com
 zhuhaolin.com
 zhuimm.com
 zhuinvsheng.com
+zhuiqu.com
 zhuishushenqi.com
 zhuixingwang.com
 zhuixue.net
