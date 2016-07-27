@@ -9192,6 +9192,7 @@
 ||chinamining.com
 ||chinamobile.com
 ||chinamp3.com
+||chinamsa.org
 ||chinamsr.com
 ||chinamypp.com
 ||chinanbb.com
@@ -22604,6 +22605,7 @@
 ||netease.com
 ||netease.im
 ||netease.net
+||netech-expo.com
 ||netentsec.com
 ||netfoucs.com
 ||netgamecar.com
@@ -29986,6 +29988,7 @@
 ||welansh.com
 ||weleve.com
 ||welian.com
+||welife100.com
 ||well8.com
 ||wellpie.com
 ||welltrend-edu.com
@@ -32633,6 +32636,7 @@
 ||yopin8.com
 ||yospan.net
 ||yotosee.com
+||yotta800.com
 ||you157.com
 ||you1ke.com
 ||you37.com
@@ -33295,6 +33299,7 @@
 ||yzzaoxing.com
 ||yzzs.cc
 ||z-44.com
+||z4a.net
 ||z4bbs.com
 ||z4m3.com
 ||z4root.net
