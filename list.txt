@@ -11629,6 +11629,7 @@
 ||diy.cc
 ||diybeta.com
 ||diybuy.net
+||diycode.cc
 ||diyer.so
 ||diyiapp.com
 ||diyiauto.com
@@ -11806,6 +11807,7 @@
 ||dnscto.net
 ||dnsddos.com
 ||dnsdiy.com
+||dnsdizhi.com
 ||dnsdun.com
 ||dnsdun.net
 ||dnsf8.com
@@ -17364,6 +17366,7 @@
 ||ipc.me
 ||ipcool.info
 ||ipcpu.com
+||ipdaili.com
 ||ipfog.com
 ||iphonelingsheng.com
 ||iphonespirit.com
@@ -32501,6 +32504,7 @@
 ||yizenb.com
 ||yizhanzx.com
 ||yizhenzhai.com
+||yizhibo.com
 ||yizhibo.tv
 ||yizhihongxing.com
 ||yizhoucaifu.com
