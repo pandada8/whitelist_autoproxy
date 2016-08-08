@@ -2180,6 +2180,7 @@
 ||365huaer.com
 ||365ibank.com
 ||365if.com
+||365jcw.com
 ||365jia.com
 ||365jiehun.com
 ||365jilin.com
@@ -10519,6 +10520,7 @@
 ||crazyenglish.org
 ||crazyphper.com
 ||crbeverage.com
+||crcpp.org
 ||crcrfsp.com
 ||crct.com
 ||creatby.com
@@ -13117,6 +13119,7 @@
 ||ezdnscenter.com
 ||ezhangdan.com
 ||ezhaobiao.com
+||ezhuang.cc
 ||ezhun.com
 ||eznowdns.com
 ||eznowdns.net
@@ -13167,6 +13170,7 @@
 ||fadesky.com
 ||fadfunds.com
 ||fadianying.com
+||fadior.cc
 ||fadoushi.com
 ||fadui.com
 ||fafawang.com
@@ -15453,6 +15457,7 @@
 ||hbxiyuan.com
 ||hbyidu.com
 ||hbyspx.com
+||hbzjr.com
 ||hbzkw.com
 ||hbzlw.com
 ||hbzwl.com
@@ -15969,6 +15974,7 @@
 ||hnfjx.com
 ||hnfjz.com
 ||hngawj.net
+||hngican.com
 ||hnguanhao.com
 ||hngyzx.org
 ||hnhaitian.com
@@ -15981,6 +15987,7 @@
 ||hnjing.net
 ||hnjkw.net
 ||hnjn.net
+||hnjsbs.com
 ||hnlungtongzs.com
 ||hnmgjr.com
 ||hnmuseum.com
@@ -16264,6 +16271,7 @@
 ||htsec.com
 ||htsh.cc
 ||htship.com
+||http-cache.com
 ||httpcn.com
 ||htwbb.com
 ||hty.cc
@@ -17960,8 +17968,10 @@
 ||jerryzou.com
 ||jesgoo.com
 ||jeswang.org
+||jetsum.com
 ||jf1898.com
 ||jf9p.com
+||jfbuilding.com
 ||jfdaily.com
 ||jfdown.com
 ||jfedu.net
@@ -20866,6 +20876,7 @@
 ||lpswz.com
 ||lpxt.com
 ||lpydz.com
+||lq328.com
 ||lq580.com
 ||lqart.com
 ||lqbj.com
@@ -23424,6 +23435,7 @@
 ||p-oa.com
 ||p1.com
 ||p2220.com
+||p2cdn.com
 ||p2p001.com
 ||p2p110.com
 ||p2p178.com
@@ -23780,6 +23792,7 @@
 ||pig66.com
 ||pigai.org
 ||pigzz.com
+||piimg.com
 ||pimei.com
 ||pin-ad.com
 ||pin-color.net
@@ -24153,6 +24166,7 @@
 ||putclub.com
 ||putop.net
 ||putty.ws
+||pvc123.com
 ||pvkj.com
 ||pvmama.com
 ||pwxqw.com
@@ -25110,6 +25124,7 @@
 ||remotedu.com
 ||renai19.com
 ||renailady.com
+||renaoapp.com
 ||renchoubao.com
 ||rendairen.com
 ||rendease.com
@@ -26357,6 +26372,7 @@
 ||shxiaoran.com
 ||shxibeiquanshe.com
 ||shxinke.net
+||shxuke.com
 ||shxwcb.com
 ||shyacz.com
 ||shyanke.com
@@ -26814,6 +26830,7 @@
 ||sos919.com
 ||sosaw.com
 ||sosg.net
+||soshoo.com
 ||soso.com
 ||soso021.com
 ||soso2009.com
@@ -27221,6 +27238,7 @@
 ||supfree.net
 ||supjsy.com
 ||supmen.com
+||supmil.net
 ||suppig.net
 ||support-cn.samsung.com
 ||supra-shoes.org
@@ -29432,6 +29450,7 @@
 ||vsnoon.com
 ||vsnoon.net
 ||vsnoon.org
+||vsochina.com
 ||vspk.com
 ||vspk.net
 ||vsread.com
@@ -30205,6 +30224,7 @@
 ||whlynk.com
 ||whmama.com
 ||whmetroad.com
+||whnfc.com
 ||whoiscn.com
 ||whoolala.com
 ||whopfun.com
@@ -30218,6 +30238,8 @@
 ||whrsj.org
 ||whsyxx.com
 ||whsyy.net
+||whtcm.com
+||whtcm.net
 ||whtmhh.com
 ||whuh.com
 ||whusf.com
