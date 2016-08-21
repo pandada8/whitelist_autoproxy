@@ -1709,6 +1709,7 @@
 253.com
 253u.com
 255616.com
+255star.com
 256.cc
 256cha.com
 256game.com
@@ -2482,6 +2483,7 @@
 4001890001.com
 4001961200.com
 400516.com
+4006008080.com
 4006024680.com
 4006055885.com
 4006287387.com
@@ -3557,6 +3559,7 @@
 5ding.com
 5djbb.com
 5djianli.com
+5djiaren.com
 5dmail.net
 5dmgame.com
 5dplay.net
@@ -13656,6 +13659,7 @@ fjjsp01.com
 fjm.name
 fjndwb.com
 fjnet.com
+fjpqcz.com
 fjsdfz.org
 fjsen.com
 fjsogou.net
@@ -17273,6 +17277,8 @@ im87.net
 im9.com
 image.xboxlive.com
 image123.msn.com
+images-cn-4.ssl-images-amazon.com
+images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 images.benchmarkemail.com
 images.nvidia.com
@@ -18382,6 +18388,7 @@ jinhuazhe.com
 jinhuo5.com
 jinhusns.com
 jinjia.la
+jinjiang.com
 jinjianginns.com
 jinkan.org
 jinke3d.com
