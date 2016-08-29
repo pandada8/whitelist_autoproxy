@@ -336,6 +336,7 @@
 ||0578zhaopin.com
 ||0579com.com
 ||0591job.com
+||0592-xm.com
 ||05927.com
 ||0592dsw.com
 ||0592jj.com
@@ -8981,6 +8982,7 @@
 ||china-huaxue.com
 ||china-insurance.com
 ||china-invests.net
+||china-jike.com
 ||china-key.com
 ||china-kids-expo.com
 ||china-led.net
@@ -20042,6 +20044,7 @@
 ||lamiu.com
 ||lamost.org
 ||lampbrother.net
+||lampouomo.com
 ||lampw.com
 ||lampweb.org
 ||lampym.com
@@ -25254,6 +25257,7 @@
 ||rcwl.net
 ||rczzxs.com
 ||rdsj5.com
+||rdtuijian.com
 ||rdxmt.com
 ||rdxw8.com
 ||rdypd.com
@@ -26487,6 +26491,7 @@
 ||shuaji.net
 ||shuajizhijia.com
 ||shuajizhijia.net
+||shualexa.com
 ||shuame.com
 ||shuame.la
 ||shuangtao.com
@@ -29099,6 +29104,7 @@
 ||uibmm.com
 ||uicom.net
 ||uid75.com
+||uidesign.cc
 ||uiej.com
 ||uimaker.com
 ||uirss.com
@@ -29482,6 +29488,7 @@
 ||verydns.net
 ||verydz.com
 ||veryevent.com
+||verygslb.com
 ||veryhaitao.com
 ||veryhd.net
 ||veryhuo.com
@@ -29658,6 +29665,7 @@
 ||vrbig.com
 ||vrbrothers.com
 ||vrcan.com
+||vrcdkj.com
 ||vrcfo.com
 ||vrerse.com
 ||vrjie.com
@@ -30047,6 +30055,7 @@
 ||wdk.pw
 ||wdku.net
 ||wdl.so
+||wdliuxue.com
 ||wdly.net
 ||wdqh.net
 ||wdres.com
@@ -30533,6 +30542,7 @@
 ||win9008.com
 ||win9cn.com
 ||winapp111.mobi
+||winasdaq.com
 ||winbbs.net
 ||winbei.com
 ||winbosmart.com
@@ -32013,6 +32023,7 @@
 ||xtuan.com
 ||xtutu.me
 ||xtxhg.com
+||xtzj.com
 ||xuancheng.org
 ||xuande99.com
 ||xuandui.me
@@ -32345,6 +32356,7 @@
 ||yantaibank.net
 ||yantaimarket.com
 ||yantaiperzina.com
+||yantubao.com
 ||yanue.net
 ||yanwenzi.com
 ||yanxiaoluo.com
@@ -32508,6 +32520,7 @@
 ||yetu.net
 ||yewuyuan.com
 ||yeyeapp.in
+||yeyeshow.tv
 ||yeyetech.net
 ||yeyo.cc
 ||yeyou.com
@@ -33373,6 +33386,7 @@
 ||yulore.com
 ||yumeiren.me
 ||yumi.cc
+||yumi.com
 ||yumimobi.com
 ||yumingguwen.com
 ||yuminstall.com
