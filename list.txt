@@ -10383,6 +10383,7 @@
 ||console-service-ssl.halo.xbox.com
 ||console-service.halo.xbox.com
 ||consuargensh.com
+||content.nike.com
 ||contentchina.net
 ||contentscache.net
 ||contessecoco.com
@@ -11175,6 +11176,7 @@
 ||darryring.com
 ||dartou.com
 ||daruan.com
+||dashangcloud.com
 ||dashangmall.com
 ||dashangu.com
 ||dashanshizi.com
@@ -14404,6 +14406,7 @@
 ||gexingpifu.com
 ||gexingzipai.com
 ||geyo.com
+||gezbox.com
 ||gezila.com
 ||gf-funds.com
 ||gf-video.com
@@ -14532,6 +14535,7 @@
 ||globalhardwares.com
 ||globalimporter.net
 ||globalmil.com
+||globalsigncdn.com
 ||globeauto.org
 ||globeimmi.com
 ||glodon.com
@@ -16557,6 +16561,7 @@
 ||hui800.net
 ||huians.com
 ||huibo.com
+||huicaiba.com
 ||huicaotan.com
 ||huiche100.com
 ||huichexiang.net
@@ -21349,6 +21354,7 @@
 ||magedu.com
 ||magentochina.org
 ||magentonotes.com
+||magicexif.cc
 ||magicleaders.com
 ||magictea.xyz
 ||magicwatchface.com
@@ -23300,6 +23306,8 @@
 ||oceanol.com
 ||ocimg.com
 ||ocooca.com
+||ocsp.globalsign.com
+||ocsp2.globalsign.com
 ||octinn.com
 ||octo.fm
 ||octocard.in
@@ -25907,6 +25915,7 @@
 ||secoo.com
 ||secooimg.com
 ||secretmine.net
+||secure-nikeplus.nike.com
 ||secutimes.com
 ||secwk.com
 ||see-say.com
@@ -27306,6 +27315,7 @@
 ||stonexp.com
 ||stor-age.com
 ||store-images.s-microsoft.com
+||store.nike.com
 ||store.samsung.com
 ||store.storeimages.cdn-apple.com
 ||stormcodec.com
@@ -28072,6 +28082,7 @@
 ||tesehao.com
 ||tesoon.com
 ||test-edu.net
+||test3g.com
 ||testbird.com
 ||testerhome.com
 ||teteam.com
@@ -31003,6 +31014,7 @@
 ||www.intel.com
 ||www.jsdelivr.net
 ||www.mrporter.com.gccdn.net
+||www.nike.com
 ||www.qoo10.com
 ||www.renren.com.cdngc.net
 ||www.samsung.com
@@ -31044,6 +31056,7 @@
 ||wxmovie.com
 ||wxrb.com
 ||wxreallink.com
+||wxrw123.com
 ||wxscreen.com
 ||wxstb.com
 ||wxtu7.win
@@ -31792,6 +31805,7 @@
 ||xiuzilady.com
 ||xiwanglife.com
 ||xiwenquan.com
+||xiwuji.com
 ||xixihd.com
 ||xixijiji.com
 ||xixik.com
@@ -32762,6 +32776,7 @@
 ||yiqianyan.com
 ||yiqiao88.com
 ||yiqibazi.com
+||yiqibing.com
 ||yiqicg.net
 ||yiqifa.com
 ||yiqifei.com
