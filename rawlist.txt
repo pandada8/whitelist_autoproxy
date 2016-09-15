@@ -2137,6 +2137,7 @@
 360qc.com
 360qws.com
 360safe.com
+360shouji.com
 360shuoshuo.com
 360top.com
 360totalsecurity.com
@@ -2907,6 +2908,7 @@
 51img5.com
 51ios.net
 51ipa.com
+51iwifi.com
 51jam.com
 51jetso.com
 51jiabo.com
@@ -3053,6 +3055,7 @@
 51wofang.com
 51wp.com
 51wuduan.com
+51wxjz.com
 51wydj.com
 51wyrc.com
 51wzg.com
@@ -3529,6 +3532,7 @@
 591yhw.com
 5925car.com
 592ht.com
+592kx.com
 592sifu.com
 592wg.cc
 592xyx.com
@@ -3606,6 +3610,7 @@
 5icomment.com
 5icool.org
 5ifit.com
+5iflying.com
 5ifund.com
 5ihaha.com
 5ihse.com
@@ -4111,6 +4116,7 @@
 7517.cc
 75184.com
 752g.com
+7536211.com
 753d.com
 755abc.com
 756u.com
@@ -5633,6 +5639,7 @@ aici.ren
 aicu8.com
 aicunfu.com
 aidafen.com
+aidai.com
 aidangbao.com
 aideschool.com
 aidiao.com
@@ -6963,6 +6970,7 @@ bblpark.com
 bbonfire.com
 bbpose.com
 bbrtv.com
+bbs.htc.com
 bbs029.com
 bbs1x.net
 bbsblog.net
@@ -7559,6 +7567,9 @@ blnjw.com
 blnovel.com
 blockcn.net
 blockmeta.com
+blog.htc.com
+blog.htcvive.com
+blog.vive.com
 blog007.com
 blog1984.com
 blogbus.com
@@ -7715,6 +7726,7 @@ bossgoo.com
 bosshr.com
 bosszhipin.com
 bosunman.com
+botchina.org
 boting.co
 boweifeng.com
 bowin8.com
@@ -7891,6 +7903,7 @@ burongyi.com
 buruizi.com
 bus168.com
 bus84.com
+busdh.com
 bushome.net
 bushu.us
 business996.com
@@ -10070,6 +10083,7 @@ cnki.net
 cnkinect.com
 cnkjtf.com
 cnkjz.com
+cnkok.com
 cnkore.com
 cnkszx.com
 cnkuai.com
@@ -10408,6 +10422,7 @@ consuargensh.com
 content.nike.com
 contentchina.net
 contentscache.net
+contentstore.htcvive.com
 contessecoco.com
 control.cdnetworks.com.gccdn.net
 control.cdnetworks.com
@@ -10637,6 +10652,7 @@ crystalcg.com
 crystaledu.com
 cryuantafund.com
 cs-air.com
+cs-analytics.htcsense.com
 cs-show.com
 cs002.com
 cs027.com
@@ -11223,6 +11239,7 @@ datang.com
 datang.net
 dataodu.com
 datapanda.net
+datasecurity.htcsense.com
 datasheet5.com
 datathinking.com
 dataunion.net
@@ -11324,6 +11341,7 @@ dd.ma
 dd321.com
 dd373.com
 dd4.com
+ddbchina.com
 ddbearing.com
 ddbig.com
 ddcdn.com
@@ -11440,6 +11458,8 @@ dev-hf.com
 dev4living.com
 devdiv.com
 devdown.com
+developer.htcvive.com
+developer.vive.com
 devework.com
 devexpresscn.com
 devopscn.com
@@ -12816,6 +12836,7 @@ efubo.com
 efueloil.com
 efwang.com
 egfcare.com
+egg.htcsense.com
 ego.cc
 egonetworks.org
 egooad.com
@@ -13082,6 +13103,7 @@ eshenan.com
 eshenlin.com
 eshimai.com
 eshimin.com
+eshop.htc.com
 eshow365.com
 eshuba.com
 eshufa.com
@@ -14459,8 +14481,10 @@ geneworldcn.com
 gengnew.com
 gensee.com
 genshuixue.com
+gentags.com
 gentags.net
 genzhuang.org
+geo-prism.htcsense.com
 geo.kaspersky.com
 geochina.com
 geospatialsmart.com
@@ -15242,6 +15266,7 @@ h0758.net
 h2ex.com
 h2os.com
 h4.cc
+h5-legend.com
 h5-share.com
 h515.net
 h5gal.net
@@ -15994,6 +16019,7 @@ hi1718.com
 hi2000.com
 hi2000.net
 hi486.com
+hi52z.com
 hi767.com
 hiao.com
 hiapic.com
@@ -16754,6 +16780,7 @@ huntkeydiy.com
 hunuo.com
 huo80.com
 huoban.com
+huobanmall.com
 huobaoyx.com
 huobi.com
 huocc.com
@@ -16846,6 +16873,7 @@ hx2car.com
 hx8666.com
 hx8886.com
 hx95.com
+hx99.win
 hx9999.com
 hxag.com
 hxage.com
@@ -19581,6 +19609,7 @@ kepuchina.org
 kepusky.com
 kerang.faith
 kerunwh-edu.com
+kesci.com
 kesense.com
 kesion.com
 kesum.com
@@ -19681,6 +19710,7 @@ kiyoha.com
 kjcad.net
 kjcity.com
 kjcxpp.com
+kjduobao.com
 kjeport.com
 kjiuye.com
 kjj.com
@@ -19739,6 +19769,7 @@ klxkc.com
 klxsw.com
 klxuexi.com
 km18.net
+km1818.com
 km998.com
 kmail.com
 kmg898.com
@@ -21786,6 +21817,7 @@ me4399.com
 meadin.com
 mechr.com
 mechrevo.com
+mecoxlane.com
 med-water.com
 med66.com
 medai360.com
@@ -24392,6 +24424,7 @@ ppwan.com
 ppwwyyxx.com
 ppxclub.com
 ppys.net
+ppzuche.com
 prada2.com
 prcedu.com
 prdblog.com
@@ -25527,6 +25560,7 @@ rexsee.com
 rexsong.com
 rexuedongman.com
 rexuemil.com
+rexzoudesign.com
 reyinapp.com
 reyoo.com
 reyoo.net
@@ -27400,6 +27434,8 @@ starrysurvey.com
 starscentury.com
 starsino.com
 starswar.org
+start.htc.com
+start.htcsense.com
 starting2000.com
 startos.com
 startup-partner.com
@@ -27524,6 +27560,7 @@ sugon.com
 suibi8.com
 suibianla.com
 suibiji.com
+suicloud.com
 suijue.com
 suileyoo.com
 suimengxiaoshuo.com
@@ -28092,6 +28129,7 @@ tattoos010.com
 taxwen.com
 tayjy.com
 tayohya.com
+tb.am
 tb125.com
 tb1u.com
 tbcache.com
@@ -30825,6 +30863,7 @@ wlstock.com
 wlstz.com
 wluoke.com
 wm090.com
+wm18.com
 wmcloud.com
 wmcn.com
 wmedias.com
@@ -30832,6 +30871,7 @@ wmgm.org
 wmiao.com
 wmljw.com
 wmorz.com
+wmota.htcsense.com
 wmp169.com
 wmpic.me
 wmsub.com
@@ -31170,6 +31210,9 @@ www.appinn.com
 www.bing.com
 www.cg
 www.givaudan.cn.gccdn.net
+www.htc.com
+www.htcsense.com
+www.htcvive.com
 www.ikea.com
 www.intel.com
 www.jsdelivr.net
@@ -31184,6 +31227,7 @@ www.sulwhasoo.com
 www.supplyon.com.dna.cdngd.net
 www.supplyon.com.gccdn.net
 www.supplyon.com
+www.vive.com
 wwwimages.adobe.com
 wwwljw408.com
 wwwquan.com
@@ -31881,6 +31925,7 @@ xintian.org
 xintuofalv.com
 xinweicook.com
 xinweiyunmeng.website
+xinwen520.net
 xinwendog.com
 xinwengao.net
 xinwenge.net
@@ -34796,6 +34841,7 @@ znw.me
 znyp.com
 znyseo.com
 znznet.net
+zocai.com
 zodiac.wang
 zofund.com
 zokstar.com
