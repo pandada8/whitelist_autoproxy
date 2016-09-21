@@ -3243,6 +3243,7 @@
 ||52qixiang.com
 ||52qiyi.cc
 ||52qj.com
+||52qmct.com
 ||52qudao.com
 ||52qupu.com
 ||52ra3.com
@@ -5931,6 +5932,7 @@
 ||allzhaopin.com
 ||alma-intl.com
 ||alongsky.com
+||alphadn.com
 ||altfarm.mediaplex.com
 ||altxw.com
 ||alu1886.com
@@ -7908,6 +7910,7 @@
 ||bus168.com
 ||bus84.com
 ||busdh.com
+||bushangban.com
 ||bushome.net
 ||bushu.us
 ||business996.com
@@ -10500,6 +10503,7 @@
 ||cozyee.com
 ||cp2y.com
 ||cpbao.com
+||cpc.cc
 ||cpcv.cc
 ||cpdyj.com
 ||cphoto.net
@@ -11027,6 +11031,7 @@
 ||dabingseo.com
 ||dabo8.com
 ||dabu.info
+||dabusi.com
 ||dacai.com
 ||dachanet.com
 ||dachaobai.com
@@ -15475,6 +15480,7 @@
 ||hao123.com
 ||hao12309.com
 ||hao123img.com
+||hao222.com
 ||hao224.com
 ||hao245.com
 ||hao315.cc
@@ -16200,6 +16206,7 @@
 ||hm120.com
 ||hm16888.net
 ||hm86.com
+||hmclsoft.com
 ||hmecw.com
 ||hmlan.com
 ||hmp33.com
@@ -18205,6 +18212,7 @@
 ||jdcache.com
 ||jdcapital.com
 ||jdcdn.com
+||jdcf88.com
 ||jdcq.net
 ||jdd.com
 ||jddb.net
@@ -20039,6 +20047,7 @@
 ||kukupao.com
 ||kukuplay.com
 ||kukuspeak.com
+||kukuw.com
 ||kulekan.com
 ||kulengvps.com
 ||kuliqiang.com
@@ -22114,6 +22123,7 @@
 ||miexue.com
 ||mifangba.com
 ||mifei.com
+||mifispark.com
 ||mihayo.com
 ||mihoyo.com
 ||mihtool.com
@@ -23921,6 +23931,7 @@
 ||parischerie.com
 ||parnassusdata.com
 ||passby.me
+||passcdn.com
 ||passport.lenovo.com
 ||passportmanagement.com
 ||passvpn.com
@@ -25558,6 +25569,7 @@
 ||res.office365.com
 ||res.outlook.com
 ||resgain.net
+||resheji.com
 ||resources.bmj.com.gccdn.net
 ||respect-lab.com
 ||respondaudio.com
@@ -26080,6 +26092,7 @@
 ||sdylds.com
 ||sdyuanbao.com
 ||sdzckqf.com
+||se7c.com
 ||sea-gullmall.com
 ||sea789.com
 ||seacha.com
@@ -26152,6 +26165,7 @@
 ||settings.xboxlive.com
 ||sewzm.com
 ||sex618.org
+||sf-card.com
 ||sf-express.com
 ||sf-pay.com
 ||sf.gg
@@ -27505,6 +27519,7 @@
 ||store.samsung.com
 ||store.storeimages.cdn-apple.com
 ||stormcodec.com
+||stormorai.com
 ||storworld.com
 ||storyboardworld.com
 ||storyday.com
@@ -29640,6 +29655,7 @@
 ||vankang.com
 ||vanke.com
 ||vankeservice.mobi
+||vankeweekly.com
 ||vans1966.com
 ||vapee.com
 ||var4.com
@@ -30677,6 +30693,7 @@
 ||whkingdom.com
 ||whkjhz.com
 ||whlawyer.net
+||whli010.com
 ||whlongre.com
 ||whly56.com
 ||whlynk.com
@@ -30919,6 +30936,7 @@
 ||wode.im
 ||wodecrowd.com
 ||wodedy.com
+||wodemeitu.com
 ||wodeoffice.com
 ||wodeshebao.com
 ||wodiancan.net
@@ -32807,6 +32825,7 @@
 ||yhwsn.com
 ||yhxx.com
 ||yhzx.cc
+||yi-jy.com
 ||yi114.com
 ||yi6.com
 ||yi7.com
@@ -34825,6 +34844,7 @@
 ||zmdz.com
 ||zmgov.com
 ||zmidc.com
+||zmifi.com
 ||zmingcx.com
 ||zmjiudian.com
 ||zmk.tw
