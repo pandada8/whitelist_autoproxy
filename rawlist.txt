@@ -123,6 +123,7 @@
 021wudi.com
 021wyzx.com
 021yongzhuo.com
+022aifang.com
 022china.com
 022meishu.com
 022net.com
@@ -5939,6 +5940,7 @@ aliyun-inc.com
 aliyun.com
 aliyuncdn.com
 aliyuncs.com
+aliyunduncc.com
 aliyungf.com
 alkuyi.com
 all-ipad.net
@@ -6007,6 +6009,7 @@ anav.com
 anchi-china.com
 ancun.com
 andaike.com
+andouw.com
 andpay.me
 andreader.com
 android-doc.com
@@ -14033,6 +14036,7 @@ fqsszx.com
 fqxsw.com
 fqzww.com
 fr-odc.samsungapps.com.gccdn.net
+fr-odc.samsungapps.com
 fr-trading.com
 francedupont.com
 francissoung.com
@@ -14957,6 +14961,7 @@ goweb2.net
 goweb3.net
 gowinlease.com
 gowinxp.com
+goyihu.com
 gozap.com
 gp-cdn.net
 gp577.com
@@ -17089,6 +17094,7 @@ hzvillas.com
 hzwer.com
 hzwmw.com
 hzwsjyjt.com
+hzxihuhotels.com
 hzyestar.com
 hzylpco.com
 hzyz.net
@@ -17603,6 +17609,7 @@ imexue.com
 img-cdn.mediaplex.com
 img-space.com
 img.mediaplex.com
+img.samsungapps.com
 img1.appinn.com
 img1.wsimg.com
 img168.net
@@ -20546,6 +20553,7 @@ ledong100.com
 ledongzone.com
 ledth.com
 ledu.com
+ledu365.com
 leduimg.com
 ledwn.com
 leeco.com
@@ -20914,6 +20922,7 @@ lingxd.com
 lingyinsi.com
 lingyinsi.org
 lingyu.me
+lingyun.net
 lingyun5.com
 lingyunetwork.com
 lining.com
@@ -21556,6 +21565,7 @@ lyrc.cc
 lysk.net
 lysqzs.com
 lyun.me
+lyunweb.com
 lyvnee.com
 lywww.com
 lyyzfx.net
@@ -26221,6 +26231,7 @@ sdwsjzxx.com
 sdwxyx.com
 sdxapp.com
 sdxlsw.com
+sdxsdc.com
 sdxvisa.com
 sdycee.com
 sdycxw.com
@@ -28128,6 +28139,7 @@ taiee.net
 taig.com
 taigpro.com
 taihainet.com
+taihanghotel.com
 taihaocn.com
 taihell.com
 taihuoniao.com
@@ -29064,6 +29076,7 @@ ttdong.com
 ttdtweb.com
 ttedu.org
 ttgj.tw
+tth1688.com
 tthbw.com
 ttigame.com
 ttjd365.com
@@ -29491,6 +29504,7 @@ ujisu.com
 ujiuye.com
 ujsbbs.com
 uk-edu.com
+uk-odc.samsungapps.com
 ukcbcc.com
 ukejisong.com
 uker.net
@@ -31965,6 +31979,8 @@ xihawan8.com
 xihuan.me
 xihuanqian.com
 xihuojie.com
+xihusgh.com
+xihustateguesthangzhou.com
 xiji.com
 xijiangonline.com
 xijupian.cc
@@ -33154,6 +33170,7 @@ yinhangzhaopin.com
 yinhezaoqi.com
 yinhu.com
 yinhuocaifu.com
+yini.me
 yini.org
 yinjiaji.com
 yinke.com
@@ -33268,6 +33285,7 @@ yiyingt.com
 yiyo3g.com
 yiyou.tv
 yiyu.com
+yiyuansoft.com
 yiyuanyi.org
 yizaoyiwan.com
 yizenb.com
