@@ -4008,6 +4008,7 @@
 ||6edigital.com
 ||6funs.com
 ||6g.com
+||6g5b.info
 ||6gdown.com
 ||6gh4.com
 ||6ght.com
@@ -5097,6 +5098,7 @@
 ||97go.com
 ||97hs.com
 ||97kf.com
+||97ting.com
 ||97ui.com
 ||97uimg.com
 ||97yingyuan.com
@@ -5516,6 +5518,7 @@
 ||adidasevents.com
 ||adiic.com
 ||adinall.com
+||adinallcdn.com
 ||adirects.com
 ||adjie.com
 ||adjuz.com
@@ -7347,6 +7350,7 @@
 ||bigemao.com
 ||bigerdata.com
 ||bigf00t.net
+||bigniu.com
 ||bignox.com
 ||bigqiao.com
 ||bigsheji.com
@@ -10620,6 +10624,7 @@
 ||cplusplus.me
 ||cpmok.net
 ||cpooo.com
+||cpp-summit.org
 ||cpp114.com
 ||cpp1x.org
 ||cppblog.com
@@ -15609,6 +15614,7 @@
 ||handbb.com
 ||handianying.com
 ||handison.com
+||handone.com
 ||handongxu.net
 ||handpi.net
 ||handu.com
@@ -16030,6 +16036,7 @@
 ||hejun.com
 ||heku.org
 ||helijia.com
+||hello-code.com
 ||hello-mom.com
 ||hellocache.net
 ||hellof1.com
@@ -18523,6 +18530,7 @@
 ||jhhunli.net
 ||jhjcjj.com
 ||jhkjms.com
+||jhlxb.com
 ||jhm2012.com
 ||jhnsh.com
 ||jhtong.net
@@ -18575,6 +18583,7 @@
 ||jiandan.biz
 ||jiandan.net
 ||jiandana.com
+||jiandaoyun.com
 ||jiando.com
 ||jiane86.com
 ||jianfanjia.com
@@ -25365,6 +25374,7 @@
 ||qq.com
 ||qq.net
 ||qq1234.org
+||qq1314.net
 ||qq163.cc
 ||qq181.com
 ||qq190.com
@@ -26809,6 +26819,7 @@
 ||shijiemingren.com
 ||shijieshangzuihaodeyuyan.com
 ||shijieyouxi.com
+||shijieyunlian.com
 ||shijihr.com
 ||shijihulian.com
 ||shijijiuzhou.com
@@ -33153,6 +33164,7 @@
 ||yeezhe.com
 ||yegame.com
 ||yegenyou.com
+||yehualu.in
 ||yejinye.com
 ||yelanxiaoyu.com
 ||yelixiali.com
@@ -33245,6 +33257,7 @@
 ||yi7.com
 ||yi71.com
 ||yiai.cc
+||yiapp.com
 ||yibanglv.com
 ||yibei.com
 ||yibizi.com
